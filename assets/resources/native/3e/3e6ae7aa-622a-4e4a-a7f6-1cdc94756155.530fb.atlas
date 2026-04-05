@@ -1,0 +1,174 @@
+
+build_chest.png
+size: 359,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 68
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 239, 429
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 2, 271
+  size: 235, 241
+  orig: 257, 269
+  offset: 11, 14
+  index: -1
+h_1
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_10
+  rotate: false
+  xy: 200, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_11
+  rotate: false
+  xy: 226, 73
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_12
+  rotate: false
+  xy: 266, 7
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_13
+  rotate: false
+  xy: 292, 231
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_14
+  rotate: false
+  xy: 242, 165
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_15
+  rotate: false
+  xy: 292, 99
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_2
+  rotate: false
+  xy: 176, 205
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_3
+  rotate: false
+  xy: 293, 363
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_4
+  rotate: false
+  xy: 176, 139
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_5
+  rotate: false
+  xy: 94, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_6
+  rotate: false
+  xy: 293, 297
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_7
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_8
+  rotate: false
+  xy: 134, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_16
+  rotate: false
+  xy: 134, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_9
+  rotate: false
+  xy: 160, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 337, 481
+  size: 18, 31
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 121, 135
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 145
+  size: 117, 124
+  orig: 119, 126
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 239, 328
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 121, 168
+  size: 53, 101
+  orig: 53, 101
+  offset: 0, 0
+  index: -1

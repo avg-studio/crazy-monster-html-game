@@ -1,0 +1,20 @@
+
+hs_7_4.png
+size: 482,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_4_1
+  rotate: false
+  xy: 2, 9
+  size: 339, 257
+  orig: 339, 258
+  offset: 0, 0
+  index: -1
+7_4_2
+  rotate: true
+  xy: 304, 3
+  size: 262, 176
+  orig: 262, 176
+  offset: 0, 0
+  index: -1

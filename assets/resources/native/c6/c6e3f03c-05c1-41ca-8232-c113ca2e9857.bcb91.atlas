@@ -1,0 +1,62 @@
+
+build_fairyland.png
+size: 749,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L3
+  rotate: true
+  xy: 248, 12
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+fl_1
+  rotate: true
+  xy: 324, 145
+  size: 285, 157
+  orig: 285, 157
+  offset: 0, 0
+  index: -1
+obj/1202011
+  rotate: true
+  xy: 161, 5
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+obj/1202020
+  rotate: false
+  xy: 373, 13
+  size: 164, 130
+  orig: 164, 130
+  offset: 0, 0
+  index: -1
+obj/1202085
+  rotate: false
+  xy: 2, 2
+  size: 157, 106
+  orig: 157, 106
+  offset: 0, 0
+  index: -1
+obj/1202153
+  rotate: true
+  xy: 539, 51
+  size: 113, 192
+  orig: 113, 192
+  offset: 0, 0
+  index: -1
+vfx_1
+  rotate: false
+  xy: 2, 110
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+vfx_2
+  rotate: false
+  xy: 483, 166
+  size: 264, 264
+  orig: 270, 270
+  offset: 3, 3
+  index: -1

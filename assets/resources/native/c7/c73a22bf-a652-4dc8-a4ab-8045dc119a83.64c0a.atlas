@@ -1,0 +1,48 @@
+
+sk_69_hit.png
+size: 163,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian01
+  rotate: true
+  xy: 88, 49
+  size: 46, 51
+  orig: 84, 84
+  offset: 19, 17
+  index: -1
+dian02
+  rotate: false
+  xy: 2, 9
+  size: 66, 61
+  orig: 84, 84
+  offset: 12, 15
+  index: -1
+dian03
+  rotate: false
+  xy: 2, 72
+  size: 84, 70
+  orig: 84, 84
+  offset: 0, 11
+  index: -1
+dianbao01
+  rotate: false
+  xy: 88, 97
+  size: 72, 45
+  orig: 72, 59
+  offset: 0, 7
+  index: -1
+dianbao03
+  rotate: false
+  xy: 70, 2
+  size: 47, 45
+  orig: 72, 59
+  offset: 13, 7
+  index: -1
+dianbao05
+  rotate: false
+  xy: 119, 4
+  size: 42, 43
+  orig: 72, 59
+  offset: 15, 8
+  index: -1

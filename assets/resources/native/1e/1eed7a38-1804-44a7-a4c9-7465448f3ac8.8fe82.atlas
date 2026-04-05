@@ -1,0 +1,83 @@
+
+upgrade_chest.png
+size: 927,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 838, 13
+  size: 72, 60
+  orig: 74, 62
+  offset: 1, 1
+  index: -1
+chest_cl
+  rotate: false
+  xy: 838, 225
+  size: 83, 67
+  orig: 85, 69
+  offset: 1, 1
+  index: -1
+chest_op
+  rotate: true
+  xy: 838, 148
+  size: 75, 78
+  orig: 77, 80
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 838, 87
+  size: 74, 59
+  orig: 78, 63
+  offset: 2, 2
+  index: -1
+shadow
+  rotate: false
+  xy: 838, 294
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+vfx_1
+  rotate: true
+  xy: 2, 230
+  size: 112, 416
+  orig: 114, 418
+  offset: 1, 1
+  index: -1
+vfx_11
+  rotate: true
+  xy: 420, 2
+  size: 112, 416
+  orig: 114, 418
+  offset: 1, 1
+  index: -1
+vfx_3
+  rotate: true
+  xy: 2, 116
+  size: 112, 416
+  orig: 114, 418
+  offset: 1, 1
+  index: -1
+vfx_5
+  rotate: true
+  xy: 2, 2
+  size: 112, 416
+  orig: 114, 418
+  offset: 1, 1
+  index: -1
+vfx_7
+  rotate: true
+  xy: 420, 230
+  size: 112, 416
+  orig: 114, 418
+  offset: 1, 1
+  index: -1
+vfx_9
+  rotate: true
+  xy: 420, 116
+  size: 112, 416
+  orig: 114, 418
+  offset: 1, 1
+  index: -1

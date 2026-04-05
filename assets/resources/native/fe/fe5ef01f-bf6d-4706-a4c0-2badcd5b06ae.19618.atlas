@@ -1,0 +1,41 @@
+
+wish_vfx.png
+size: 263,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 184, 215
+  size: 64, 64
+  orig: 67, 67
+  offset: 1, 2
+  index: -1
+b
+  rotate: true
+  xy: 133, 2
+  size: 95, 128
+  orig: 101, 132
+  offset: 3, 1
+  index: -1
+c
+  rotate: false
+  xy: 2, 99
+  size: 180, 180
+  orig: 214, 214
+  offset: 17, 17
+  index: -1
+x
+  rotate: false
+  xy: 184, 149
+  size: 64, 64
+  orig: 67, 67
+  offset: 1, 2
+  index: -1
+y
+  rotate: true
+  xy: 2, 2
+  size: 95, 129
+  orig: 101, 132
+  offset: 3, 0
+  index: -1

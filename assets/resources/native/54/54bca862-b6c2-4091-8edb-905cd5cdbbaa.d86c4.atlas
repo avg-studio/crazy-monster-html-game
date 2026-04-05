@@ -1,0 +1,13 @@
+
+atk_2_skin_32.png
+size: 50,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_wp
+  rotate: false
+  xy: 2, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1

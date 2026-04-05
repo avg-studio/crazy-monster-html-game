@@ -1,0 +1,69 @@
+
+sk_40_hit_skin_36.png
+size: 666,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/1lz0000
+  rotate: true
+  xy: 178, 2
+  size: 26, 25
+  orig: 30, 29
+  offset: 2, 2
+  index: -1
+effect/2fz0000
+  rotate: false
+  xy: 2, 3
+  size: 174, 175
+  orig: 180, 181
+  offset: 3, 3
+  index: -1
+effect/2fzz0000
+  rotate: true
+  xy: 467, 61
+  size: 117, 113
+  orig: 120, 115
+  offset: 2, 1
+  index: -1
+effect/2gy0000
+  rotate: true
+  xy: 467, 3
+  size: 56, 49
+  orig: 60, 56
+  offset: 2, 3
+  index: -1
+effect/2qq0000
+  rotate: true
+  xy: 178, 30
+  size: 148, 145
+  orig: 150, 146
+  offset: 1, 0
+  index: -1
+effect/2xx0000
+  rotate: false
+  xy: 582, 95
+  size: 82, 83
+  orig: 90, 91
+  offset: 4, 4
+  index: -1
+mo_1
+  rotate: false
+  xy: 325, 29
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+mo_2
+  rotate: false
+  xy: 518, 7
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+mo_3
+  rotate: false
+  xy: 569, 16
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1

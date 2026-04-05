@@ -1,0 +1,97 @@
+
+sk_20005_hit.png
+size: 993,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 685, 2
+  size: 306, 215
+  orig: 422, 328
+  offset: 46, 41
+  index: -1
+a2
+  rotate: false
+  xy: 2, 142
+  size: 371, 299
+  orig: 422, 328
+  offset: 24, 18
+  index: -1
+a3
+  rotate: false
+  xy: 392, 415
+  size: 386, 283
+  orig: 422, 328
+  offset: 16, 20
+  index: -1
+a4
+  rotate: false
+  xy: 415, 700
+  size: 394, 294
+  orig: 422, 328
+  offset: 12, 18
+  index: -1
+a5
+  rotate: false
+  xy: 2, 710
+  size: 411, 284
+  orig: 422, 328
+  offset: 5, 6
+  index: -1
+a6
+  rotate: false
+  xy: 2, 443
+  size: 388, 265
+  orig: 422, 328
+  offset: 12, 19
+  index: -1
+b1
+  rotate: true
+  xy: 375, 2
+  size: 215, 308
+  orig: 324, 324
+  offset: 64, 8
+  index: -1
+b2
+  rotate: false
+  xy: 780, 219
+  size: 195, 306
+  orig: 324, 324
+  offset: 84, 9
+  index: -1
+b3
+  rotate: true
+  xy: 375, 228
+  size: 185, 299
+  orig: 324, 324
+  offset: 84, 10
+  index: -1
+b4
+  rotate: false
+  xy: 811, 634
+  size: 143, 279
+  orig: 324, 324
+  offset: 79, 29
+  index: -1
+b5
+  rotate: true
+  xy: 2, 7
+  size: 133, 239
+  orig: 324, 324
+  offset: 94, 39
+  index: -1
+b6
+  rotate: true
+  xy: 780, 527
+  size: 105, 208
+  orig: 324, 324
+  offset: 106, 54
+  index: -1
+b7
+  rotate: true
+  xy: 811, 915
+  size: 79, 178
+  orig: 324, 324
+  offset: 123, 64
+  index: -1

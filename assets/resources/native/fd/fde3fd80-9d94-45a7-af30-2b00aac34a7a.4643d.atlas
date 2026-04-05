@@ -1,0 +1,20 @@
+
+buff_stun.png
+size: 60,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h
+  rotate: true
+  xy: 44, 11
+  size: 31, 14
+  orig: 33, 15
+  offset: 2, 1
+  index: -1
+s
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1

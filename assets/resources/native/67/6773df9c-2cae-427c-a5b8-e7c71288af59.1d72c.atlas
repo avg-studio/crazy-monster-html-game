@@ -1,0 +1,83 @@
+
+sk_98_hit_skin_24.png
+size: 201,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/4845-baozha2
+  rotate: false
+  xy: 2, 6
+  size: 58, 58
+  orig: 60, 60
+  offset: 2, 2
+  index: -1
+ef/TX_bl_00004
+  rotate: false
+  xy: 104, 77
+  size: 46, 60
+  orig: 53, 77
+  offset: 6, 7
+  index: -1
+ef/TX_bl_00006
+  rotate: false
+  xy: 53, 70
+  size: 49, 67
+  orig: 53, 77
+  offset: 1, 2
+  index: -1
+ef/TX_bl_00008
+  rotate: false
+  xy: 2, 66
+  size: 49, 71
+  orig: 53, 77
+  offset: 1, 1
+  index: -1
+ef/TX_bl_00010
+  rotate: false
+  xy: 62, 2
+  size: 48, 66
+  orig: 53, 77
+  offset: 1, 5
+  index: -1
+ef/TX_dl2
+  rotate: false
+  xy: 112, 7
+  size: 64, 19
+  orig: 66, 22
+  offset: 0, 1
+  index: -1
+ef/TX_zaozi_0007
+  rotate: false
+  xy: 152, 108
+  size: 46, 29
+  orig: 51, 52
+  offset: 3, 20
+  index: -1
+ef/g2
+  rotate: true
+  xy: 152, 80
+  size: 26, 40
+  orig: 30, 44
+  offset: 2, 3
+  index: -1
+ef/gq2
+  rotate: true
+  xy: 112, 28
+  size: 47, 43
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+ef/tx_guangdiand1
+  rotate: false
+  xy: 178, 12
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ef/wp
+  rotate: false
+  xy: 178, 29
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1

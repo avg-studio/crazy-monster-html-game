@@ -1,0 +1,167 @@
+
+guild_npc_shop.png
+size: 944,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1_2
+  rotate: false
+  xy: 759, 318
+  size: 124, 137
+  orig: 127, 139
+  offset: 2, 1
+  index: -1
+arm2_2
+  rotate: false
+  xy: 759, 149
+  size: 113, 167
+  orig: 113, 167
+  offset: 0, 0
+  index: -1
+arm_1_1
+  rotate: false
+  xy: 160, 33
+  size: 127, 186
+  orig: 129, 188
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 221
+  size: 234, 305
+  orig: 235, 305
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 2, 79
+  size: 156, 140
+  orig: 158, 142
+  offset: 1, 1
+  index: -1
+brow_1
+  rotate: true
+  xy: 111, 33
+  size: 44, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+brow_2
+  rotate: true
+  xy: 86, 31
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 551, 45
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 551, 2
+  size: 117, 41
+  orig: 119, 44
+  offset: 1, 1
+  index: -1
+eye_ball_1
+  rotate: false
+  xy: 111, 5
+  size: 27, 26
+  orig: 29, 28
+  offset: 1, 1
+  index: -1
+eye_ball_2
+  rotate: false
+  xy: 874, 151
+  size: 24, 23
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+hair0
+  rotate: true
+  xy: 289, 11
+  size: 97, 148
+  orig: 104, 148
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 759, 40
+  size: 183, 107
+  orig: 184, 121
+  offset: 0, 14
+  index: -1
+hair2
+  rotate: false
+  xy: 885, 320
+  size: 51, 135
+  orig: 51, 135
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 678, 3
+  size: 61, 105
+  orig: 61, 105
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 874, 176
+  size: 65, 140
+  orig: 71, 140
+  offset: 6, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 309, 110
+  size: 136, 231
+  orig: 136, 231
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 560, 110
+  size: 197, 345
+  orig: 197, 345
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 2, 2
+  size: 82, 75
+  orig: 84, 79
+  offset: 1, 3
+  index: -1
+head
+  rotate: true
+  xy: 309, 248
+  size: 207, 249
+  orig: 207, 249
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 289, 186
+  size: 33, 18
+  orig: 35, 21
+  offset: 1, 2
+  index: -1
+nose
+  rotate: false
+  xy: 289, 160
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+pencil
+  rotate: false
+  xy: 439, 12
+  size: 110, 96
+  orig: 112, 98
+  offset: 1, 1
+  index: -1

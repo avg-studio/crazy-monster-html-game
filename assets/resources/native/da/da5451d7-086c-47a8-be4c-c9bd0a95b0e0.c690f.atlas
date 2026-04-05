@@ -1,0 +1,13 @@
+
+sk_20007_bullet.png
+size: 57,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wp
+  rotate: false
+  xy: 2, 2
+  size: 53, 56
+  orig: 57, 56
+  offset: 2, 0
+  index: -1

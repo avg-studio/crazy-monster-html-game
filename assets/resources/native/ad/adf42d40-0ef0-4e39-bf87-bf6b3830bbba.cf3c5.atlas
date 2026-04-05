@@ -1,0 +1,41 @@
+
+hs_3_1.png
+size: 386,901
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_1_1
+  rotate: false
+  xy: 197, 47
+  size: 186, 108
+  orig: 186, 108
+  offset: 0, 0
+  index: -1
+3_1_2
+  rotate: false
+  xy: 2, 3
+  size: 195, 343
+  orig: 195, 343
+  offset: 0, 0
+  index: -1
+3_1_3
+  rotate: true
+  xy: 113, 650
+  size: 207, 270
+  orig: 207, 270
+  offset: 0, 0
+  index: -1
+3_1_4
+  rotate: false
+  xy: 2, 244
+  size: 240, 655
+  orig: 250, 655
+  offset: 10, 0
+  index: -1
+3_1_5
+  rotate: false
+  xy: 135, 184
+  size: 161, 147
+  orig: 163, 147
+  offset: 2, 0
+  index: -1

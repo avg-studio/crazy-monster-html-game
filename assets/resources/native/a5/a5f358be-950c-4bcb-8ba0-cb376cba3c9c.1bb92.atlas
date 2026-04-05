@@ -1,0 +1,69 @@
+
+phy_hit_2.png
+size: 155,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_guang1_0001
+  rotate: true
+  xy: 28, 192
+  size: 24, 108
+  orig: 30, 246
+  offset: 4, 137
+  index: -1
+TX_guang1_0002
+  rotate: true
+  xy: 2, 242
+  size: 24, 149
+  orig: 30, 246
+  offset: 4, 93
+  index: -1
+TX_guang1_0003
+  rotate: false
+  xy: 28, 2
+  size: 24, 188
+  orig: 30, 246
+  offset: 3, 50
+  index: -1
+TX_guang1_0004
+  rotate: false
+  xy: 2, 9
+  size: 24, 231
+  orig: 30, 246
+  offset: 3, 6
+  index: -1
+TX_guang1_0005
+  rotate: true
+  xy: 28, 218
+  size: 22, 120
+  orig: 30, 246
+  offset: 3, 4
+  index: -1
+TX_guang1_0006
+  rotate: false
+  xy: 138, 198
+  size: 15, 18
+  orig: 30, 246
+  offset: 6, 0
+  index: -1
+tx_phy_diqi0001
+  rotate: true
+  xy: 54, 4
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tx_phy_diqi0002
+  rotate: false
+  xy: 54, 50
+  size: 89, 64
+  orig: 90, 66
+  offset: 1, 1
+  index: -1
+tx_phy_diqi0003
+  rotate: false
+  xy: 54, 116
+  size: 94, 74
+  orig: 96, 75
+  offset: 1, 0
+  index: -1

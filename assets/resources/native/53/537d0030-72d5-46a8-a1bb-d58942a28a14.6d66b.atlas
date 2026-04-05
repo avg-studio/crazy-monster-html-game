@@ -1,0 +1,20 @@
+
+sk_55_2.png
+size: 39,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huomiao
+  rotate: false
+  xy: 2, 2
+  size: 12, 45
+  orig: 22, 60
+  offset: 3, 2
+  index: -1
+tk_22
+  rotate: true
+  xy: 16, 6
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1

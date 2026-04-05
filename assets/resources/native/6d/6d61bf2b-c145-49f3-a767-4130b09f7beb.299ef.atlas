@@ -1,0 +1,188 @@
+
+18_skin_4_hd.png
+size: 869,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_qiu_00013
+  rotate: true
+  xy: 757, 66
+  size: 115, 109
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+effect/juqi/xl0004
+  rotate: false
+  xy: 488, 240
+  size: 271, 279
+  orig: 306, 371
+  offset: 19, 83
+  index: -1
+effect/juqi/xl0006
+  rotate: false
+  xy: 2, 194
+  size: 248, 325
+  orig: 306, 371
+  offset: 32, 37
+  index: -1
+effect/juqi/xl0008
+  rotate: false
+  xy: 252, 208
+  size: 234, 311
+  orig: 306, 371
+  offset: 39, 44
+  index: -1
+effect/juqi/xl0016
+  rotate: true
+  xy: 2, 8
+  size: 184, 266
+  orig: 306, 371
+  offset: 54, 54
+  index: -1
+effect/juqi/xl0023
+  rotate: true
+  xy: 640, 111
+  size: 127, 115
+  orig: 306, 371
+  offset: 79, 131
+  index: -1
+effect/skill1/skill10002
+  rotate: false
+  xy: 761, 439
+  size: 100, 80
+  orig: 103, 92
+  offset: 2, 6
+  index: -1
+skin/arm_1
+  rotate: true
+  xy: 640, 7
+  size: 57, 49
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+skin/arm_2
+  rotate: true
+  xy: 691, 14
+  size: 50, 37
+  orig: 55, 38
+  offset: 1, 1
+  index: -1
+skin/ass
+  rotate: false
+  xy: 690, 70
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+skin/body
+  rotate: false
+  xy: 761, 251
+  size: 78, 76
+  orig: 79, 79
+  offset: 0, 3
+  index: -1
+skin/brow
+  rotate: false
+  xy: 311, 7
+  size: 69, 28
+  orig: 69, 29
+  offset: 0, 1
+  index: -1
+skin/eye_1
+  rotate: false
+  xy: 382, 13
+  size: 49, 22
+  orig: 50, 23
+  offset: 1, 0
+  index: -1
+skin/eye_2
+  rotate: true
+  xy: 849, 312
+  size: 54, 18
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+skin/foot_1
+  rotate: false
+  xy: 817, 20
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+skin/foot_2
+  rotate: true
+  xy: 730, 15
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+skin/glasses
+  rotate: false
+  xy: 761, 329
+  size: 86, 37
+  orig: 92, 37
+  offset: 0, 0
+  index: -1
+skin/hair
+  rotate: true
+  xy: 761, 368
+  size: 69, 88
+  orig: 69, 89
+  offset: 0, 1
+  index: -1
+skin/hand_1
+  rotate: true
+  xy: 433, 2
+  size: 66, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+skin/hand_2
+  rotate: false
+  xy: 761, 183
+  size: 71, 66
+  orig: 71, 69
+  offset: 0, 1
+  index: -1
+skin/head
+  rotate: false
+  xy: 270, 37
+  size: 140, 169
+  orig: 140, 169
+  offset: 0, 0
+  index: -1
+skin/leg_1
+  rotate: false
+  xy: 778, 17
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+skin/leg_2
+  rotate: false
+  xy: 640, 66
+  size: 48, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+skin/mouth_2
+  rotate: false
+  xy: 270, 3
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+skin/weapon
+  rotate: true
+  xy: 510, 12
+  size: 226, 128
+  orig: 227, 129
+  offset: 0, 1
+  index: -1
+skin/wp_2
+  rotate: false
+  xy: 412, 70
+  size: 89, 136
+  orig: 89, 136
+  offset: 0, 0
+  index: -1

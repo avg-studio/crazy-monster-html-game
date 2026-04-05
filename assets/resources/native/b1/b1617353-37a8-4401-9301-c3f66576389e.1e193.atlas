@@ -1,0 +1,41 @@
+
+atk_21.png
+size: 331,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firea01
+  rotate: false
+  xy: 274, 13
+  size: 55, 85
+  orig: 75, 99
+  offset: 18, 1
+  index: -1
+firea02
+  rotate: false
+  xy: 212, 4
+  size: 60, 94
+  orig: 75, 99
+  offset: 13, 1
+  index: -1
+firea03
+  rotate: false
+  xy: 147, 4
+  size: 63, 94
+  orig: 75, 99
+  offset: 10, 1
+  index: -1
+firea04
+  rotate: false
+  xy: 76, 2
+  size: 69, 96
+  orig: 75, 99
+  offset: 5, 2
+  index: -1
+firea05
+  rotate: false
+  xy: 2, 4
+  size: 72, 94
+  orig: 75, 99
+  offset: 1, 1
+  index: -1

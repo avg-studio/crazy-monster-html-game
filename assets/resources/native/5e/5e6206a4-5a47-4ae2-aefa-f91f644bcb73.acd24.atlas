@@ -1,0 +1,20 @@
+
+hs_11_3.png
+size: 773,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_3_1
+  rotate: false
+  xy: 2, 102
+  size: 406, 292
+  orig: 406, 292
+  offset: 0, 0
+  index: -1
+11_3_2
+  rotate: 270
+  xy: 2, 3
+  size: 391, 769
+  orig: 391, 769
+  offset: 0, 0
+  index: -1

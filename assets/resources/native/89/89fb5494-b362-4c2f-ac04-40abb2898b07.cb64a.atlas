@@ -1,0 +1,83 @@
+
+sk_117_hit.png
+size: 892,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 101
+  size: 248, 33
+  orig: 248, 33
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 136
+  size: 374, 374
+  orig: 380, 380
+  offset: 3, 3
+  index: -1
+b_1
+  rotate: false
+  xy: 378, 153
+  size: 178, 176
+  orig: 400, 400
+  offset: 101, 111
+  index: -1
+b_2
+  rotate: false
+  xy: 378, 331
+  size: 178, 179
+  orig: 400, 400
+  offset: 101, 111
+  index: -1
+b_3
+  rotate: false
+  xy: 558, 330
+  size: 174, 180
+  orig: 400, 400
+  offset: 105, 111
+  index: -1
+b_4
+  rotate: false
+  xy: 558, 161
+  size: 167, 167
+  orig: 400, 400
+  offset: 107, 116
+  index: -1
+b_5
+  rotate: true
+  xy: 727, 161
+  size: 167, 152
+  orig: 400, 400
+  offset: 116, 123
+  index: -1
+b_6
+  rotate: false
+  xy: 558, 11
+  size: 171, 148
+  orig: 400, 400
+  offset: 119, 130
+  index: -1
+b_7
+  rotate: true
+  xy: 731, 2
+  size: 157, 159
+  orig: 400, 400
+  offset: 139, 126
+  index: -1
+snow_1
+  rotate: false
+  xy: 2, 39
+  size: 59, 60
+  orig: 62, 64
+  offset: 2, 2
+  index: -1
+snow_2
+  rotate: false
+  xy: 63, 50
+  size: 50, 49
+  orig: 56, 53
+  offset: 3, 2
+  index: -1

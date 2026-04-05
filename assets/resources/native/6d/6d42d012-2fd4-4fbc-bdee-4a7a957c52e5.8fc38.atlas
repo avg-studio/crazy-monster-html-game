@@ -1,0 +1,48 @@
+
+eff_event_show_6.png
+size: 787,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: false
+  xy: 295, 10
+  size: 12, 237
+  orig: 12, 237
+  offset: 0, 0
+  index: -1
+new/6_1
+  rotate: true
+  xy: 2, 2
+  size: 245, 291
+  orig: 245, 292
+  offset: 0, 1
+  index: -1
+new/6_2
+  rotate: true
+  xy: 483, 5
+  size: 119, 288
+  orig: 119, 288
+  offset: 0, 0
+  index: -1
+new/6_3
+  rotate: true
+  xy: 309, 70
+  size: 177, 172
+  orig: 177, 172
+  offset: 0, 0
+  index: -1
+show_txt_0
+  rotate: false
+  xy: 309, 10
+  size: 127, 58
+  orig: 127, 58
+  offset: 0, 0
+  index: -1
+show_txt_6
+  rotate: false
+  xy: 483, 126
+  size: 302, 121
+  orig: 304, 123
+  offset: 1, 1
+  index: -1

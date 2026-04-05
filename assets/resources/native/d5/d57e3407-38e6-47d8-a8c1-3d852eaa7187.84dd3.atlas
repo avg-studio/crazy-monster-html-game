@@ -1,0 +1,132 @@
+
+buff_vine.png
+size: 219,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 117, 8
+  size: 69, 43
+  orig: 69, 44
+  offset: 0, 1
+  index: -1
+a2
+  rotate: false
+  xy: 151, 212
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 151, 167
+  size: 61, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+b1
+  rotate: true
+  xy: 2, 98
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 150, 91
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 76, 5
+  size: 91, 39
+  orig: 91, 42
+  offset: 0, 3
+  index: -1
+b4
+  rotate: false
+  xy: 2, 200
+  size: 147, 55
+  orig: 147, 55
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 2, 2
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+c1
+  rotate: true
+  xy: 129, 148
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+c10
+  rotate: true
+  xy: 129, 175
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 199, 57
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 187, 11
+  size: 17, 23
+  orig: 17, 24
+  offset: 0, 1
+  index: -1
+c4
+  rotate: false
+  xy: 162, 71
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+c5
+  rotate: true
+  xy: 162, 27
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 129, 121
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 117, 79
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+c8
+  rotate: false
+  xy: 194, 30
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+c9
+  rotate: false
+  xy: 162, 51
+  size: 30, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1

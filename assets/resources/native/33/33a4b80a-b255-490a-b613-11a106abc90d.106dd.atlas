@@ -1,0 +1,111 @@
+
+buff_burn.png
+size: 90,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyanxx01
+  rotate: false
+  xy: 74, 20
+  size: 6, 9
+  orig: 23, 23
+  offset: 3, 3
+  index: -1
+huoyanxx02
+  rotate: true
+  xy: 61, 2
+  size: 9, 10
+  orig: 23, 23
+  offset: 3, 3
+  index: -1
+huoyanxx03
+  rotate: true
+  xy: 60, 28
+  size: 16, 12
+  orig: 23, 23
+  offset: 2, 3
+  index: -1
+huoyanxx04
+  rotate: true
+  xy: 45, 3
+  size: 21, 14
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+huoyanxx05
+  rotate: true
+  xy: 22, 22
+  size: 22, 16
+  orig: 23, 23
+  offset: 1, 2
+  index: -1
+huoyanxx06
+  rotate: true
+  xy: 2, 21
+  size: 23, 18
+  orig: 23, 23
+  offset: 0, 2
+  index: -1
+huoyanxx07
+  rotate: false
+  xy: 2, 2
+  size: 21, 17
+  orig: 23, 23
+  offset: 2, 3
+  index: -1
+huoyanxx08
+  rotate: false
+  xy: 25, 2
+  size: 18, 18
+  orig: 23, 23
+  offset: 2, 3
+  index: -1
+huoyanxx09
+  rotate: false
+  xy: 40, 26
+  size: 18, 18
+  orig: 23, 23
+  offset: 2, 4
+  index: -1
+huoyanxx10
+  rotate: true
+  xy: 61, 13
+  size: 13, 11
+  orig: 23, 23
+  offset: 5, 11
+  index: -1
+huoyanxx11
+  rotate: true
+  xy: 74, 31
+  size: 13, 11
+  orig: 23, 23
+  offset: 5, 11
+  index: -1
+huoyanxx12
+  rotate: false
+  xy: 73, 4
+  size: 12, 7
+  orig: 23, 23
+  offset: 5, 14
+  index: -1
+huoyanxx13
+  rotate: false
+  xy: 82, 23
+  size: 6, 6
+  orig: 23, 23
+  offset: 3, 14
+  index: -1
+huoyanxx14
+  rotate: false
+  xy: 74, 13
+  size: 6, 5
+  orig: 23, 23
+  offset: 3, 15
+  index: -1
+huoyanxx15
+  rotate: true
+  xy: 82, 16
+  size: 5, 3
+  orig: 23, 23
+  offset: 4, 17
+  index: -1

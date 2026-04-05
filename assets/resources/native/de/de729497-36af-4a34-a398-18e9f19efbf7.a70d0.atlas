@@ -1,0 +1,34 @@
+
+atk_22_hit.png
+size: 405,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bz_01
+  rotate: true
+  xy: 233, 2
+  size: 84, 74
+  orig: 88, 76
+  offset: 2, 0
+  index: -1
+effect/bz_02
+  rotate: false
+  xy: 119, 3
+  size: 112, 83
+  orig: 114, 86
+  offset: 1, 3
+  index: -1
+effect/bz_03
+  rotate: false
+  xy: 2, 5
+  size: 115, 81
+  orig: 115, 83
+  offset: 0, 2
+  index: -1
+effect/bz_04
+  rotate: false
+  xy: 309, 23
+  size: 94, 63
+  orig: 95, 68
+  offset: 1, 0
+  index: -1

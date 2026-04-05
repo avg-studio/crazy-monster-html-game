@@ -1,0 +1,62 @@
+
+sk_1004_hit.png
+size: 492,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0003
+  rotate: false
+  xy: 276, 386
+  size: 205, 148
+  orig: 274, 171
+  offset: 34, 7
+  index: -1
+1_0004
+  rotate: false
+  xy: 267, 127
+  size: 223, 158
+  orig: 274, 171
+  offset: 27, 1
+  index: -1
+1_0005
+  rotate: false
+  xy: 2, 78
+  size: 242, 147
+  orig: 274, 171
+  offset: 19, 19
+  index: -1
+1_0006
+  rotate: false
+  xy: 2, 227
+  size: 263, 150
+  orig: 274, 171
+  offset: 9, 16
+  index: -1
+1_0007
+  rotate: false
+  xy: 2, 379
+  size: 272, 155
+  orig: 274, 171
+  offset: 2, 14
+  index: -1
+1_0008
+  rotate: false
+  xy: 276, 287
+  size: 199, 97
+  orig: 274, 171
+  offset: 6, 61
+  index: -1
+1_0009
+  rotate: false
+  xy: 246, 33
+  size: 226, 92
+  orig: 274, 171
+  offset: 20, 73
+  index: -1
+1_0010
+  rotate: false
+  xy: 2, 2
+  size: 209, 74
+  orig: 274, 171
+  offset: 13, 62
+  index: -1

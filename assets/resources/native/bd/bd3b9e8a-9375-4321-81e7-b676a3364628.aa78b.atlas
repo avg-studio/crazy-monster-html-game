@@ -1,0 +1,34 @@
+
+flash_move.png
+size: 344,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circlelight
+  rotate: false
+  xy: 233, 10
+  size: 79, 79
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+glowlight01
+  rotate: true
+  xy: 2, 48
+  size: 41, 229
+  orig: 41, 236
+  offset: 0, 5
+  index: -1
+glowlight02
+  rotate: true
+  xy: 2, 2
+  size: 44, 204
+  orig: 44, 212
+  offset: 0, 2
+  index: -1
+particle1
+  rotate: false
+  xy: 314, 30
+  size: 28, 59
+  orig: 30, 64
+  offset: 1, 3
+  index: -1

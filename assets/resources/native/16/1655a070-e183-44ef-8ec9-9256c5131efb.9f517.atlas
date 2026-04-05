@@ -1,0 +1,48 @@
+
+hs_5_11.png
+size: 630,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_11_0
+  rotate: false
+  xy: 400, 285
+  size: 227, 239
+  orig: 229, 241
+  offset: 1, 1
+  index: -1
+5_11_1
+  rotate: false
+  xy: 2, 83
+  size: 419, 441
+  orig: 419, 441
+  offset: 0, 0
+  index: -1
+5_11_3
+  rotate: 180
+  xy: 366, 3
+  size: 238, 281
+  orig: 238, 281
+  offset: 0, 0
+  index: -1
+5_11_4s
+  rotate: false
+  xy: 2, 382
+  size: 96, 107
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+5_11_5s
+  rotate: false
+  xy: 300, 315
+  size: 93, 74
+  orig: 93, 76
+  offset: 0, 1
+  index: -1
+5_11_6
+  rotate: false
+  xy: 2, 343
+  size: 37, 37
+  orig: 38, 38
+  offset: 1, 0
+  index: -1

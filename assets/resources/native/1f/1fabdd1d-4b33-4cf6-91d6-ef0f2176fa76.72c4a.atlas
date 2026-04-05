@@ -1,0 +1,125 @@
+
+npc_hunter.png
+size: 1024,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1_1
+  rotate: false
+  xy: 74, 50
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+arm_1_2
+  rotate: false
+  xy: 628, 21
+  size: 118, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+arm_2_1
+  rotate: true
+  xy: 772, 85
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+arm_2_2
+  rotate: false
+  xy: 950, 351
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 106
+  size: 471, 397
+  orig: 472, 398
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 678, 228
+  size: 198, 275
+  orig: 198, 275
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 868, 45
+  size: 132, 52
+  orig: 132, 53
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 729, 50
+  size: 134, 34
+  orig: 134, 35
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 423, 278
+  size: 51, 107
+  orig: 51, 107
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: 180
+  xy: 871, 205
+  size: 110, 298
+  orig: 110, 298
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 975, 273
+  size: 47, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 2, 224
+  size: 57, 63
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 2, 102
+  size: 89, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 377, 38
+  size: 286, 232
+  orig: 286, 232
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 474, 272
+  size: 230, 202
+  orig: 233, 211
+  offset: 1, 1
+  index: -1
+wp_1
+  rotate: true
+  xy: 677, 76
+  size: 199, 273
+  orig: 199, 273
+  offset: 0, 0
+  index: -1
+wp_2
+  rotate: 180
+  xy: 208, 4
+  size: 237, 149
+  orig: 237, 149
+  offset: 0, 0
+  index: -1

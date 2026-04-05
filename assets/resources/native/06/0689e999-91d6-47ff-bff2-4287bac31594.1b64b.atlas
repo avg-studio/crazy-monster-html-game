@@ -1,0 +1,13 @@
+
+buff_icemark.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice
+  rotate: false
+  xy: 2, 2
+  size: 152, 152
+  orig: 156, 156
+  offset: 2, 2
+  index: -1

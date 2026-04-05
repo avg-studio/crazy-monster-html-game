@@ -1,0 +1,13 @@
+
+buff_target_down.png
+size: 46,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1

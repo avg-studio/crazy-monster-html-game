@@ -1,0 +1,13 @@
+
+buff_sum_atk_up.png
+size: 38,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 34, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+32.png
+size: 772,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 289, 11
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 67, 9
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+ass
+  rotate: false
+  xy: 584, 11
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 654, 15
+  size: 53, 54
+  orig: 54, 54
+  offset: 1, 0
+  index: -1
+brow
+  rotate: false
+  xy: 512, 7
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 397, 3
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 4
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+foot_1
+  rotate: false
+  xy: 206, 4
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 99, 95
+  size: 19, 17
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 2, 14
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 33, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 126, 47
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 749, 35
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: 270
+  xy: 479, 3
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 620, 4
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+pilian
+  rotate: false
+  xy: 749, 8
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+shoulder_1
+  rotate: true
+  xy: 704, 63
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+shoulder_2
+  rotate: true
+  xy: 708, 18
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+vfx/32_sk94
+  rotate: false
+  xy: 2, 38
+  size: 124, 75
+  orig: 140, 81
+  offset: 10, 0
+  index: -1
+vfx/daogaunga_0000
+  rotate: 270
+  xy: 534, 12
+  size: 97, 58
+  orig: 186, 186
+  offset: 6, 67
+  index: -1
+vfx/daogaunga_0001
+  rotate: true
+  xy: 209, 8
+  size: 103, 79
+  orig: 186, 186
+  offset: 7, 46
+  index: -1
+vfx/daogaunga_0002
+  rotate: 270
+  xy: 326, 12
+  size: 102, 75
+  orig: 186, 186
+  offset: 9, 50
+  index: -1
+vfx/daogaunga_0004
+  rotate: 270
+  xy: 466, 19
+  size: 95, 78
+  orig: 186, 186
+  offset: 16, 47
+  index: -1
+vfx/daogaunga_0006
+  rotate: 270
+  xy: 588, 23
+  size: 89, 72
+  orig: 186, 186
+  offset: 20, 52
+  index: -1
+vfx/daogaunga_0008
+  rotate: false
+  xy: 419, 4
+  size: 75, 59
+  orig: 186, 186
+  offset: 30, 57
+  index: -1
+vfx/daogaunga_0010
+  rotate: false
+  xy: 343, 5
+  size: 65, 56
+  orig: 186, 186
+  offset: 33, 59
+  index: -1
+weapon_1
+  rotate: false
+  xy: 93, 4
+  size: 111, 41
+  orig: 111, 48
+  offset: 0, 3
+  index: -1
+wing_1
+  rotate: true
+  xy: 247, 13
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 392, 13
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1

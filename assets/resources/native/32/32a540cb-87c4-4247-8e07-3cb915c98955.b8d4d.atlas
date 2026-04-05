@@ -1,0 +1,55 @@
+
+sk_40_hit.png
+size: 557,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/1lz0000
+  rotate: true
+  xy: 2, 5
+  size: 26, 25
+  orig: 30, 29
+  offset: 2, 2
+  index: -1
+effect/2fz0000
+  rotate: false
+  xy: 2, 33
+  size: 174, 175
+  orig: 180, 181
+  offset: 3, 3
+  index: -1
+effect/2fzz0000
+  rotate: true
+  xy: 442, 91
+  size: 117, 113
+  orig: 120, 115
+  offset: 2, 1
+  index: -1
+effect/2gy0000
+  rotate: true
+  xy: 295, 2
+  size: 56, 49
+  orig: 60, 56
+  offset: 2, 3
+  index: -1
+effect/2qq0000
+  rotate: true
+  xy: 295, 60
+  size: 148, 145
+  orig: 150, 146
+  offset: 1, 0
+  index: -1
+effect/2xx0000
+  rotate: false
+  xy: 442, 6
+  size: 82, 83
+  orig: 90, 91
+  offset: 4, 4
+  index: -1
+wy_7
+  rotate: false
+  xy: 178, 15
+  size: 115, 193
+  orig: 115, 193
+  offset: 0, 0
+  index: -1

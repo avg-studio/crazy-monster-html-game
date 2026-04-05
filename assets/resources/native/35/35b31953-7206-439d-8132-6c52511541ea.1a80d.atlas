@@ -1,0 +1,76 @@
+
+eff_event_show_2.png
+size: 732,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: false
+  xy: 715, 45
+  size: 12, 237
+  orig: 12, 237
+  offset: 0, 0
+  index: -1
+new/1_2
+  rotate: true
+  xy: 636, 8
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+new/2_1
+  rotate: true
+  xy: 2, 4
+  size: 278, 344
+  orig: 278, 344
+  offset: 0, 0
+  index: -1
+new/2_2
+  rotate: false
+  xy: 515, 61
+  size: 178, 88
+  orig: 178, 88
+  offset: 0, 0
+  index: -1
+new/2_3
+  rotate: false
+  xy: 348, 2
+  size: 165, 147
+  orig: 165, 147
+  offset: 0, 0
+  index: -1
+new/2_4
+  rotate: true
+  xy: 515, 2
+  size: 57, 51
+  orig: 57, 52
+  offset: 0, 1
+  index: -1
+new/2_5
+  rotate: false
+  xy: 692, 4
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+new/2_6
+  rotate: true
+  xy: 568, 7
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+show_txt_0
+  rotate: true
+  xy: 655, 155
+  size: 127, 58
+  orig: 127, 58
+  offset: 0, 0
+  index: -1
+show_txt_2
+  rotate: false
+  xy: 348, 151
+  size: 305, 131
+  orig: 307, 133
+  offset: 1, 1
+  index: -1

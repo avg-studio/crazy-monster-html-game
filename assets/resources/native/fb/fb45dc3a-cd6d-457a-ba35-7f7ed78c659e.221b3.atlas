@@ -1,0 +1,13 @@
+
+atk_15.png
+size: 24,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rsbf_13
+  rotate: false
+  xy: 2, 2
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1

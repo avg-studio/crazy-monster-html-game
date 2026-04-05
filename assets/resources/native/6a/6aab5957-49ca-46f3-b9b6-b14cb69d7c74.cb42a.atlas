@@ -1,0 +1,111 @@
+
+npc_rune.png
+size: 515,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm2_1
+  rotate: 180
+  xy: 427, 68
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+arm2_2
+  rotate: true
+  xy: 368, 17
+  size: 72, 93
+  orig: 72, 98
+  offset: 0, 5
+  index: -1
+arm_1_1
+  rotate: 180
+  xy: 398, 222
+  size: 69, 73
+  orig: 69, 76
+  offset: 0, 3
+  index: -1
+arm_1_2
+  rotate: 270
+  xy: 9, 17
+  size: 72, 94
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 196, 16
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+bow
+  rotate: false
+  xy: 2, 85
+  size: 66, 93
+  orig: 66, 96
+  offset: 0, 3
+  index: -1
+brow
+  rotate: false
+  xy: 265, 268
+  size: 89, 25
+  orig: 91, 27
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 2, 182
+  size: 62, 23
+  orig: 64, 25
+  offset: 1, 1
+  index: -1
+gem
+  rotate: false
+  xy: 306, 7
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 463, 234
+  size: 50, 61
+  orig: 51, 61
+  offset: 1, 0
+  index: -1
+hand_2
+  rotate: 180
+  xy: 460, 12
+  size: 44, 62
+  orig: 45, 62
+  offset: 1, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 51
+  size: 309, 244
+  orig: 309, 244
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 306, 63
+  size: 201, 139
+  orig: 201, 139
+  offset: 0, 0
+  index: -1
+shoulder_1
+  rotate: 180
+  xy: 116, 3
+  size: 73, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+shoulder_2
+  rotate: 270
+  xy: 439, 160
+  size: 62, 54
+  orig: 62, 56
+  offset: 0, 2
+  index: -1

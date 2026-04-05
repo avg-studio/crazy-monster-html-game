@@ -1,0 +1,76 @@
+
+sk_55_hit.png
+size: 370,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha_01
+  rotate: false
+  xy: 2, 411
+  size: 89, 65
+  orig: 91, 68
+  offset: 1, 1
+  index: -1
+effect/baozha_02
+  rotate: false
+  xy: 2, 294
+  size: 154, 101
+  orig: 156, 103
+  offset: 1, 1
+  index: -1
+effect/baozha_03
+  rotate: false
+  xy: 158, 281
+  size: 170, 104
+  orig: 172, 106
+  offset: 1, 1
+  index: -1
+effect/baozha_04
+  rotate: false
+  xy: 144, 172
+  size: 173, 107
+  orig: 204, 135
+  offset: 16, 17
+  index: -1
+effect/bz2_01
+  rotate: true
+  xy: 93, 397
+  size: 79, 82
+  orig: 125, 125
+  offset: 37, 37
+  index: -1
+effect/bz2_02
+  rotate: false
+  xy: 177, 390
+  size: 94, 86
+  orig: 125, 125
+  offset: 28, 34
+  index: -1
+effect/bz2_03
+  rotate: false
+  xy: 273, 387
+  size: 95, 89
+  orig: 125, 125
+  offset: 29, 31
+  index: -1
+effect/huo_01
+  rotate: false
+  xy: 2, 173
+  size: 140, 119
+  orig: 156, 135
+  offset: 8, 8
+  index: -1
+effect/huo_02
+  rotate: false
+  xy: 195, 2
+  size: 171, 168
+  orig: 187, 183
+  offset: 8, 8
+  index: -1
+effect/huo_03
+  rotate: false
+  xy: 2, 5
+  size: 191, 165
+  orig: 208, 185
+  offset: 8, 9
+  index: -1

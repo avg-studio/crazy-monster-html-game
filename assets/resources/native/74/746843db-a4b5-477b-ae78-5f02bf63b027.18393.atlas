@@ -1,0 +1,13 @@
+
+buff_heartfire.png
+size: 72,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaa
+  rotate: false
+  xy: 2, 2
+  size: 68, 64
+  orig: 68, 65
+  offset: 0, 0
+  index: -1

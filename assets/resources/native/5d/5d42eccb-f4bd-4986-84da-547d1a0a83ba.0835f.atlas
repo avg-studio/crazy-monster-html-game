@@ -1,0 +1,41 @@
+
+vfx_equip.png
+size: 445,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 357, 3
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+ray_1
+  rotate: true
+  xy: 185, 31
+  size: 59, 170
+  orig: 59, 170
+  offset: 0, 0
+  index: -1
+ray_2
+  rotate: true
+  xy: 2, 2
+  size: 88, 181
+  orig: 88, 181
+  offset: 0, 0
+  index: -1
+sn1
+  rotate: false
+  xy: 210, 23
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 185, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

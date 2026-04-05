@@ -1,0 +1,48 @@
+
+hs_3_8.png
+size: 1588,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_8_1
+  rotate: 180
+  xy: 1168, 683
+  size: 386, 273
+  orig: 386, 273
+  offset: 0, 0
+  index: -1
+3_8_2
+  rotate: 270
+  xy: 1344, 391
+  size: 388, 241
+  orig: 388, 241
+  offset: 0, 0
+  index: -1
+3_8_3
+  rotate: false
+  xy: 756, 53
+  size: 347, 903
+  orig: 347, 903
+  offset: 0, 0
+  index: -1
+3_8_4
+  rotate: false
+  xy: 1165, 3
+  size: 276, 320
+  orig: 276, 320
+  offset: 0, 0
+  index: -1
+3_8_5
+  rotate: 270
+  xy: 942, 172
+  size: 578, 473
+  orig: 578, 473
+  offset: 0, 0
+  index: -1
+3_8_6
+  rotate: false
+  xy: 2, 41
+  size: 752, 915
+  orig: 752, 915
+  offset: 0, 0
+  index: -1

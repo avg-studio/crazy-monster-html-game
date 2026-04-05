@@ -1,0 +1,20 @@
+
+buff_99.png
+size: 228,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff02
+  rotate: true
+  xy: 2, 2
+  size: 120, 121
+  orig: 127, 126
+  offset: 4, 3
+  index: -1
+shockwave01
+  rotate: true
+  xy: 125, 20
+  size: 102, 101
+  orig: 112, 112
+  offset: 4, 4
+  index: -1

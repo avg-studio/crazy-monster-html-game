@@ -1,0 +1,27 @@
+
+atk_12.png
+size: 84,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gy0000
+  rotate: false
+  xy: 56, 4
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+effect/zd0000
+  rotate: false
+  xy: 2, 2
+  size: 52, 52
+  orig: 60, 60
+  offset: 4, 4
+  index: -1
+effect/zd20000
+  rotate: false
+  xy: 56, 28
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1

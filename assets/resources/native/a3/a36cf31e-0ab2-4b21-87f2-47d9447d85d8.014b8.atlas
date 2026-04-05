@@ -1,0 +1,55 @@
+
+sk_48_hit.png
+size: 131,786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/yw/yw0001
+  rotate: false
+  xy: 2, 707
+  size: 103, 77
+  orig: 150, 140
+  offset: 21, 12
+  index: -1
+effect/yw/yw0003
+  rotate: true
+  xy: 2, 492
+  size: 113, 127
+  orig: 150, 140
+  offset: 13, 4
+  index: -1
+effect/yw/yw0005
+  rotate: false
+  xy: 2, 2
+  size: 118, 131
+  orig: 150, 140
+  offset: 9, 4
+  index: -1
+effect/yw/yw0007
+  rotate: true
+  xy: 2, 374
+  size: 116, 127
+  orig: 150, 140
+  offset: 10, 4
+  index: -1
+effect/yw/yw0009
+  rotate: true
+  xy: 2, 256
+  size: 116, 124
+  orig: 150, 140
+  offset: 12, 5
+  index: -1
+effect/yw/yw0011
+  rotate: true
+  xy: 2, 135
+  size: 119, 125
+  orig: 150, 140
+  offset: 15, 5
+  index: -1
+effect/yw/yw0013
+  rotate: false
+  xy: 2, 607
+  size: 124, 98
+  orig: 150, 140
+  offset: 13, 21
+  index: -1

@@ -1,0 +1,69 @@
+
+grid.png
+size: 938,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grid_0
+  rotate: false
+  xy: 2, 3
+  size: 190, 153
+  orig: 190, 153
+  offset: 0, 0
+  index: -1
+grid_1
+  rotate: true
+  xy: 681, 20
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+grid_2
+  rotate: true
+  xy: 759, 48
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+grid_3
+  rotate: true
+  xy: 503, 48
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+grid_4
+  rotate: true
+  xy: 848, 34
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+grid_5
+  rotate: true
+  xy: 592, 34
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+grid_6
+  rotate: true
+  xy: 438, 3
+  size: 108, 87
+  orig: 108, 87
+  offset: 0, 0
+  index: -1
+vfx/1
+  rotate: 180
+  xy: 193, 4
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+vfx/2
+  rotate: false
+  xy: 327, 37
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

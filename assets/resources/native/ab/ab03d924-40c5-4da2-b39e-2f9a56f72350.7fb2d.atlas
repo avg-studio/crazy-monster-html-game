@@ -1,0 +1,20 @@
+
+role_merge.png
+size: 364,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangzhu
+  rotate: true
+  xy: 2, 2
+  size: 114, 215
+  orig: 140, 224
+  offset: 12, 3
+  index: -1
+guangzhu02
+  rotate: true
+  xy: 2, 118
+  size: 11, 360
+  orig: 30, 400
+  offset: 10, 20
+  index: -1

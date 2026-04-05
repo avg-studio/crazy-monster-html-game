@@ -1,0 +1,34 @@
+
+hs_5_10.png
+size: 773,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_10_1
+  rotate: false
+  xy: 458, 50
+  size: 205, 341
+  orig: 205, 341
+  offset: 0, 0
+  index: -1
+5_10_2
+  rotate: 180
+  xy: 25, 3
+  size: 431, 227
+  orig: 431, 227
+  offset: 0, 0
+  index: -1
+5_10_3
+  rotate: false
+  xy: 2, 127
+  size: 484, 264
+  orig: 484, 264
+  offset: 0, 0
+  index: -1
+5_10_4
+  rotate: 180
+  xy: 606, 125
+  size: 164, 266
+  orig: 164, 266
+  offset: 0, 0
+  index: -1

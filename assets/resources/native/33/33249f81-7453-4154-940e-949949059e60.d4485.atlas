@@ -1,0 +1,20 @@
+
+hs_2_8.png
+size: 371,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_8_1
+  rotate: false
+  xy: 212, 12
+  size: 157, 131
+  orig: 157, 131
+  offset: 0, 0
+  index: -1
+2_8_2
+  rotate: false
+  xy: 2, 2
+  size: 208, 141
+  orig: 208, 141
+  offset: 0, 0
+  index: -1

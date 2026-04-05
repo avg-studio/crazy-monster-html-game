@@ -1,0 +1,41 @@
+
+sk_8.png
+size: 364,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_bullet_10
+  rotate: false
+  xy: 75, 2
+  size: 71, 24
+  orig: 73, 26
+  offset: 1, 1
+  index: -1
+5_bullet_6
+  rotate: false
+  xy: 2, 2
+  size: 71, 24
+  orig: 72, 26
+  offset: 1, 1
+  index: -1
+5_bullet_7
+  rotate: false
+  xy: 293, 2
+  size: 69, 24
+  orig: 71, 26
+  offset: 1, 1
+  index: -1
+5_bullet_8
+  rotate: false
+  xy: 148, 3
+  size: 71, 23
+  orig: 72, 25
+  offset: 0, 1
+  index: -1
+5_bullet_9
+  rotate: false
+  xy: 221, 2
+  size: 70, 24
+  orig: 72, 26
+  offset: 1, 1
+  index: -1

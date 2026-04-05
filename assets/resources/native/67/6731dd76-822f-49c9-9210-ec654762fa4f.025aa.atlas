@@ -1,0 +1,27 @@
+
+hs_6_2.png
+size: 945,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_2_2
+  rotate: false
+  xy: 2, 20
+  size: 655, 672
+  orig: 655, 672
+  offset: 0, 0
+  index: -1
+6_2_3
+  rotate: true
+  xy: 525, 293
+  size: 385, 318
+  orig: 385, 318
+  offset: 0, 0
+  index: -1
+6_3_1
+  rotate: 270
+  xy: 631, 4
+  size: 306, 312
+  orig: 307, 312
+  offset: 0, 0
+  index: -1

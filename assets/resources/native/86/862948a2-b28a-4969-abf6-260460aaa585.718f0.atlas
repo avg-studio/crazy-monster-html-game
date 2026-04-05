@@ -1,0 +1,118 @@
+
+sk_82_hit.png
+size: 113,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 373
+  size: 65, 67
+  orig: 67, 68
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 2, 193
+  size: 57, 66
+  orig: 59, 67
+  offset: 1, 0
+  index: -1
+a3
+  rotate: true
+  xy: 59, 120
+  size: 35, 42
+  orig: 37, 43
+  offset: 1, 1
+  index: -1
+b1
+  rotate: false
+  xy: 2, 118
+  size: 55, 73
+  orig: 57, 75
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 57, 56
+  size: 48, 60
+  orig: 50, 62
+  offset: 1, 1
+  index: -1
+b3
+  rotate: false
+  xy: 57, 2
+  size: 48, 52
+  orig: 49, 54
+  offset: 0, 1
+  index: -1
+ball02
+  rotate: false
+  xy: 2, 442
+  size: 72, 72
+  orig: 76, 76
+  offset: 2, 2
+  index: -1
+c1
+  rotate: false
+  xy: 63, 275
+  size: 41, 48
+  orig: 43, 50
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 76, 477
+  size: 35, 37
+  orig: 36, 39
+  offset: 0, 1
+  index: -1
+c3
+  rotate: false
+  xy: 69, 374
+  size: 30, 24
+  orig: 32, 25
+  offset: 1, 0
+  index: -1
+d1
+  rotate: true
+  xy: 63, 325
+  size: 46, 44
+  orig: 47, 46
+  offset: 0, 1
+  index: -1
+d2
+  rotate: true
+  xy: 69, 400
+  size: 40, 35
+  orig: 41, 37
+  offset: 0, 1
+  index: -1
+d3
+  rotate: false
+  xy: 76, 447
+  size: 34, 28
+  orig: 35, 30
+  offset: 0, 1
+  index: -1
+f1
+  rotate: true
+  xy: 2, 261
+  size: 110, 59
+  orig: 111, 61
+  offset: 0, 1
+  index: -1
+f2
+  rotate: true
+  xy: 2, 10
+  size: 106, 53
+  orig: 107, 55
+  offset: 0, 1
+  index: -1
+f3
+  rotate: true
+  xy: 61, 157
+  size: 102, 46
+  orig: 104, 48
+  offset: 1, 1
+  index: -1

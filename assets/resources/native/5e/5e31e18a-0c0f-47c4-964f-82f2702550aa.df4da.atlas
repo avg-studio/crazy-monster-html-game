@@ -1,0 +1,13 @@
+
+atk_3.png
+size: 93,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 89, 20
+  orig: 89, 21
+  offset: 0, 0
+  index: -1

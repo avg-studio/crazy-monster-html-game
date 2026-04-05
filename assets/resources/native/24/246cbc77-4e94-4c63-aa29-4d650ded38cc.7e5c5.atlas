@@ -1,0 +1,139 @@
+
+2.png
+size: 943,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 641, 27
+  size: 76, 137
+  orig: 81, 150
+  offset: 5, 13
+  index: -1
+arm2
+  rotate: false
+  xy: 834, 97
+  size: 69, 81
+  orig: 71, 83
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 184, 212
+  orig: 184, 212
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 909, 311
+  size: 80, 32
+  orig: 83, 34
+  offset: 2, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 493, 19
+  size: 83, 20
+  orig: 85, 22
+  offset: 1, 1
+  index: -1
+eyebrow1
+  rotate: true
+  xy: 909, 251
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: true
+  xy: 578, 2
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+hair0
+  rotate: false
+  xy: 493, 41
+  size: 146, 92
+  orig: 149, 94
+  offset: 1, 1
+  index: -1
+hair1
+  rotate: true
+  xy: 188, 13
+  size: 77, 173
+  orig: 77, 173
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 681, 105
+  size: 73, 151
+  orig: 73, 154
+  offset: 0, 3
+  index: -1
+hair3
+  rotate: false
+  xy: 401, 135
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 348, 132
+  size: 82, 51
+  orig: 85, 55
+  offset: 2, 2
+  index: -1
+hat
+  rotate: false
+  xy: 188, 92
+  size: 158, 122
+  orig: 160, 124
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 681, 180
+  size: 226, 211
+  orig: 228, 213
+  offset: 1, 1
+  index: -1
+leg1
+  rotate: true
+  xy: 780, 34
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 868, 10
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 188, 3
+  size: 22, 8
+  orig: 24, 10
+  offset: 1, 1
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 216
+  size: 175, 397
+  orig: 177, 401
+  offset: 1, 2
+  index: -1
+zhujue_guangquan
+  rotate: false
+  xy: 363, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

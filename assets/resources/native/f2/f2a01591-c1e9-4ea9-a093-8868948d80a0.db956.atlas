@@ -1,0 +1,146 @@
+
+29b_skin_20.png
+size: 282,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 209, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 50, 4
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 24
+  size: 84, 110
+  orig: 92, 110
+  offset: 7, 0
+  index: -1
+brow
+  rotate: false
+  xy: 77, 14
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 252, 17
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 2
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 146, 2
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 252, 27
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 114, 2
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 209, 21
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: false
+  xy: 170, 3
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 107, 2
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+vfx/3-0001
+  rotate: true
+  xy: 212, 61
+  size: 23, 59
+  orig: 24, 66
+  offset: 0, 4
+  index: -1
+vfx/3-0002
+  rotate: true
+  xy: 212, 86
+  size: 22, 62
+  orig: 24, 66
+  offset: 0, 1
+  index: -1
+vfx/3-0003
+  rotate: true
+  xy: 2, 11
+  size: 11, 46
+  orig: 24, 66
+  offset: 4, 7
+  index: -1
+vfx/vfx_0_1
+  rotate: false
+  xy: 114, 78
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_2
+  rotate: false
+  xy: 114, 39
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_3
+  rotate: true
+  xy: 235, 3
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_4
+  rotate: false
+  xy: 252, 4
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_5
+  rotate: false
+  xy: 24, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1

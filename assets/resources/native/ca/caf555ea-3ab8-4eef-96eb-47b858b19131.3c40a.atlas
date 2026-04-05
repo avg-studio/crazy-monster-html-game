@@ -1,0 +1,13 @@
+
+atk_25.png
+size: 58,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: false
+  xy: 2, 2
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1

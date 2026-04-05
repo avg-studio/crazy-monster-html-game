@@ -1,0 +1,20 @@
+
+hs_11_6.png
+size: 237,937
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_6_1
+  rotate: false
+  xy: 2, 490
+  size: 233, 445
+  orig: 233, 445
+  offset: 0, 0
+  index: -1
+11_6_2
+  rotate: false
+  xy: 2, 4
+  size: 220, 556
+  orig: 221, 557
+  offset: 0, 1
+  index: -1

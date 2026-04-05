@@ -1,0 +1,62 @@
+
+buff_10003.png
+size: 155,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 56, 3
+  size: 33, 39
+  orig: 64, 64
+  offset: 24, 14
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 26, 19
+  orig: 64, 64
+  offset: 22, 23
+  index: -1
+03
+  rotate: true
+  xy: 101, 39
+  size: 39, 41
+  orig: 64, 64
+  offset: 21, 16
+  index: -1
+04
+  rotate: true
+  xy: 129, 8
+  size: 29, 24
+  orig: 64, 64
+  offset: 22, 21
+  index: -1
+05
+  rotate: true
+  xy: 30, 2
+  size: 19, 20
+  orig: 64, 64
+  offset: 24, 22
+  index: -1
+06
+  rotate: false
+  xy: 56, 38
+  size: 43, 40
+  orig: 64, 64
+  offset: 4, 15
+  index: -1
+07
+  rotate: false
+  xy: 97, 5
+  size: 30, 31
+  orig: 64, 64
+  offset: 18, 20
+  index: -1
+boom
+  rotate: false
+  xy: 2, 23
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1

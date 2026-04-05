@@ -1,0 +1,27 @@
+
+hs_10_4.png
+size: 541,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_4_1
+  rotate: true
+  xy: 2, 101
+  size: 207, 229
+  orig: 207, 231
+  offset: 0, 1
+  index: -1
+10_4_2
+  rotate: false
+  xy: 2, 153
+  size: 536, 473
+  orig: 536, 474
+  offset: 0, 0
+  index: -1
+10_4_3
+  rotate: true
+  xy: 219, 3
+  size: 218, 235
+  orig: 219, 235
+  offset: 1, 0
+  index: -1

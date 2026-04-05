@@ -1,0 +1,48 @@
+
+hs_11_1.png
+size: 354,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/1
+  rotate: false
+  xy: 2, 512
+  size: 350, 100
+  orig: 350, 100
+  offset: 0, 0
+  index: -1
+vfx/2
+  rotate: false
+  xy: 2, 410
+  size: 350, 100
+  orig: 350, 100
+  offset: 0, 0
+  index: -1
+vfx/3
+  rotate: false
+  xy: 2, 308
+  size: 350, 100
+  orig: 350, 100
+  offset: 0, 0
+  index: -1
+vfx/4
+  rotate: false
+  xy: 2, 206
+  size: 350, 100
+  orig: 350, 100
+  offset: 0, 0
+  index: -1
+vfx/5
+  rotate: false
+  xy: 2, 104
+  size: 350, 100
+  orig: 350, 100
+  offset: 0, 0
+  index: -1
+vfx/6
+  rotate: false
+  xy: 2, 2
+  size: 350, 100
+  orig: 350, 100
+  offset: 0, 0
+  index: -1

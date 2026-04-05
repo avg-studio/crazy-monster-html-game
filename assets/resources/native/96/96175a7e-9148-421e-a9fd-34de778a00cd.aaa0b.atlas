@@ -1,0 +1,83 @@
+
+sk_119_hit.png
+size: 446,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingbaoa_0000
+  rotate: false
+  xy: 2, 391
+  size: 158, 171
+  orig: 750, 640
+  offset: 287, 224
+  index: -1
+bingbaoa_0001
+  rotate: true
+  xy: 162, 429
+  size: 133, 152
+  orig: 750, 640
+  offset: 297, 246
+  index: -1
+bingbaoa_0002
+  rotate: false
+  xy: 2, 109
+  size: 131, 140
+  orig: 750, 640
+  offset: 306, 261
+  index: -1
+bingbaoa_0003
+  rotate: true
+  xy: 2, 251
+  size: 138, 166
+  orig: 750, 640
+  offset: 305, 240
+  index: -1
+bingbaoa_0004
+  rotate: false
+  xy: 170, 281
+  size: 132, 146
+  orig: 750, 640
+  offset: 303, 263
+  index: -1
+bingbaoa_0005
+  rotate: false
+  xy: 289, 130
+  size: 129, 149
+  orig: 750, 640
+  offset: 307, 263
+  index: -1
+bingbaoa_0006
+  rotate: true
+  xy: 289, 2
+  size: 126, 155
+  orig: 750, 640
+  offset: 303, 263
+  index: -1
+bingbaoa_0007
+  rotate: false
+  xy: 316, 407
+  size: 126, 155
+  orig: 750, 640
+  offset: 304, 266
+  index: -1
+bingbaoa_0008
+  rotate: true
+  xy: 135, 4
+  size: 117, 152
+  orig: 750, 640
+  offset: 313, 266
+  index: -1
+bingbaoa_0009
+  rotate: false
+  xy: 170, 123
+  size: 117, 156
+  orig: 750, 640
+  offset: 313, 265
+  index: -1
+glow
+  rotate: true
+  xy: 304, 289
+  size: 116, 124
+  orig: 750, 640
+  offset: 307, 243
+  index: -1

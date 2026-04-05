@@ -1,0 +1,237 @@
+
+buy_meat.png
+size: 2033,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 1234, 220
+  size: 167, 258
+  orig: 169, 260
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 1070, 216
+  size: 162, 262
+  orig: 164, 264
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 694, 210
+  size: 163, 268
+  orig: 165, 270
+  offset: 1, 1
+  index: -1
+a4
+  rotate: true
+  xy: 282, 2
+  size: 157, 270
+  orig: 161, 272
+  offset: 1, 1
+  index: -1
+a5
+  rotate: false
+  xy: 538, 200
+  size: 154, 278
+  orig: 156, 280
+  offset: 1, 1
+  index: -1
+a6
+  rotate: false
+  xy: 1297, 7
+  size: 155, 211
+  orig: 157, 213
+  offset: 1, 1
+  index: -1
+a7
+  rotate: false
+  xy: 1403, 247
+  size: 157, 231
+  orig: 159, 233
+  offset: 1, 1
+  index: -1
+a8
+  rotate: true
+  xy: 1045, 35
+  size: 175, 250
+  orig: 177, 252
+  offset: 1, 1
+  index: -1
+arm_1
+  rotate: true
+  xy: 1714, 138
+  size: 85, 90
+  orig: 87, 93
+  offset: 1, 1
+  index: -1
+arm_2
+  rotate: false
+  xy: 1758, 225
+  size: 161, 122
+  orig: 161, 122
+  offset: 0, 0
+  index: -1
+arm_2_0
+  rotate: false
+  xy: 1921, 265
+  size: 110, 62
+  orig: 112, 66
+  offset: 1, 2
+  index: -1
+body
+  rotate: false
+  xy: 597, 5
+  size: 224, 193
+  orig: 226, 195
+  offset: 1, 1
+  index: -1
+body_0
+  rotate: false
+  xy: 1923, 401
+  size: 108, 77
+  orig: 111, 80
+  offset: 1, 1
+  index: -1
+cloak
+  rotate: true
+  xy: 2, 125
+  size: 353, 260
+  orig: 353, 260
+  offset: 0, 0
+  index: -1
+cloak_01
+  rotate: true
+  xy: 1923, 329
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+cloak_02
+  rotate: false
+  xy: 1588, 5
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+cloak_03
+  rotate: false
+  xy: 1677, 314
+  size: 79, 164
+  orig: 79, 164
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 1045, 10
+  size: 60, 23
+  orig: 62, 25
+  offset: 1, 1
+  index: -1
+fan
+  rotate: false
+  xy: 1921, 135
+  size: 105, 128
+  orig: 107, 130
+  offset: 1, 1
+  index: -1
+hand_0
+  rotate: false
+  xy: 1806, 143
+  size: 77, 80
+  orig: 79, 82
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 117, 4
+  size: 163, 119
+  orig: 165, 122
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 823, 18
+  size: 190, 220
+  orig: 192, 222
+  offset: 1, 1
+  index: -1
+head_01
+  rotate: false
+  xy: 1588, 47
+  size: 70, 211
+  orig: 72, 213
+  offset: 1, 1
+  index: -1
+head_02
+  rotate: false
+  xy: 1562, 260
+  size: 113, 218
+  orig: 115, 220
+  offset: 1, 1
+  index: -1
+leg_0
+  rotate: false
+  xy: 1852, 14
+  size: 136, 119
+  orig: 138, 126
+  offset: 1, 1
+  index: -1
+leg_1
+  rotate: true
+  xy: 1454, 18
+  size: 227, 132
+  orig: 227, 133
+  offset: 0, 0
+  index: -1
+meat
+  rotate: true
+  xy: 264, 161
+  size: 317, 272
+  orig: 317, 272
+  offset: 0, 0
+  index: -1
+meat_01
+  rotate: false
+  xy: 554, 3
+  size: 41, 195
+  orig: 45, 197
+  offset: 2, 1
+  index: -1
+meat_02
+  rotate: false
+  xy: 1660, 48
+  size: 52, 210
+  orig: 94, 212
+  offset: 41, 1
+  index: -1
+shoulder_1
+  rotate: false
+  xy: 1758, 349
+  size: 163, 129
+  orig: 166, 132
+  offset: 1, 2
+  index: -1
+shoulder_1_0
+  rotate: false
+  xy: 1714, 4
+  size: 136, 129
+  orig: 139, 132
+  offset: 1, 2
+  index: -1
+shoulder_2
+  rotate: false
+  xy: 2, 3
+  size: 113, 120
+  orig: 115, 123
+  offset: 1, 1
+  index: -1
+smoke
+  rotate: true
+  xy: 859, 212
+  size: 266, 209
+  orig: 266, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+hs_9_smoke.png
+size: 331,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 327, 203
+  orig: 331, 215
+  offset: 3, 4
+  index: -1

@@ -1,0 +1,27 @@
+
+sk_69.png
+size: 185,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: true
+  xy: 2, 4
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+dianbao03
+  rotate: false
+  xy: 124, 2
+  size: 59, 56
+  orig: 90, 74
+  offset: 16, 9
+  index: -1
+dianbao05
+  rotate: false
+  xy: 68, 4
+  size: 54, 54
+  orig: 90, 74
+  offset: 18, 10
+  index: -1

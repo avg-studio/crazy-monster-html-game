@@ -1,0 +1,174 @@
+
+lucky_gem.png
+size: 977,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crystal_0
+  rotate: false
+  xy: 809, 124
+  size: 70, 113
+  orig: 71, 116
+  offset: 1, 3
+  index: -1
+Crystal_1
+  rotate: true
+  xy: 449, 9
+  size: 84, 130
+  orig: 84, 130
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: false
+  xy: 564, 110
+  size: 128, 140
+  orig: 130, 150
+  offset: 1, 9
+  index: -1
+arm_R_1
+  rotate: true
+  xy: 581, 2
+  size: 106, 123
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: false
+  xy: 872, 263
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 694, 125
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 254, 4
+  size: 193, 233
+  orig: 193, 233
+  offset: 0, 0
+  index: -1
+brow
+  rotate: true
+  xy: 940, 145
+  size: 116, 26
+  orig: 116, 26
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 881, 138
+  size: 123, 34
+  orig: 123, 34
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 917, 138
+  size: 123, 21
+  orig: 123, 21
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 882, 22
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 851, 18
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 706, 4
+  size: 79, 119
+  orig: 79, 119
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 560, 252
+  size: 167, 264
+  orig: 167, 264
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 866, 364
+  size: 98, 152
+  orig: 98, 152
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 729, 318
+  size: 135, 198
+  orig: 135, 200
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 851, 47
+  size: 75, 68
+  orig: 82, 70
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 4
+  size: 250, 233
+  orig: 250, 233
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 239
+  size: 277, 277
+  orig: 308, 311
+  offset: 17, 17
+  index: -1
+light 2
+  rotate: false
+  xy: 281, 239
+  size: 277, 277
+  orig: 308, 311
+  offset: 16, 17
+  index: -1
+thing_1
+  rotate: false
+  xy: 787, 40
+  size: 62, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+thing_2
+  rotate: false
+  xy: 449, 95
+  size: 113, 142
+  orig: 113, 144
+  offset: 0, 2
+  index: -1
+thing_3
+  rotate: true
+  xy: 729, 239
+  size: 77, 141
+  orig: 86, 144
+  offset: 0, 3
+  index: -1
+thing_4
+  rotate: true
+  xy: 787, 7
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1

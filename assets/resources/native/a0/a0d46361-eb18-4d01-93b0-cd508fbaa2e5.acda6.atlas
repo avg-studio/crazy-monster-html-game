@@ -1,0 +1,167 @@
+
+1.png
+size: 1008,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 812, 124
+  size: 89, 183
+  orig: 89, 183
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 2, 4
+  size: 108, 163
+  orig: 108, 163
+  offset: 0, 0
+  index: -1
+ass
+  rotate: true
+  xy: 859, 21
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 112, 12
+  size: 155, 169
+  orig: 155, 169
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 937, 2
+  size: 23, 29
+  orig: 25, 31
+  offset: 1, 1
+  index: -1
+eye1s
+  rotate: false
+  xy: 706, 3
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 962, 4
+  size: 20, 27
+  orig: 22, 30
+  offset: 1, 2
+  index: -1
+eye2s
+  rotate: false
+  xy: 733, 4
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 812, 16
+  size: 106, 45
+  orig: 108, 56
+  offset: 2, 1
+  index: -1
+foot1
+  rotate: false
+  xy: 937, 76
+  size: 69, 46
+  orig: 71, 48
+  offset: 1, 1
+  index: -1
+foot2
+  rotate: false
+  xy: 937, 33
+  size: 66, 41
+  orig: 68, 43
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 169
+  size: 253, 251
+  orig: 253, 251
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 926, 260
+  size: 65, 97
+  orig: 65, 105
+  offset: 0, 8
+  index: -1
+leg2
+  rotate: false
+  xy: 861, 256
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 476, 189
+  size: 47, 12
+  orig: 47, 12
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 861, 221
+  size: 33, 23
+  orig: 36, 25
+  offset: 2, 1
+  index: -1
+ns
+  rotate: false
+  xy: 255, 179
+  size: 219, 243
+  orig: 219, 243
+  offset: 0, 0
+  index: -1
+shorts
+  rotate: false
+  xy: 861, 359
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+vfx/fx_1
+  rotate: false
+  xy: 283, 6
+  size: 240, 171
+  orig: 269, 197
+  offset: 0, 13
+  index: -1
+vfx/fx_2
+  rotate: true
+  xy: 525, 3
+  size: 198, 179
+  orig: 269, 197
+  offset: 62, 9
+  index: -1
+vfx/fx_3
+  rotate: true
+  xy: 672, 215
+  size: 207, 187
+  orig: 269, 197
+  offset: 59, 5
+  index: -1
+vfx/fx_4
+  rotate: true
+  xy: 476, 203
+  size: 219, 194
+  orig: 269, 197
+  offset: 48, 1
+  index: -1
+vfx/fx_5
+  rotate: true
+  xy: 706, 22
+  size: 191, 104
+  orig: 269, 197
+  offset: 36, 49
+  index: -1

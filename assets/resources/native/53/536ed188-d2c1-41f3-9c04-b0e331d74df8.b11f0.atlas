@@ -1,0 +1,55 @@
+
+sk_1008_hit.png
+size: 147,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 2, 48
+  size: 165, 99
+  orig: 167, 101
+  offset: 1, 1
+  index: -1
+ice_1
+  rotate: false
+  xy: 2, 2
+  size: 45, 44
+  orig: 47, 46
+  offset: 1, 1
+  index: -1
+ice_2
+  rotate: false
+  xy: 103, 47
+  size: 35, 55
+  orig: 37, 57
+  offset: 1, 1
+  index: -1
+ice_3
+  rotate: false
+  xy: 103, 104
+  size: 42, 109
+  orig: 44, 112
+  offset: 1, 1
+  index: -1
+ice_4
+  rotate: false
+  xy: 49, 25
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+ice_5
+  rotate: false
+  xy: 74, 30
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 2, 215
+  size: 128, 128
+  orig: 130, 130
+  offset: 1, 1
+  index: -1

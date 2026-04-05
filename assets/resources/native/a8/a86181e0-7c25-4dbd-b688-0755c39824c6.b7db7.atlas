@@ -1,0 +1,55 @@
+
+sk_20005_buff.png
+size: 280,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 60
+  size: 81, 122
+  orig: 130, 130
+  offset: 30, 4
+  index: -1
+b2
+  rotate: false
+  xy: 85, 60
+  size: 77, 122
+  orig: 130, 130
+  offset: 34, 5
+  index: -1
+b3
+  rotate: false
+  xy: 164, 61
+  size: 71, 121
+  orig: 130, 130
+  offset: 34, 4
+  index: -1
+b4
+  rotate: true
+  xy: 2, 2
+  size: 56, 110
+  orig: 130, 130
+  offset: 32, 12
+  index: -1
+b5
+  rotate: true
+  xy: 114, 3
+  size: 55, 97
+  orig: 130, 130
+  offset: 37, 15
+  index: -1
+b6
+  rotate: false
+  xy: 237, 98
+  size: 41, 84
+  orig: 130, 130
+  offset: 41, 21
+  index: -1
+b7
+  rotate: false
+  xy: 237, 24
+  size: 34, 72
+  orig: 130, 130
+  offset: 48, 25
+  index: -1

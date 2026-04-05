@@ -1,0 +1,20 @@
+
+hs_4_4.png
+size: 394,839
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_4_1
+  rotate: 180
+  xy: 25, 3
+  size: 317, 257
+  orig: 347, 257
+  offset: 0, 0
+  index: -1
+4_4_2
+  rotate: false
+  xy: 2, 196
+  size: 390, 641
+  orig: 395, 641
+  offset: 0, 0
+  index: -1

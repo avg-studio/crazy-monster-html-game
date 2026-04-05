@@ -1,0 +1,181 @@
+
+8.png
+size: 761,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_1
+  rotate: true
+  xy: 317, 49
+  size: 153, 135
+  orig: 153, 135
+  offset: 0, 0
+  index: -1
+12_2
+  rotate: true
+  xy: 2, 14
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+8_arm_1
+  rotate: false
+  xy: 213, 5
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+8_arm_2
+  rotate: true
+  xy: 694, 64
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+8_body
+  rotate: true
+  xy: 545, 55
+  size: 52, 57
+  orig: 52, 58
+  offset: 0, 1
+  index: -1
+8_eff_1
+  rotate: true
+  xy: 331, 2
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+8_eye_1
+  rotate: true
+  xy: 694, 85
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+8_eye_2
+  rotate: true
+  xy: 714, 85
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+8_hair4
+  rotate: true
+  xy: 416, 3
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+8_hand_1
+  rotate: true
+  xy: 136, 3
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+8_hand_2
+  rotate: false
+  xy: 733, 93
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+8_head
+  rotate: false
+  xy: 677, 121
+  size: 78, 81
+  orig: 95, 96
+  offset: 7, 9
+  index: -1
+8_leg_1
+  rotate: true
+  xy: 170, 4
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+8_leg_2
+  rotate: false
+  xy: 667, 67
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+8_weapon_1
+  rotate: false
+  xy: 497, 2
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+8_weapon_2
+  rotate: true
+  xy: 565, 3
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+8_wing_1_1
+  rotate: false
+  xy: 545, 109
+  size: 56, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+8_wing_1_2
+  rotate: true
+  xy: 635, 6
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+8_wing_2_1
+  rotate: true
+  xy: 240, 2
+  size: 39, 89
+  orig: 39, 89
+  offset: 0, 0
+  index: -1
+8_wing_2_2
+  rotate: true
+  xy: 604, 64
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 3
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+tx0001
+  rotate: true
+  xy: 454, 52
+  size: 150, 89
+  orig: 168, 95
+  offset: 8, 2
+  index: -1
+tx0003
+  rotate: true
+  xy: 136, 34
+  size: 168, 88
+  orig: 168, 95
+  offset: 0, 3
+  index: -1
+tx0005
+  rotate: true
+  xy: 226, 43
+  size: 159, 89
+  orig: 168, 95
+  offset: 9, 3
+  index: -1
+tx0007
+  rotate: true
+  xy: 603, 110
+  size: 92, 72
+  orig: 168, 95
+  offset: 17, 11
+  index: -1

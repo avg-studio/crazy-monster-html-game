@@ -1,0 +1,20 @@
+
+buff_heal_s.png
+size: 157,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_1
+  rotate: true
+  xy: 2, 2
+  size: 94, 123
+  orig: 105, 135
+  offset: 6, 6
+  index: -1
+eff_2
+  rotate: false
+  xy: 127, 68
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

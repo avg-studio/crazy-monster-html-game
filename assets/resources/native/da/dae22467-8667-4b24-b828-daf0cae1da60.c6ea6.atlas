@@ -1,0 +1,118 @@
+
+buff_lightningshield.png
+size: 144,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tx_1_0001
+  rotate: true
+  xy: 59, 60
+  size: 52, 54
+  orig: 60, 60
+  offset: 4, 4
+  index: -1
+effect/tx_1_0002
+  rotate: true
+  xy: 59, 6
+  size: 52, 54
+  orig: 60, 60
+  offset: 4, 4
+  index: -1
+effect/tx_1_0003
+  rotate: true
+  xy: 2, 114
+  size: 55, 56
+  orig: 60, 60
+  offset: 2, 3
+  index: -1
+effect/tx_1_0004
+  rotate: true
+  xy: 60, 114
+  size: 55, 56
+  orig: 60, 60
+  offset: 2, 3
+  index: -1
+effect/tx_1_0005
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 60, 60
+  offset: 4, 5
+  index: -1
+effect/tx_1_0006
+  rotate: false
+  xy: 2, 57
+  size: 55, 55
+  orig: 60, 60
+  offset: 3, 3
+  index: -1
+effect/x0000
+  rotate: true
+  xy: 99, 272
+  size: 93, 43
+  orig: 100, 47
+  offset: 5, 2
+  index: -1
+effect/x0001
+  rotate: false
+  xy: 2, 336
+  size: 95, 42
+  orig: 100, 47
+  offset: 3, 2
+  index: -1
+effect/x0002
+  rotate: false
+  xy: 2, 422
+  size: 97, 41
+  orig: 100, 47
+  offset: 2, 1
+  index: -1
+effect/x0003
+  rotate: true
+  xy: 101, 367
+  size: 96, 40
+  orig: 100, 47
+  offset: 2, 1
+  index: -1
+effect/x0004
+  rotate: false
+  xy: 2, 380
+  size: 96, 40
+  orig: 100, 47
+  offset: 1, 1
+  index: -1
+effect/x0005
+  rotate: false
+  xy: 2, 295
+  size: 94, 39
+  orig: 100, 47
+  offset: 2, 2
+  index: -1
+effect/x0006
+  rotate: false
+  xy: 2, 254
+  size: 90, 39
+  orig: 100, 47
+  offset: 3, 3
+  index: -1
+effect/x0007
+  rotate: false
+  xy: 2, 171
+  size: 88, 39
+  orig: 100, 47
+  offset: 5, 4
+  index: -1
+effect/x0008
+  rotate: false
+  xy: 2, 212
+  size: 88, 40
+  orig: 100, 47
+  offset: 7, 4
+  index: -1
+effect/x0009
+  rotate: true
+  xy: 94, 181
+  size: 89, 42
+  orig: 100, 47
+  offset: 7, 3
+  index: -1

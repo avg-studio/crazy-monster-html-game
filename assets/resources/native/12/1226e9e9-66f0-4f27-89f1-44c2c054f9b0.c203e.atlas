@@ -1,0 +1,34 @@
+
+leader_skill.png
+size: 163,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_skill1_guangdian
+  rotate: false
+  xy: 89, 12
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+tx_skill1_huiji1
+  rotate: false
+  xy: 2, 2
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+tx_skill2_guang
+  rotate: false
+  xy: 89, 29
+  size: 62, 58
+  orig: 65, 65
+  offset: 1, 3
+  index: -1
+tx_skill2_guangxian
+  rotate: false
+  xy: 2, 89
+  size: 159, 15
+  orig: 160, 15
+  offset: 1, 0
+  index: -1

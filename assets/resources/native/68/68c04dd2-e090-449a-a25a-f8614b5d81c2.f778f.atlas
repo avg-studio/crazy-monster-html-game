@@ -1,0 +1,181 @@
+
+14.png
+size: 600,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm2
+  rotate: true
+  xy: 98, 2
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+arm4
+  rotate: false
+  xy: 360, 20
+  size: 39, 29
+  orig: 41, 29
+  offset: 2, 0
+  index: -1
+arm5
+  rotate: true
+  xy: 229, 2
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 402, 3
+  size: 58, 71
+  orig: 58, 73
+  offset: 0, 2
+  index: -1
+bq
+  rotate: false
+  xy: 573, 2
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+bq1
+  rotate: true
+  xy: 543, 2
+  size: 29, 5
+  orig: 29, 5
+  offset: 0, 0
+  index: -1
+effect/dg/dg_01
+  rotate: true
+  xy: 207, 51
+  size: 88, 99
+  orig: 109, 100
+  offset: 21, 0
+  index: -1
+effect/dg/dg_03
+  rotate: false
+  xy: 98, 52
+  size: 107, 87
+  orig: 109, 100
+  offset: 2, 10
+  index: -1
+effect/dg/dg_06
+  rotate: false
+  xy: 308, 51
+  size: 92, 88
+  orig: 109, 100
+  offset: 3, 8
+  index: -1
+foot1
+  rotate: true
+  xy: 2, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 495, 64
+  size: 81, 75
+  orig: 94, 95
+  offset: 11, 19
+  index: -1
+lang_body
+  rotate: false
+  xy: 284, 10
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+lang_body1
+  rotate: true
+  xy: 402, 63
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+lang_body2
+  rotate: false
+  xy: 475, 3
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+lang_leg1
+  rotate: true
+  xy: 578, 114
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+lang_leg1a
+  rotate: true
+  xy: 550, 9
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+lang_leg2
+  rotate: false
+  xy: 549, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+lang_leg2a
+  rotate: false
+  xy: 517, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+lang_leg3
+  rotate: true
+  xy: 517, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+lang_leg3a
+  rotate: true
+  xy: 574, 13
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+lang_leg4
+  rotate: false
+  xy: 29, 4
+  size: 33, 26
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+lang_leg4a
+  rotate: true
+  xy: 574, 37
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+lang_tail
+  rotate: false
+  xy: 154, 2
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 64, 6
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 32
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1

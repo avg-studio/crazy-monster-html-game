@@ -1,0 +1,48 @@
+
+guide_move.png
+size: 455,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_hand
+  rotate: false
+  xy: 162, 70
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+joystick_0
+  rotate: false
+  xy: 2, 40
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+joystick_1
+  rotate: false
+  xy: 282, 118
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+joystick_2
+  rotate: true
+  xy: 162, 40
+  size: 28, 114
+  orig: 206, 200
+  offset: 155, 43
+  index: -1
+joystick_arrow
+  rotate: true
+  xy: 282, 83
+  size: 33, 90
+  orig: 34, 92
+  offset: 0, 1
+  index: -1
+txt
+  rotate: false
+  xy: 2, 2
+  size: 451, 36
+  orig: 451, 36
+  offset: 0, 0
+  index: -1

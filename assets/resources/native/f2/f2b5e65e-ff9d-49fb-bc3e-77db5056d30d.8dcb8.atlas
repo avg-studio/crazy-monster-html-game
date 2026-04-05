@@ -1,0 +1,20 @@
+
+hs_8_1.png
+size: 671,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_1_1
+  rotate: false
+  xy: 2, 339
+  size: 666, 340
+  orig: 666, 340
+  offset: 0, 0
+  index: -1
+8_1_2
+  rotate: 270
+  xy: 2, 3
+  size: 336, 664
+  orig: 336, 664
+  offset: 0, 0
+  index: -1

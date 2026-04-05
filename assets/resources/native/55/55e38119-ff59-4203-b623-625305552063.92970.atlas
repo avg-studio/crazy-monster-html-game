@@ -1,0 +1,20 @@
+
+eff_spring.png
+size: 232,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_huan
+  rotate: true
+  xy: 154, 5
+  size: 143, 76
+  orig: 145, 78
+  offset: 1, 1
+  index: -1
+eff_qiu
+  rotate: false
+  xy: 2, 2
+  size: 150, 146
+  orig: 150, 146
+  offset: 0, 0
+  index: -1

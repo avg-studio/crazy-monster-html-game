@@ -1,0 +1,20 @@
+
+hs_4_bg.png
+size: 754,1470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 2
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 379
+  size: 750, 1089
+  orig: 750, 1089
+  offset: 0, 0
+  index: -1

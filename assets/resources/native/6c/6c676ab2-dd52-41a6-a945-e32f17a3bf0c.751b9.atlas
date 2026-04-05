@@ -1,0 +1,41 @@
+
+sk_54_hit.png
+size: 664,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji00001
+  rotate: true
+  xy: 2, 3
+  size: 166, 160
+  orig: 180, 165
+  offset: 5, 4
+  index: -1
+shouji00003
+  rotate: true
+  xy: 164, 2
+  size: 167, 153
+  orig: 180, 165
+  offset: 2, 8
+  index: -1
+shouji00005
+  rotate: true
+  xy: 319, 4
+  size: 165, 140
+  orig: 180, 165
+  offset: 4, 16
+  index: -1
+shouji00007
+  rotate: true
+  xy: 461, 29
+  size: 140, 131
+  orig: 180, 165
+  offset: 17, 22
+  index: -1
+shouji00009
+  rotate: false
+  xy: 594, 99
+  size: 68, 70
+  orig: 180, 165
+  offset: 57, 45
+  index: -1

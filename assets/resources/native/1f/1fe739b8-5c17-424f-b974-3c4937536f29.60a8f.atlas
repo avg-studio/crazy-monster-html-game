@@ -1,0 +1,41 @@
+
+sk_42_hit.png
+size: 562,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/yz/yz0001
+  rotate: false
+  xy: 483, 2
+  size: 77, 67
+  orig: 148, 77
+  offset: 4, 7
+  index: -1
+effect/yz/yz0003
+  rotate: false
+  xy: 377, 2
+  size: 104, 67
+  orig: 148, 77
+  offset: 12, 5
+  index: -1
+effect/yz/yz0006
+  rotate: false
+  xy: 257, 2
+  size: 118, 67
+  orig: 148, 77
+  offset: 11, 3
+  index: -1
+effect/yz/yz0009
+  rotate: false
+  xy: 2, 6
+  size: 129, 63
+  orig: 148, 77
+  offset: 11, 4
+  index: -1
+effect/yz/yz0014
+  rotate: false
+  xy: 133, 7
+  size: 122, 62
+  orig: 148, 77
+  offset: 18, 9
+  index: -1

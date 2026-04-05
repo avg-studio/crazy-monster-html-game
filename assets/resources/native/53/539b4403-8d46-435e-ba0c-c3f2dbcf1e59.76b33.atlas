@@ -1,0 +1,48 @@
+
+buff_fanghuzhao.png
+size: 469,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingzhao_0000
+  rotate: true
+  xy: 2, 2
+  size: 140, 154
+  orig: 198, 211
+  offset: 30, 20
+  index: -1
+bingzhao_0004
+  rotate: true
+  xy: 2, 145
+  size: 138, 152
+  orig: 198, 211
+  offset: 33, 20
+  index: -1
+bingzhao_0008
+  rotate: true
+  xy: 156, 144
+  size: 139, 152
+  orig: 198, 211
+  offset: 31, 20
+  index: -1
+bingzhao_0012
+  rotate: true
+  xy: 158, 2
+  size: 140, 154
+  orig: 198, 211
+  offset: 30, 20
+  index: -1
+bingzhao_0016
+  rotate: true
+  xy: 314, 2
+  size: 140, 153
+  orig: 198, 211
+  offset: 31, 20
+  index: -1
+bingzhao_0020
+  rotate: true
+  xy: 310, 144
+  size: 139, 153
+  orig: 198, 211
+  offset: 30, 20
+  index: -1

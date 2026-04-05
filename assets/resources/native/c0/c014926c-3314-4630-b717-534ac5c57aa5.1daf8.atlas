@@ -1,0 +1,90 @@
+
+build_arena.png
+size: 679,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1202009
+  rotate: true
+  xy: 465, 130
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+1202029
+  rotate: true
+  xy: 552, 158
+  size: 145, 125
+  orig: 145, 125
+  offset: 0, 0
+  index: -1
+1202035
+  rotate: false
+  xy: 425, 305
+  size: 239, 234
+  orig: 239, 234
+  offset: 0, 0
+  index: -1
+1202045
+  rotate: false
+  xy: 2, 4
+  size: 173, 110
+  orig: 173, 110
+  offset: 0, 0
+  index: -1
+1202064
+  rotate: false
+  xy: 177, 12
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+1202066
+  rotate: true
+  xy: 425, 2
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+1202121
+  rotate: true
+  xy: 303, 16
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+1202143
+  rotate: true
+  xy: 465, 181
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 552, 8
+  size: 115, 148
+  orig: 115, 148
+  offset: 0, 0
+  index: -1
+image/1
+  rotate: false
+  xy: 2, 116
+  size: 397, 423
+  orig: 397, 423
+  offset: 0, 0
+  index: -1
+image/2
+  rotate: false
+  xy: 401, 458
+  size: 18, 81
+  orig: 18, 81
+  offset: 0, 0
+  index: -1
+image/3
+  rotate: true
+  xy: 401, 130
+  size: 173, 62
+  orig: 173, 62
+  offset: 0, 0
+  index: -1

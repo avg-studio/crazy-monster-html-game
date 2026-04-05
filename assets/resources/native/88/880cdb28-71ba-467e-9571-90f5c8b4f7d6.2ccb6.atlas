@@ -1,0 +1,83 @@
+
+open_the_door.png
+size: 1001,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+door_0_L
+  rotate: false
+  xy: 366, 513
+  size: 448, 466
+  orig: 454, 472
+  offset: 3, 3
+  index: -1
+door_1
+  rotate: true
+  xy: 2, 140
+  size: 221, 375
+  orig: 221, 375
+  offset: 0, 0
+  index: -1
+door_2
+  rotate: true
+  xy: 379, 300
+  size: 211, 375
+  orig: 211, 375
+  offset: 0, 0
+  index: -1
+door_light
+  rotate: true
+  xy: 2, 363
+  size: 616, 362
+  orig: 624, 372
+  offset: 4, 10
+  index: -1
+door_pai
+  rotate: true
+  xy: 2, 3
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+flashlight
+  rotate: true
+  xy: 756, 216
+  size: 211, 243
+  orig: 229, 257
+  offset: 9, 7
+  index: -1
+lightning01
+  rotate: true
+  xy: 562, 75
+  size: 223, 181
+  orig: 237, 181
+  offset: 6, 0
+  index: -1
+lightning02a
+  rotate: true
+  xy: 816, 705
+  size: 274, 181
+  orig: 290, 181
+  offset: 8, 0
+  index: -1
+lightning02b
+  rotate: true
+  xy: 816, 429
+  size: 274, 181
+  orig: 290, 181
+  offset: 8, 0
+  index: -1
+lightning02c
+  rotate: true
+  xy: 379, 24
+  size: 274, 181
+  orig: 290, 181
+  offset: 8, 0
+  index: -1
+star
+  rotate: false
+  xy: 152, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1

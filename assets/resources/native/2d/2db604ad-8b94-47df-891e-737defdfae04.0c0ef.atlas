@@ -1,0 +1,27 @@
+
+hs_7_9.png
+size: 398,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_9_1
+  rotate: true
+  xy: 227, 28
+  size: 246, 165
+  orig: 247, 165
+  offset: 1, 0
+  index: -1
+7_9_2
+  rotate: false
+  xy: 2, 71
+  size: 395, 516
+  orig: 395, 516
+  offset: 0, 0
+  index: -1
+vfx
+  rotate: false
+  xy: 2, 3
+  size: 191, 66
+  orig: 191, 66
+  offset: 0, 0
+  index: -1

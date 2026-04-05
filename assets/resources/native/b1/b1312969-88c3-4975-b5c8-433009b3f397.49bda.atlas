@@ -1,0 +1,209 @@
+
+guild_npc_tech.png
+size: 962,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_2_1
+  rotate: true
+  xy: 774, 217
+  size: 109, 131
+  orig: 111, 133
+  offset: 1, 1
+  index: -1
+arm_2_2
+  rotate: false
+  xy: 243, 3
+  size: 97, 87
+  orig: 99, 89
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 314, 104
+  size: 227, 153
+  orig: 227, 153
+  offset: 0, 0
+  index: -1
+book_1
+  rotate: false
+  xy: 314, 259
+  size: 247, 227
+  orig: 249, 230
+  offset: 1, 2
+  index: -1
+book_2
+  rotate: false
+  xy: 563, 303
+  size: 209, 183
+  orig: 210, 184
+  offset: 0, 0
+  index: -1
+brow_1
+  rotate: true
+  xy: 813, 9
+  size: 32, 19
+  orig: 32, 20
+  offset: 0, 1
+  index: -1
+brow_2
+  rotate: false
+  xy: 911, 57
+  size: 45, 22
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 563, 142
+  size: 201, 159
+  orig: 201, 159
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: true
+  xy: 763, 2
+  size: 39, 48
+  orig: 41, 50
+  offset: 1, 1
+  index: -1
+eye_1
+  rotate: false
+  xy: 429, 8
+  size: 105, 33
+  orig: 105, 33
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 543, 149
+  size: 108, 18
+  orig: 110, 20
+  offset: 1, 1
+  index: -1
+eyeball_1
+  rotate: false
+  xy: 942, 199
+  size: 18, 22
+  orig: 20, 24
+  offset: 1, 1
+  index: -1
+eyeball_2
+  rotate: false
+  xy: 536, 10
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 774, 328
+  size: 186, 158
+  orig: 193, 158
+  offset: 7, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 907, 223
+  size: 103, 50
+  orig: 103, 50
+  offset: 0, 0
+  index: -1
+glasses_light
+  rotate: false
+  xy: 766, 128
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+glasses_light2
+  rotate: true
+  xy: 911, 81
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 543, 39
+  size: 113, 101
+  orig: 113, 101
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 342, 7
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 846, 41
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 243, 92
+  size: 69, 89
+  orig: 69, 91
+  offset: 0, 2
+  index: -1
+hair5
+  rotate: false
+  xy: 884, 131
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 658, 38
+  size: 103, 102
+  orig: 105, 114
+  offset: 1, 11
+  index: -1
+hand_1
+  rotate: false
+  xy: 763, 43
+  size: 81, 83
+  orig: 83, 87
+  offset: 1, 2
+  index: -1
+hand_2
+  rotate: false
+  xy: 429, 43
+  size: 108, 59
+  orig: 110, 61
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 2, 183
+  size: 310, 303
+  orig: 310, 308
+  offset: 0, 5
+  index: -1
+mouth_1
+  rotate: true
+  xy: 942, 164
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 911, 44
+  size: 33, 11
+  orig: 35, 13
+  offset: 1, 1
+  index: -1
+page
+  rotate: true
+  xy: 2, 5
+  size: 176, 239
+  orig: 176, 239
+  offset: 0, 0
+  index: -1

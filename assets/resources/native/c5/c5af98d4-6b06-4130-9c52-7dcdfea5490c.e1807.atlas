@@ -1,0 +1,48 @@
+
+atk_31.png
+size: 412,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangfei_skill5_01
+  rotate: false
+  xy: 348, 3
+  size: 62, 65
+  orig: 100, 100
+  offset: 20, 16
+  index: -1
+zhangfei_skill5_02
+  rotate: false
+  xy: 210, 3
+  size: 67, 65
+  orig: 100, 100
+  offset: 18, 16
+  index: -1
+zhangfei_skill5_03
+  rotate: false
+  xy: 2, 2
+  size: 67, 66
+  orig: 100, 100
+  offset: 17, 16
+  index: -1
+zhangfei_skill5_04
+  rotate: false
+  xy: 139, 3
+  size: 69, 65
+  orig: 100, 100
+  offset: 16, 16
+  index: -1
+zhangfei_skill5_05
+  rotate: false
+  xy: 279, 5
+  size: 67, 63
+  orig: 100, 100
+  offset: 16, 16
+  index: -1
+zhangfei_skill5_06
+  rotate: false
+  xy: 71, 2
+  size: 66, 66
+  orig: 100, 100
+  offset: 16, 16
+  index: -1

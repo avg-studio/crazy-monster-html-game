@@ -1,0 +1,146 @@
+
+29b.png
+size: 322,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 171, 4
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 144, 3
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 15
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+brow
+  rotate: false
+  xy: 50, 5
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 80, 5
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 100, 6
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 265, 70
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 288, 3
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 288, 33
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 212, 27
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: true
+  xy: 252, 31
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 114, 16
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+vfx/3-0001
+  rotate: true
+  xy: 214, 2
+  size: 23, 59
+  orig: 24, 66
+  offset: 0, 4
+  index: -1
+vfx/3-0002
+  rotate: true
+  xy: 201, 70
+  size: 22, 62
+  orig: 24, 66
+  offset: 0, 1
+  index: -1
+vfx/3-0003
+  rotate: true
+  xy: 2, 2
+  size: 11, 46
+  orig: 24, 66
+  offset: 4, 7
+  index: -1
+vfx/vfx_0_1
+  rotate: false
+  xy: 114, 23
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_2
+  rotate: false
+  xy: 114, 55
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_3
+  rotate: true
+  xy: 197, 5
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_4
+  rotate: true
+  xy: 122, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+vfx/vfx_0_5
+  rotate: true
+  xy: 135, 4
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1

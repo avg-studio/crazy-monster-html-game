@@ -1,0 +1,13 @@
+
+2dices_tray.png
+size: 310,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tray
+  rotate: false
+  xy: 2, 2
+  size: 306, 183
+  orig: 306, 183
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+hs_3_vfx.png
+size: 1956,966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/1
+  rotate: false
+  xy: 2, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/11
+  rotate: false
+  xy: 370, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/13
+  rotate: false
+  xy: 554, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/15
+  rotate: false
+  xy: 554, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/17
+  rotate: false
+  xy: 738, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/19
+  rotate: false
+  xy: 738, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/21
+  rotate: false
+  xy: 922, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/23
+  rotate: false
+  xy: 922, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/25
+  rotate: true
+  xy: 1106, 782
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/27
+  rotate: false
+  xy: 1588, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/29
+  rotate: false
+  xy: 1772, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/3
+  rotate: false
+  xy: 186, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/31
+  rotate: true
+  xy: 1106, 598
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/33
+  rotate: true
+  xy: 1106, 414
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/35
+  rotate: false
+  xy: 1588, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/37
+  rotate: false
+  xy: 1772, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/39
+  rotate: true
+  xy: 1106, 230
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/41
+  rotate: true
+  xy: 1106, 46
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/5
+  rotate: false
+  xy: 186, 2
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/7
+  rotate: false
+  xy: 370, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+vfx/9
+  rotate: false
+  xy: 2, 484
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1

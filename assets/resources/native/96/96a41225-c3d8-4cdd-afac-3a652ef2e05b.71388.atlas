@@ -1,0 +1,55 @@
+
+sk_27_hit.png
+size: 169,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gy_00013
+  rotate: false
+  xy: 112, 189
+  size: 4, 4
+  orig: 30, 31
+  offset: 11, 14
+  index: -1
+effect/sj/sj0000
+  rotate: true
+  xy: 112, 195
+  size: 69, 55
+  orig: 90, 79
+  offset: 11, 11
+  index: -1
+effect/sj/sj0002
+  rotate: false
+  xy: 2, 2
+  size: 86, 71
+  orig: 90, 79
+  offset: 2, 1
+  index: -1
+effect/sj/sj0004
+  rotate: true
+  xy: 90, 80
+  size: 86, 70
+  orig: 90, 79
+  offset: 2, 6
+  index: -1
+effect/yc/yc0000
+  rotate: false
+  xy: 90, 5
+  size: 61, 73
+  orig: 120, 113
+  offset: 23, 20
+  index: -1
+effect/yc/yc0002
+  rotate: true
+  xy: 2, 168
+  size: 96, 108
+  orig: 120, 113
+  offset: 13, 2
+  index: -1
+effect/yc/yc0004
+  rotate: false
+  xy: 2, 75
+  size: 86, 91
+  orig: 120, 113
+  offset: 18, 2
+  index: -1

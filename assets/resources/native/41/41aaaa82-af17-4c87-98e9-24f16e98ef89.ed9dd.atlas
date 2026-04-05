@@ -1,0 +1,13 @@
+
+cut_to.png
+size: 311,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 307, 200
+  orig: 308, 200
+  offset: 1, 0
+  index: -1

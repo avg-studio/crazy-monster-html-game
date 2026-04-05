@@ -1,0 +1,13 @@
+
+buff_bloodthirst.png
+size: 89,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 85, 77
+  orig: 92, 86
+  offset: 3, 5
+  index: -1

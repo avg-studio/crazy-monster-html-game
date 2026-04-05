@@ -1,0 +1,27 @@
+
+2dices_cup.png
+size: 255,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canying
+  rotate: true
+  xy: 2, 2
+  size: 157, 240
+  orig: 157, 240
+  offset: 0, 0
+  index: -1
+canying2
+  rotate: true
+  xy: 2, 161
+  size: 191, 240
+  orig: 191, 240
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 2, 354
+  size: 251, 323
+  orig: 251, 323
+  offset: 0, 0
+  index: -1

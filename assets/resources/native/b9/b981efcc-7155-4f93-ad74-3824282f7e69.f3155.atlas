@@ -1,0 +1,41 @@
+
+hs_1_4.png
+size: 427,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_4_1
+  rotate: false
+  xy: 2, 2
+  size: 195, 245
+  orig: 195, 245
+  offset: 0, 0
+  index: -1
+1_4_2
+  rotate: false
+  xy: 219, 347
+  size: 206, 184
+  orig: 206, 184
+  offset: 0, 0
+  index: -1
+1_4_3
+  rotate: false
+  xy: 219, 162
+  size: 206, 183
+  orig: 206, 183
+  offset: 0, 0
+  index: -1
+1_4_4
+  rotate: true
+  xy: 199, 2
+  size: 158, 211
+  orig: 158, 211
+  offset: 0, 0
+  index: -1
+1_4_5
+  rotate: false
+  xy: 2, 249
+  size: 215, 282
+  orig: 215, 282
+  offset: 0, 0
+  index: -1

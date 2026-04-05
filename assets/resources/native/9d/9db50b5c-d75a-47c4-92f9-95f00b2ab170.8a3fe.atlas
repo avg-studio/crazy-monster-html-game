@@ -1,0 +1,55 @@
+
+buff_frog.png
+size: 90,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 55, 42
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 78, 22
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 32
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 56, 22
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 56, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: true
+  xy: 78, 29
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 2, 4
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1

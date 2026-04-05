@@ -1,0 +1,13 @@
+
+hs_7_11.png
+size: 332,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_11
+  rotate: false
+  xy: 2, 2
+  size: 328, 207
+  orig: 331, 215
+  offset: 2, 3
+  index: -1

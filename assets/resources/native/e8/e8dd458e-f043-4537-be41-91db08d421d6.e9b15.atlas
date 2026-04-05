@@ -1,0 +1,83 @@
+
+buff_sacred_heal.png
+size: 463,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 2, 96
+  size: 171, 304
+  orig: 182, 311
+  offset: 6, 0
+  index: -1
+6
+  rotate: true
+  xy: 308, 108
+  size: 159, 30
+  orig: 173, 39
+  offset: 6, 2
+  index: -1
+7
+  rotate: false
+  xy: 336, 7
+  size: 110, 12
+  orig: 116, 18
+  offset: 1, 4
+  index: -1
+8-0001
+  rotate: true
+  xy: 310, 4
+  size: 102, 24
+  orig: 124, 92
+  offset: 6, 0
+  index: -1
+8-0002
+  rotate: false
+  xy: 340, 109
+  size: 105, 49
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+8-0003
+  rotate: true
+  xy: 340, 160
+  size: 107, 68
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+8-0004
+  rotate: false
+  xy: 336, 21
+  size: 114, 85
+  orig: 124, 92
+  offset: 4, 0
+  index: -1
+8-0005
+  rotate: false
+  xy: 2, 2
+  size: 122, 92
+  orig: 124, 92
+  offset: 1, 0
+  index: -1
+8-0006
+  rotate: false
+  xy: 211, 7
+  size: 97, 87
+  orig: 124, 92
+  offset: 2, 0
+  index: -1
+8-0007
+  rotate: true
+  xy: 126, 6
+  size: 88, 83
+  orig: 124, 92
+  offset: 10, 0
+  index: -1
+8-0008
+  rotate: false
+  xy: 410, 199
+  size: 51, 68
+  orig: 124, 92
+  offset: 28, 1
+  index: -1

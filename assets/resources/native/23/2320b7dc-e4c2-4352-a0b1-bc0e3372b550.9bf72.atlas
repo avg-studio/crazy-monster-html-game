@@ -1,0 +1,27 @@
+
+hs_9_1.png
+size: 746,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9_1_1
+  rotate: true
+  xy: 461, 171
+  size: 507, 283
+  orig: 507, 283
+  offset: 0, 0
+  index: -1
+9_1_2
+  rotate: 270
+  xy: 22, 3
+  size: 275, 641
+  orig: 275, 641
+  offset: 0, 0
+  index: -1
+9_1_3
+  rotate: false
+  xy: 2, 206
+  size: 535, 472
+  orig: 535, 472
+  offset: 0, 0
+  index: -1

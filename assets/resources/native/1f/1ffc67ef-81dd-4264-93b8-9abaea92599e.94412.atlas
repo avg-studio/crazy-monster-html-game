@@ -1,0 +1,48 @@
+
+sk_74_hit.png
+size: 186,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq_00021
+  rotate: false
+  xy: 2, 2
+  size: 91, 103
+  orig: 95, 108
+  offset: 2, 5
+  index: -1
+guangdian
+  rotate: false
+  xy: 145, 16
+  size: 39, 40
+  orig: 45, 45
+  offset: 3, 3
+  index: -1
+guangxian
+  rotate: true
+  xy: 95, 2
+  size: 6, 37
+  orig: 9, 41
+  offset: 1, 2
+  index: -1
+lz_00026
+  rotate: false
+  xy: 95, 58
+  size: 56, 47
+  orig: 60, 50
+  offset: 2, 2
+  index: -1
+xingxing
+  rotate: false
+  xy: 153, 93
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+zhen
+  rotate: false
+  xy: 95, 10
+  size: 48, 46
+  orig: 48, 48
+  offset: 0, 1
+  index: -1

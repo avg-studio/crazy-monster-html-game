@@ -1,0 +1,20 @@
+
+eff_leader_show_0.png
+size: 318,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_1
+  rotate: true
+  xy: 107, 82
+  size: 311, 209
+  orig: 312, 211
+  offset: 1, 2
+  index: -1
+L_2
+  rotate: false
+  xy: 2, 2
+  size: 103, 391
+  orig: 103, 392
+  offset: 0, 1
+  index: -1

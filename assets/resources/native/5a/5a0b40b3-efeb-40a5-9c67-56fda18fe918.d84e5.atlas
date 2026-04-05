@@ -1,0 +1,13 @@
+
+hs_1_bg.png
+size: 379,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 2, 2
+  size: 375, 340
+  orig: 375, 340
+  offset: 0, 0
+  index: -1

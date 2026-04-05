@@ -1,0 +1,69 @@
+
+ring_card.png
+size: 726,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 602, 53
+  size: 122, 197
+  orig: 124, 199
+  offset: 1, 1
+  index: -1
+1
+  rotate: true
+  xy: 2, 127
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 152, 127
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 302, 127
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 452, 127
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 152, 2
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 302, 2
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 452, 2
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1

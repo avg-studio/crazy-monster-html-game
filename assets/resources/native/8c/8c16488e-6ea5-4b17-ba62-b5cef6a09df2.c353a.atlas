@@ -1,0 +1,13 @@
+
+hunt_now.png
+size: 63,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian1
+  rotate: 180
+  xy: 2, 3
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1

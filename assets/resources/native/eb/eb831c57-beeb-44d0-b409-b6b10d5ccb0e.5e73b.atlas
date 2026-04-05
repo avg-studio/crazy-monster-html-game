@@ -1,0 +1,146 @@
+
+gem_fire.png
+size: 1001,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_1
+  rotate: true
+  xy: 566, 92
+  size: 99, 120
+  orig: 288, 162
+  offset: 93, 13
+  index: -1
+1/1_11
+  rotate: true
+  xy: 605, 16
+  size: 86, 117
+  orig: 288, 162
+  offset: 98, 12
+  index: -1
+1/1_13
+  rotate: true
+  xy: 375, 4
+  size: 88, 115
+  orig: 288, 162
+  offset: 96, 13
+  index: -1
+1/1_15
+  rotate: 270
+  xy: 772, 14
+  size: 92, 111
+  orig: 288, 162
+  offset: 95, 14
+  index: -1
+1/1_17
+  rotate: 270
+  xy: 827, 94
+  size: 94, 121
+  orig: 288, 162
+  offset: 97, 11
+  index: -1
+1/1_19
+  rotate: 270
+  xy: 685, 87
+  size: 97, 122
+  orig: 288, 162
+  offset: 94, 12
+  index: -1
+1/1_3
+  rotate: true
+  xy: 449, 81
+  size: 90, 122
+  orig: 288, 162
+  offset: 94, 11
+  index: -1
+1/1_5
+  rotate: true
+  xy: 331, 95
+  size: 90, 120
+  orig: 288, 162
+  offset: 96, 12
+  index: -1
+1/1_7
+  rotate: 270
+  xy: 884, 11
+  size: 87, 115
+  orig: 288, 162
+  offset: 96, 12
+  index: -1
+1/1_9
+  rotate: 270
+  xy: 261, 23
+  size: 81, 114
+  orig: 288, 162
+  offset: 102, 11
+  index: -1
+2/2_1
+  rotate: false
+  xy: 214, 162
+  size: 150, 121
+  orig: 288, 162
+  offset: 105, 14
+  index: -1
+2/2_12
+  rotate: 180
+  xy: 835, 179
+  size: 144, 104
+  orig: 288, 162
+  offset: 100, 14
+  index: -1
+2/2_15
+  rotate: 180
+  xy: 596, 175
+  size: 140, 108
+  orig: 288, 162
+  offset: 101, 12
+  index: -1
+2/2_18
+  rotate: false
+  xy: 120, 158
+  size: 139, 126
+  orig: 288, 162
+  offset: 104, 13
+  index: -1
+2/2_21
+  rotate: false
+  xy: 2, 158
+  size: 147, 125
+  orig: 288, 162
+  offset: 101, 14
+  index: -1
+2/2_23
+  rotate: false
+  xy: 715, 164
+  size: 143, 120
+  orig: 288, 162
+  offset: 105, 14
+  index: -1
+2/2_25
+  rotate: false
+  xy: 472, 163
+  size: 146, 120
+  orig: 288, 162
+  offset: 106, 14
+  index: -1
+2/2_4
+  rotate: false
+  xy: 341, 173
+  size: 154, 110
+  orig: 288, 162
+  offset: 103, 13
+  index: -1
+2/2_7
+  rotate: 180
+  xy: 2, 71
+  size: 150, 113
+  orig: 288, 162
+  offset: 102, 13
+  index: -1
+2/2_9
+  rotate: 180
+  xy: 120, 57
+  size: 146, 110
+  orig: 288, 162
+  offset: 101, 13
+  index: -1

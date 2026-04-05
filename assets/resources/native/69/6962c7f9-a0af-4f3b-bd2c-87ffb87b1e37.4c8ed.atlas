@@ -1,0 +1,34 @@
+
+hunt_get.png
+size: 301,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse_Rotate
+  rotate: false
+  xy: 128, 36
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+glow_ray
+  rotate: false
+  xy: 2, 2
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+grab
+  rotate: false
+  xy: 218, 43
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 128, 3
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+build_soldiers.png
+size: 648,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 261, 313
+  orig: 328, 313
+  offset: 29, 0
+  index: -1
+1202009
+  rotate: false
+  xy: 574, 75
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+1202064
+  rotate: false
+  xy: 317, 11
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+1202066
+  rotate: false
+  xy: 434, 138
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+1202121
+  rotate: false
+  xy: 443, 16
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+1202143
+  rotate: true
+  xy: 562, 141
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 543, 9
+  size: 127, 29
+  orig: 127, 29
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 317, 115
+  size: 115, 148
+  orig: 115, 148
+  offset: 0, 0
+  index: -1

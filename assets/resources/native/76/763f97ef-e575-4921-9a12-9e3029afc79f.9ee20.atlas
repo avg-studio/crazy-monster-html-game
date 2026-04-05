@@ -1,0 +1,62 @@
+
+1201059.png
+size: 643,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: true
+  xy: 360, 3
+  size: 33, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: true
+  xy: 290, 2
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 4
+  size: 286, 170
+  orig: 286, 170
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 290, 38
+  size: 141, 136
+  orig: 144, 140
+  offset: 1, 1
+  index: -1
+texiao2
+  rotate: false
+  xy: 433, 7
+  size: 101, 46
+  orig: 109, 50
+  offset: 3, 2
+  index: -1
+yuan
+  rotate: true
+  xy: 433, 55
+  size: 119, 152
+  orig: 119, 152
+  offset: 0, 0
+  index: -1
+zhuzi1
+  rotate: false
+  xy: 587, 14
+  size: 54, 160
+  orig: 54, 161
+  offset: 0, 1
+  index: -1
+zhuzi2
+  rotate: false
+  xy: 587, 14
+  size: 54, 160
+  orig: 54, 161
+  offset: 0, 1
+  index: -1

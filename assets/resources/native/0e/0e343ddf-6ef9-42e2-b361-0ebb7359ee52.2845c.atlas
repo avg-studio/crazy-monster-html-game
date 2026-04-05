@@ -1,0 +1,13 @@
+
+hs_9_bg.png
+size: 380,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 376, 844
+  orig: 376, 844
+  offset: 0, 0
+  index: -1

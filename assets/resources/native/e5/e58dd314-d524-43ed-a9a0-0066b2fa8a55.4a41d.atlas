@@ -1,0 +1,27 @@
+
+tavern_get_eff.png
+size: 541,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 115
+  size: 407, 111
+  orig: 408, 111
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 403, 111
+  orig: 406, 113
+  offset: 2, 1
+  index: -1
+Fx_Glow_004x
+  rotate: false
+  xy: 411, 98
+  size: 128, 128
+  orig: 130, 130
+  offset: 1, 1
+  index: -1

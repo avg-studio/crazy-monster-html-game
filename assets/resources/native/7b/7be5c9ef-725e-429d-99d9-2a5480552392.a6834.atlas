@@ -1,0 +1,48 @@
+
+hunt_aim.png
+size: 986,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aim
+  rotate: false
+  xy: 630, 42
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 428, 9
+  size: 29, 217
+  orig: 29, 217
+  offset: 0, 0
+  index: -1
+ring03
+  rotate: false
+  xy: 232, 26
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+shock01
+  rotate: false
+  xy: 428, 40
+  size: 200, 180
+  orig: 202, 180
+  offset: 1, 0
+  index: -1
+shock02
+  rotate: true
+  xy: 810, 2
+  size: 218, 174
+  orig: 220, 184
+  offset: 1, 5
+  index: -1
+shock03
+  rotate: true
+  xy: 2, 6
+  size: 214, 228
+  orig: 218, 228
+  offset: 2, 0
+  index: -1

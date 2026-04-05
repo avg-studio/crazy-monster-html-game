@@ -1,0 +1,83 @@
+
+buff_net_body.png
+size: 320,18
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gy0000
+  rotate: false
+  xy: 303, 2
+  size: 15, 14
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+effect/x0000
+  rotate: false
+  xy: 211, 3
+  size: 28, 13
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+effect/x0001
+  rotate: false
+  xy: 241, 3
+  size: 29, 13
+  orig: 30, 14
+  offset: 1, 0
+  index: -1
+effect/x0002
+  rotate: false
+  xy: 272, 3
+  size: 29, 13
+  orig: 30, 14
+  offset: 1, 0
+  index: -1
+effect/x0003
+  rotate: false
+  xy: 2, 4
+  size: 30, 12
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+effect/x0004
+  rotate: false
+  xy: 34, 4
+  size: 29, 12
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+effect/x0005
+  rotate: false
+  xy: 65, 4
+  size: 29, 12
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+effect/x0006
+  rotate: false
+  xy: 96, 4
+  size: 27, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+effect/x0007
+  rotate: false
+  xy: 125, 4
+  size: 27, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+effect/x0008
+  rotate: false
+  xy: 154, 4
+  size: 26, 12
+  orig: 30, 14
+  offset: 2, 1
+  index: -1
+effect/x0009
+  rotate: false
+  xy: 182, 4
+  size: 27, 12
+  orig: 30, 14
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+buff_iceshield.png
+size: 88,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tx_1_0001
+  rotate: true
+  xy: 2, 2
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+effect/x0000
+  rotate: true
+  xy: 2, 440
+  size: 93, 43
+  orig: 100, 47
+  offset: 5, 2
+  index: -1
+effect/x0001
+  rotate: true
+  xy: 2, 343
+  size: 95, 42
+  orig: 100, 47
+  offset: 3, 2
+  index: -1
+effect/x0002
+  rotate: true
+  xy: 2, 244
+  size: 97, 41
+  orig: 100, 47
+  offset: 2, 1
+  index: -1
+effect/x0003
+  rotate: true
+  xy: 46, 341
+  size: 96, 40
+  orig: 100, 47
+  offset: 2, 1
+  index: -1
+effect/x0004
+  rotate: true
+  xy: 45, 243
+  size: 96, 40
+  orig: 100, 47
+  offset: 1, 1
+  index: -1
+effect/x0005
+  rotate: true
+  xy: 47, 439
+  size: 94, 39
+  orig: 100, 47
+  offset: 2, 2
+  index: -1
+effect/x0006
+  rotate: true
+  xy: 2, 62
+  size: 90, 39
+  orig: 100, 47
+  offset: 3, 3
+  index: -1
+effect/x0007
+  rotate: true
+  xy: 43, 62
+  size: 88, 39
+  orig: 100, 47
+  offset: 5, 4
+  index: -1
+effect/x0008
+  rotate: true
+  xy: 2, 154
+  size: 88, 40
+  orig: 100, 47
+  offset: 7, 4
+  index: -1
+effect/x0009
+  rotate: true
+  xy: 44, 152
+  size: 89, 42
+  orig: 100, 47
+  offset: 7, 3
+  index: -1

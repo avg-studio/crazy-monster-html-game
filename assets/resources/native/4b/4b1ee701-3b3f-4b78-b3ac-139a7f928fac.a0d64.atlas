@@ -1,0 +1,48 @@
+
+buff_whirlwind.png
+size: 484,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_a1
+  rotate: false
+  xy: 437, 7
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+eff_a2
+  rotate: false
+  xy: 437, 33
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+eff_a3
+  rotate: true
+  xy: 437, 70
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+tornado01
+  rotate: true
+  xy: 2, 2
+  size: 118, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+tornado02
+  rotate: true
+  xy: 292, 7
+  size: 113, 143
+  orig: 115, 143
+  offset: 0, 0
+  index: -1
+tornado03
+  rotate: true
+  xy: 144, 4
+  size: 116, 146
+  orig: 118, 146
+  offset: 0, 0
+  index: -1

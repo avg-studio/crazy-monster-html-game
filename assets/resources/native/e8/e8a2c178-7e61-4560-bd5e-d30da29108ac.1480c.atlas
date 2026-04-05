@@ -1,0 +1,48 @@
+
+hs_2_7.png
+size: 610,697
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_7_1
+  rotate: false
+  xy: 141, 3
+  size: 136, 85
+  orig: 139, 87
+  offset: 1, 1
+  index: -1
+2_7_2
+  rotate: false
+  xy: 356, 305
+  size: 158, 130
+  orig: 158, 130
+  offset: 0, 0
+  index: -1
+2_7_3
+  rotate: 180
+  xy: 2, 88
+  size: 304, 369
+  orig: 322, 369
+  offset: 18, 0
+  index: -1
+2_7_4
+  rotate: false
+  xy: 2, 338
+  size: 352, 358
+  orig: 352, 372
+  offset: 0, 14
+  index: -1
+2_7_5
+  rotate: 180
+  xy: 279, 30
+  size: 274, 225
+  orig: 274, 237
+  offset: 0, 0
+  index: -1
+2_7_6
+  rotate: false
+  xy: 356, 149
+  size: 252, 546
+  orig: 252, 546
+  offset: 0, 0
+  index: -1

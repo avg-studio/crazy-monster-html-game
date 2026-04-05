@@ -1,0 +1,27 @@
+
+hs_2_2.png
+size: 851,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_2_1
+  rotate: false
+  xy: 334, 3
+  size: 310, 324
+  orig: 312, 326
+  offset: 1, 1
+  index: -1
+2_2_2
+  rotate: true
+  xy: 2, 2
+  size: 325, 330
+  orig: 325, 330
+  offset: 0, 0
+  index: -1
+2_2_3
+  rotate: true
+  xy: 646, 104
+  size: 223, 203
+  orig: 224, 203
+  offset: 1, 0
+  index: -1

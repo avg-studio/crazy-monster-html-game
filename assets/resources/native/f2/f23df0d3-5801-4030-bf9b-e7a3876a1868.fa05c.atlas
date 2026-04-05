@@ -1,0 +1,160 @@
+
+hunt_arrow.png
+size: 854,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_bracers_R
+  rotate: false
+  xy: 2, 728
+  size: 299, 290
+  orig: 300, 290
+  offset: 1, 0
+  index: -1
+1_hand_R3
+  rotate: false
+  xy: 301, 847
+  size: 114, 171
+  orig: 116, 173
+  offset: 1, 1
+  index: -1
+arrow/1
+  rotate: true
+  xy: 2, 645
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/10
+  rotate: true
+  xy: 2, 562
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/11
+  rotate: true
+  xy: 2, 479
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/12
+  rotate: true
+  xy: 2, 396
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/13
+  rotate: true
+  xy: 2, 313
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/14
+  rotate: true
+  xy: 2, 230
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/15
+  rotate: true
+  xy: 2, 147
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/16
+  rotate: true
+  xy: 2, 64
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/17
+  rotate: false
+  xy: 428, 594
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/18
+  rotate: false
+  xy: 428, 168
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/19
+  rotate: false
+  xy: 511, 594
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/2
+  rotate: false
+  xy: 511, 168
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/20
+  rotate: false
+  xy: 594, 594
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/3
+  rotate: false
+  xy: 594, 168
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/4
+  rotate: false
+  xy: 677, 594
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/5
+  rotate: false
+  xy: 677, 168
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/6
+  rotate: false
+  xy: 760, 594
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/7
+  rotate: false
+  xy: 760, 168
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/8
+  rotate: true
+  xy: 428, 85
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1
+arrow/9
+  rotate: true
+  xy: 428, 2
+  size: 81, 424
+  orig: 81, 424
+  offset: 0, 0
+  index: -1

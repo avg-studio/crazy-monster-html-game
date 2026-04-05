@@ -1,0 +1,27 @@
+
+hs_10_1.png
+size: 596,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_1_1
+  rotate: true
+  xy: 2, 4
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+10_1_2
+  rotate: true
+  xy: 380, 106
+  size: 513, 214
+  orig: 513, 214
+  offset: 0, 0
+  index: -1
+10_1_3
+  rotate: false
+  xy: 2, 123
+  size: 397, 496
+  orig: 397, 496
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+5step_hero.png
+size: 418,1338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1016
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 732
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+s_1
+  rotate: 270
+  xy: 11, 67
+  size: 219, 261
+  orig: 219, 261
+  offset: 0, 0
+  index: -1
+s_1_1
+  rotate: 180
+  xy: 324, 1176
+  size: 87, 160
+  orig: 87, 160
+  offset: 0, 0
+  index: -1
+s_1_2
+  rotate: 270
+  xy: 2, 3
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+s_2
+  rotate: 180
+  xy: 2, 457
+  size: 297, 274
+  orig: 297, 274
+  offset: 0, 0
+  index: -1
+s_2_1
+  rotate: false
+  xy: 274, 146
+  size: 94, 162
+  orig: 94, 164
+  offset: 0, 1
+  index: -1
+s_2_2
+  rotate: true
+  xy: 244, 50
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1
+s_3
+  rotate: 270
+  xy: 5, 261
+  size: 209, 274
+  orig: 209, 274
+  offset: 0, 0
+  index: -1
+s_3_1
+  rotate: false
+  xy: 324, 1017
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
+s_3_2
+  rotate: true
+  xy: 281, 302
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+txt_1
+  rotate: true
+  xy: 301, 395
+  size: 619, 64
+  orig: 619, 64
+  offset: 0, 0
+  index: -1
+txt_2
+  rotate: true
+  xy: 367, 424
+  size: 590, 41
+  orig: 590, 41
+  offset: 0, 0
+  index: -1

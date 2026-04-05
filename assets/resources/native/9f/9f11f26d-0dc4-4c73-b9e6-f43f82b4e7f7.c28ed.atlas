@@ -1,0 +1,104 @@
+
+31b.png
+size: 142,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 72, 13
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+TX_0002
+  rotate: true
+  xy: 101, 2
+  size: 15, 8
+  orig: 20, 13
+  offset: 1, 0
+  index: -1
+TX_0004
+  rotate: false
+  xy: 124, 65
+  size: 16, 11
+  orig: 20, 13
+  offset: 3, 0
+  index: -1
+TX_0006
+  rotate: true
+  xy: 88, 2
+  size: 15, 11
+  orig: 20, 13
+  offset: 4, 1
+  index: -1
+TX_0008
+  rotate: true
+  xy: 111, 3
+  size: 14, 12
+  orig: 20, 13
+  offset: 5, 1
+  index: -1
+TX_0010
+  rotate: false
+  xy: 2, 2
+  size: 7, 4
+  orig: 20, 13
+  offset: 7, 8
+  index: -1
+body
+  rotate: false
+  xy: 2, 8
+  size: 68, 132
+  orig: 68, 132
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 72, 3
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 88, 19
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 115, 22
+  size: 25, 17
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 125, 8
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 124, 46
+  size: 17, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+vfx/vfx_attack
+  rotate: false
+  xy: 72, 78
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+x_guangdian
+  rotate: false
+  xy: 88, 41
+  size: 34, 35
+  orig: 36, 36
+  offset: 1, 0
+  index: -1

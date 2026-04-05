@@ -1,0 +1,160 @@
+
+16b.png
+size: 867,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/yan0001
+  rotate: true
+  xy: 676, 297
+  size: 95, 52
+  orig: 135, 88
+  offset: 5, 4
+  index: -1
+vfx/yan0003
+  rotate: false
+  xy: 732, 265
+  size: 99, 59
+  orig: 135, 88
+  offset: 18, 4
+  index: -1
+vfx/yan0005
+  rotate: false
+  xy: 732, 326
+  size: 102, 66
+  orig: 135, 88
+  offset: 24, 4
+  index: -1
+vfx/yan0007
+  rotate: true
+  xy: 793, 169
+  size: 94, 72
+  orig: 135, 88
+  offset: 33, 6
+  index: -1
+vfx/yan0009
+  rotate: true
+  xy: 717, 156
+  size: 98, 74
+  orig: 135, 88
+  offset: 32, 6
+  index: -1
+vfx/yan0011
+  rotate: false
+  xy: 732, 80
+  size: 97, 74
+  orig: 135, 88
+  offset: 33, 9
+  index: -1
+vfx/yan0013
+  rotate: false
+  xy: 732, 3
+  size: 93, 75
+  orig: 135, 88
+  offset: 35, 10
+  index: -1
+vfx/yan0015
+  rotate: true
+  xy: 399, 125
+  size: 86, 73
+  orig: 135, 88
+  offset: 41, 11
+  index: -1
+vfx/yan0017
+  rotate: true
+  xy: 836, 344
+  size: 48, 27
+  orig: 135, 88
+  offset: 48, 56
+  index: -1
+z_body
+  rotate: true
+  xy: 2, 12
+  size: 380, 237
+  orig: 380, 239
+  offset: 0, 0
+  index: -1
+z_eye
+  rotate: false
+  xy: 836, 308
+  size: 26, 34
+  orig: 28, 36
+  offset: 1, 1
+  index: -1
+z_eye_1
+  rotate: false
+  xy: 676, 256
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+z_head
+  rotate: true
+  xy: 241, 125
+  size: 267, 156
+  orig: 269, 159
+  offset: 1, 1
+  index: -1
+z_kq
+  rotate: false
+  xy: 518, 4
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+z_leg_1
+  rotate: true
+  xy: 377, 3
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+z_leg_2_1
+  rotate: false
+  xy: 241, 2
+  size: 134, 121
+  orig: 135, 122
+  offset: 1, 0
+  index: -1
+z_leg_2_2
+  rotate: true
+  xy: 632, 20
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+z_leg_3
+  rotate: true
+  xy: 576, 139
+  size: 112, 93
+  orig: 112, 95
+  offset: 0, 0
+  index: -1
+z_leg_4
+  rotate: false
+  xy: 474, 135
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+z_mouth
+  rotate: true
+  xy: 565, 253
+  size: 139, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1
+z_tail
+  rotate: false
+  xy: 399, 213
+  size: 164, 179
+  orig: 164, 179
+  offset: 0, 0
+  index: -1
+z_teeth
+  rotate: true
+  xy: 671, 145
+  size: 106, 44
+  orig: 108, 47
+  offset: 1, 2
+  index: -1

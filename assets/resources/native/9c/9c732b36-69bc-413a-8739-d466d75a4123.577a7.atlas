@@ -1,0 +1,27 @@
+
+hs_3_2.png
+size: 617,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_2_1
+  rotate: false
+  xy: 2, 35
+  size: 294, 161
+  orig: 294, 161
+  offset: 0, 0
+  index: -1
+3_2_2
+  rotate: 180
+  xy: 268, 14
+  size: 256, 183
+  orig: 256, 183
+  offset: 0, 0
+  index: -1
+3_2_3
+  rotate: true
+  xy: 502, 3
+  size: 193, 113
+  orig: 193, 113
+  offset: 0, 0
+  index: -1

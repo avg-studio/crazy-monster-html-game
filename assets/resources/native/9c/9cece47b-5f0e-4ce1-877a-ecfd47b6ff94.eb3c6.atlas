@@ -1,0 +1,48 @@
+
+hs_2_9.png
+size: 825,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_9_1
+  rotate: true
+  xy: 599, 141
+  size: 140, 92
+  orig: 140, 92
+  offset: 0, 0
+  index: -1
+2_9_2
+  rotate: 270
+  xy: 270, 9
+  size: 305, 208
+  orig: 305, 208
+  offset: 0, 0
+  index: -1
+2_9_3
+  rotate: false
+  xy: 438, 51
+  size: 147, 300
+  orig: 147, 300
+  offset: 0, 0
+  index: -1
+2_9_4
+  rotate: 180
+  xy: 548, 52
+  size: 92, 306
+  orig: 92, 306
+  offset: 0, 0
+  index: -1
+2_9_5
+  rotate: false
+  xy: 630, 98
+  size: 192, 261
+  orig: 192, 261
+  offset: 0, 0
+  index: -1
+2_9_6
+  rotate: false
+  xy: 2, 2
+  size: 275, 356
+  orig: 275, 356
+  offset: 0, 0
+  index: -1

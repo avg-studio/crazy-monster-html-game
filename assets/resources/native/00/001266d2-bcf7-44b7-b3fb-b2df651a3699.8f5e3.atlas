@@ -1,0 +1,111 @@
+
+sk_10003_hit.png
+size: 976,389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha_0001
+  rotate: true
+  xy: 842, 204
+  size: 86, 85
+  orig: 416, 416
+  offset: 161, 145
+  index: -1
+baozha_0002
+  rotate: false
+  xy: 437, 7
+  size: 135, 136
+  orig: 416, 416
+  offset: 136, 119
+  index: -1
+baozha_0003
+  rotate: false
+  xy: 279, 2
+  size: 156, 138
+  orig: 416, 416
+  offset: 126, 118
+  index: -1
+baozha_0004
+  rotate: false
+  xy: 636, 179
+  size: 204, 208
+  orig: 416, 416
+  offset: 103, 79
+  index: -1
+baozha_0005
+  rotate: true
+  xy: 313, 145
+  size: 242, 148
+  orig: 416, 416
+  offset: 83, 110
+  index: -1
+baozha_0006
+  rotate: true
+  xy: 165, 142
+  size: 245, 146
+  orig: 416, 416
+  offset: 81, 118
+  index: -1
+baozha_0007
+  rotate: true
+  xy: 2, 126
+  size: 261, 161
+  orig: 416, 416
+  offset: 73, 113
+  index: -1
+baozha_0008
+  rotate: true
+  xy: 463, 178
+  size: 209, 171
+  orig: 416, 416
+  offset: 96, 111
+  index: -1
+baozha_0009
+  rotate: false
+  xy: 779, 15
+  size: 182, 162
+  orig: 416, 416
+  offset: 124, 127
+  index: -1
+baozha_0010
+  rotate: false
+  xy: 574, 5
+  size: 203, 171
+  orig: 416, 416
+  offset: 111, 123
+  index: -1
+baozha_0011
+  rotate: false
+  xy: 2, 5
+  size: 136, 119
+  orig: 416, 416
+  offset: 126, 155
+  index: -1
+baozha_0012
+  rotate: false
+  xy: 140, 7
+  size: 137, 117
+  orig: 416, 416
+  offset: 123, 160
+  index: -1
+baozha_0013
+  rotate: false
+  xy: 842, 292
+  size: 132, 95
+  orig: 416, 416
+  offset: 125, 184
+  index: -1
+baozha_0014
+  rotate: false
+  xy: 463, 145
+  size: 87, 31
+  orig: 416, 416
+  offset: 167, 190
+  index: -1
+baozha_0015
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

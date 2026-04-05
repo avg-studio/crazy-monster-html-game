@@ -1,0 +1,83 @@
+
+grid_event.png
+size: 134,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beer_1
+  rotate: true
+  xy: 72, 79
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+beer_light
+  rotate: true
+  xy: 2, 138
+  size: 51, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+dice
+  rotate: false
+  xy: 54, 33
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dice_cup
+  rotate: true
+  xy: 2, 59
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dice_dice
+  rotate: false
+  xy: 109, 14
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dice_tray
+  rotate: false
+  xy: 59, 2
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 100, 33
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+speed
+  rotate: false
+  xy: 2, 100
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 191
+  size: 110, 111
+  orig: 110, 112
+  offset: 0, 1
+  index: -1
+table_l
+  rotate: false
+  xy: 59, 124
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+table_s
+  rotate: 180
+  xy: 2, 4
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1

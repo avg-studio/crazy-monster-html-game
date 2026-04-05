@@ -1,0 +1,146 @@
+
+11.png
+size: 359,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dg/dg0000
+  rotate: true
+  xy: 198, 3
+  size: 48, 56
+  orig: 117, 99
+  offset: 64, 42
+  index: -1
+effect/dg/dg0002
+  rotate: true
+  xy: 69, 45
+  size: 94, 88
+  orig: 117, 99
+  offset: 15, 4
+  index: -1
+effect/dg/dg0004
+  rotate: true
+  xy: 2, 40
+  size: 99, 65
+  orig: 117, 99
+  offset: 6, 8
+  index: -1
+effect/dg/dg0007
+  rotate: true
+  xy: 234, 66
+  size: 73, 44
+  orig: 117, 99
+  offset: 12, 14
+  index: -1
+lang_jiao_1
+  rotate: true
+  xy: 43, 6
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+lang_jiao_2
+  rotate: false
+  xy: 326, 67
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lang_jiao_3
+  rotate: true
+  xy: 328, 43
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+lang_jiao_4
+  rotate: true
+  xy: 144, 14
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+lang_jiao_5
+  rotate: true
+  xy: 328, 93
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+lang_jiao_6
+  rotate: false
+  xy: 328, 115
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+lang_jiao_7
+  rotate: false
+  xy: 328, 24
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+lang_jiao_8
+  rotate: false
+  xy: 173, 31
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+lang_shenti
+  rotate: false
+  xy: 71, 2
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+lang_tou
+  rotate: false
+  xy: 159, 53
+  size: 73, 86
+  orig: 73, 90
+  offset: 0, 4
+  index: -1
+lang_tou_1
+  rotate: true
+  xy: 256, 7
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+lang_weiba
+  rotate: true
+  xy: 280, 70
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+lang_yachi
+  rotate: true
+  xy: 173, 17
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+lang_yan_1
+  rotate: false
+  xy: 171, 5
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+lang_yan_2
+  rotate: false
+  xy: 144, 3
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+lang_zuiba
+  rotate: false
+  xy: 2, 5
+  size: 39, 33
+  orig: 44, 33
+  offset: 5, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+buff_sheep.png
+size: 249,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 192, 10
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 118, 10
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 102, 9
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 134, 10
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: false
+  xy: 150, 12
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 102, 29
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1

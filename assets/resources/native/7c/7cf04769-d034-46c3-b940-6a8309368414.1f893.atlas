@@ -1,0 +1,34 @@
+
+hs_2_10.png
+size: 264,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_10_1
+  rotate: true
+  xy: 195, 109
+  size: 104, 66
+  orig: 104, 66
+  offset: 0, 0
+  index: -1
+2_10_2
+  rotate: false
+  xy: 2, 131
+  size: 214, 146
+  orig: 214, 146
+  offset: 0, 0
+  index: -1
+2_10_3
+  rotate: 270
+  xy: 2, 38
+  size: 108, 245
+  orig: 108, 245
+  offset: 0, 0
+  index: -1
+2_10_4
+  rotate: 270
+  xy: 2, 3
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1

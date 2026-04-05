@@ -1,0 +1,132 @@
+
+build_shop.png
+size: 345,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 30
+  size: 237, 232
+  orig: 237, 232
+  offset: 0, 0
+  index: -1
+1s
+  rotate: false
+  xy: 241, 42
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+1x
+  rotate: false
+  xy: 241, 130
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 4
+  size: 24, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 303, 43
+  size: 9, 21
+  orig: 14, 21
+  offset: 4, 0
+  index: -1
+4
+  rotate: false
+  xy: 281, 9
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: false
+  xy: 139, 11
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+5_2
+  rotate: false
+  xy: 303, 54
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+arm1_1
+  rotate: false
+  xy: 209, 12
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+arm1_2
+  rotate: true
+  xy: 114, 9
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+arm2_1
+  rotate: true
+  xy: 186, 14
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+arm2_2
+  rotate: true
+  xy: 163, 10
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 306, 90
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 241, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: true
+  xy: 59, 11
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: true
+  xy: 87, 11
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 241, 87
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 326, 35
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

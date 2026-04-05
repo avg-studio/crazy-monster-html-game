@@ -1,0 +1,13 @@
+
+buff_holyshield.png
+size: 70,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 2, 2
+  size: 66, 85
+  orig: 72, 90
+  offset: 3, 2
+  index: -1

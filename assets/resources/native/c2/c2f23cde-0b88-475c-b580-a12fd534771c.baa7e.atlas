@@ -1,0 +1,13 @@
+
+atk_1.png
+size: 92,26
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_bullet_arrow
+  rotate: false
+  xy: 2, 2
+  size: 88, 22
+  orig: 88, 22
+  offset: 0, 0
+  index: -1

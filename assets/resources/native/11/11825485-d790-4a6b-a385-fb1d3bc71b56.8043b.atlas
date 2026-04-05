@@ -1,0 +1,118 @@
+
+ring_role.png
+size: 412,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 233, 596
+  size: 138, 172
+  orig: 138, 172
+  offset: 0, 0
+  index: -1
+1L
+  rotate: true
+  xy: 213, 431
+  size: 163, 197
+  orig: 166, 200
+  offset: 2, 1
+  index: -1
+2
+  rotate: true
+  xy: 240, 894
+  size: 156, 168
+  orig: 156, 168
+  offset: 0, 0
+  index: -1
+2L
+  rotate: true
+  xy: 204, 249
+  size: 180, 195
+  orig: 183, 197
+  offset: 2, 1
+  index: -1
+3
+  rotate: false
+  xy: 240, 736
+  size: 164, 156
+  orig: 165, 156
+  offset: 0, 0
+  index: -1
+3L
+  rotate: false
+  xy: 2, 149
+  size: 191, 181
+  orig: 193, 184
+  offset: 1, 2
+  index: -1
+4
+  rotate: true
+  xy: 2, 332
+  size: 133, 200
+  orig: 133, 204
+  offset: 0, 0
+  index: -1
+4L
+  rotate: true
+  xy: 2, 666
+  size: 158, 229
+  orig: 161, 232
+  offset: 2, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 467
+  size: 197, 209
+  orig: 197, 209
+  offset: 0, 0
+  index: -1
+5L
+  rotate: true
+  xy: 2, 826
+  size: 224, 236
+  orig: 226, 238
+  offset: 1, 1
+  index: -1
+battle
+  rotate: true
+  xy: 77, 2
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 145, 73
+  orig: 145, 73
+  offset: 0, 0
+  index: -1
+vfx_1
+  rotate: true
+  xy: 185, 43
+  size: 104, 102
+  orig: 108, 109
+  offset: 2, 4
+  index: -1
+vfx_2
+  rotate: true
+  xy: 77, 40
+  size: 107, 106
+  orig: 108, 109
+  offset: 1, 2
+  index: -1
+vfx_3
+  rotate: false
+  xy: 289, 147
+  size: 102, 100
+  orig: 108, 109
+  offset: 3, 0
+  index: -1
+vfx_4
+  rotate: true
+  xy: 195, 166
+  size: 81, 75
+  orig: 108, 109
+  offset: 4, 18
+  index: -1

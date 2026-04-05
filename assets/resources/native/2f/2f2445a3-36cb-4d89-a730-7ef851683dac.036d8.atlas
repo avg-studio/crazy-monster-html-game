@@ -1,0 +1,76 @@
+
+sk_20004_hit.png
+size: 419,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 222, 61
+  size: 57, 209
+  orig: 62, 242
+  offset: 2, 3
+  index: -1
+a2
+  rotate: false
+  xy: 340, 84
+  size: 57, 217
+  orig: 62, 242
+  offset: 2, 2
+  index: -1
+a3
+  rotate: false
+  xy: 281, 76
+  size: 57, 225
+  orig: 62, 242
+  offset: 2, 3
+  index: -1
+a4
+  rotate: true
+  xy: 215, 2
+  size: 57, 202
+  orig: 62, 242
+  offset: 2, 2
+  index: -1
+b1
+  rotate: false
+  xy: 238, 303
+  size: 144, 124
+  orig: 237, 149
+  offset: 45, 4
+  index: -1
+b2
+  rotate: false
+  xy: 238, 429
+  size: 173, 124
+  orig: 237, 149
+  offset: 27, 4
+  index: -1
+b3
+  rotate: false
+  xy: 2, 19
+  size: 211, 125
+  orig: 237, 149
+  offset: 9, 4
+  index: -1
+b4
+  rotate: false
+  xy: 2, 146
+  size: 218, 124
+  orig: 237, 149
+  offset: 4, 8
+  index: -1
+b5
+  rotate: false
+  xy: 2, 272
+  size: 223, 133
+  orig: 237, 149
+  offset: 0, 7
+  index: -1
+b6
+  rotate: false
+  xy: 2, 407
+  size: 234, 146
+  orig: 237, 149
+  offset: 3, 3
+  index: -1

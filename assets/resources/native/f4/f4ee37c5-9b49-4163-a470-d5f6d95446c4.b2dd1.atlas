@@ -1,0 +1,153 @@
+
+buff_blood.png
+size: 739,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 558, 3
+  size: 24, 8
+  orig: 26, 10
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 697, 39
+  size: 37, 39
+  orig: 39, 41
+  offset: 1, 1
+  index: -1
+11
+  rotate: true
+  xy: 647, 43
+  size: 33, 48
+  orig: 35, 50
+  offset: 1, 1
+  index: -1
+12
+  rotate: true
+  xy: 413, 2
+  size: 25, 57
+  orig: 27, 59
+  offset: 1, 1
+  index: -1
+13
+  rotate: true
+  xy: 584, 6
+  size: 29, 67
+  orig: 31, 69
+  offset: 1, 1
+  index: -1
+14
+  rotate: true
+  xy: 519, 52
+  size: 24, 84
+  orig: 26, 86
+  offset: 1, 1
+  index: -1
+15
+  rotate: true
+  xy: 413, 52
+  size: 24, 104
+  orig: 26, 106
+  offset: 1, 1
+  index: -1
+16
+  rotate: true
+  xy: 413, 29
+  size: 21, 105
+  orig: 23, 107
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 522, 2
+  size: 34, 9
+  orig: 36, 11
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 605, 65
+  size: 40, 11
+  orig: 42, 13
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 569, 37
+  size: 46, 13
+  orig: 48, 15
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 522, 13
+  size: 49, 15
+  orig: 51, 17
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 520, 30
+  size: 47, 20
+  orig: 49, 22
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 472, 4
+  size: 48, 23
+  orig: 50, 25
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 688, 9
+  size: 49, 28
+  orig: 51, 30
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 653, 6
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+t1
+  rotate: false
+  xy: 166, 4
+  size: 80, 72
+  orig: 82, 75
+  offset: 1, 1
+  index: -1
+t2
+  rotate: false
+  xy: 2, 3
+  size: 80, 73
+  orig: 83, 75
+  offset: 1, 1
+  index: -1
+t3
+  rotate: false
+  xy: 248, 4
+  size: 80, 72
+  orig: 82, 75
+  offset: 1, 2
+  index: -1
+t4
+  rotate: false
+  xy: 330, 5
+  size: 81, 71
+  orig: 83, 74
+  offset: 1, 1
+  index: -1
+t5
+  rotate: false
+  xy: 84, 4
+  size: 80, 72
+  orig: 82, 75
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,41 @@
+
+chest_31.png
+size: 629,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_1
+  rotate: false
+  xy: 448, 2
+  size: 179, 149
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+chest_2
+  rotate: false
+  xy: 423, 153
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+chest_3
+  rotate: true
+  xy: 251, 129
+  size: 186, 170
+  orig: 187, 170
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 251, 26
+  size: 195, 101
+  orig: 197, 103
+  offset: 1, 1
+  index: -1
+shcok02
+  rotate: true
+  xy: 2, 64
+  size: 251, 247
+  orig: 279, 279
+  offset: 12, 15
+  index: -1

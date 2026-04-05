@@ -1,0 +1,90 @@
+
+tavern_lady.png
+size: 991,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm2_2
+  rotate: false
+  xy: 928, 83
+  size: 61, 126
+  orig: 61, 126
+  offset: 0, 0
+  index: -1
+arm_1
+  rotate: false
+  xy: 838, 55
+  size: 76, 92
+  orig: 78, 92
+  offset: 1, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 308, 3
+  size: 74, 86
+  orig: 74, 90
+  offset: 0, 1
+  index: -1
+ass
+  rotate: false
+  xy: 672, 57
+  size: 164, 90
+  orig: 164, 92
+  offset: 0, 2
+  index: -1
+body
+  rotate: true
+  xy: 308, 79
+  size: 130, 169
+  orig: 134, 169
+  offset: 4, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 643, 3
+  size: 113, 52
+  orig: 114, 53
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 758, 8
+  size: 116, 45
+  orig: 118, 46
+  offset: 2, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 479, 89
+  size: 120, 191
+  orig: 120, 192
+  offset: 0, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 916, 2
+  size: 70, 79
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 479, 7
+  size: 80, 162
+  orig: 81, 162
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 7
+  size: 202, 304
+  orig: 202, 304
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 672, 149
+  size: 60, 254
+  orig: 60, 254
+  offset: 0, 0
+  index: -1

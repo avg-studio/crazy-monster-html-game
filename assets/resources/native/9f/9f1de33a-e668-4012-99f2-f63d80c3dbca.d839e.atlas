@@ -1,0 +1,76 @@
+
+build_hunt.png
+size: 338,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat_down
+  rotate: 180
+  xy: 2, 46
+  size: 232, 146
+  orig: 232, 146
+  offset: 0, 0
+  index: -1
+boat_up
+  rotate: false
+  xy: 2, 147
+  size: 239, 128
+  orig: 239, 128
+  offset: 0, 0
+  index: -1
+gas
+  rotate: false
+  xy: 2, 241
+  size: 14, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1
+jet
+  rotate: false
+  xy: 2, 194
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+propeller
+  rotate: false
+  xy: 234, 13
+  size: 101, 100
+  orig: 103, 102
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 241, 115
+  size: 158, 75
+  orig: 160, 77
+  offset: 1, 1
+  index: -1
+wing_back
+  rotate: 270
+  xy: 71, 4
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+wing_left
+  rotate: false
+  xy: 2, 39
+  size: 132, 38
+  orig: 132, 38
+  offset: 0, 0
+  index: -1
+wing_right
+  rotate: true
+  xy: 156, 16
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+wing_up
+  rotate: 180
+  xy: 2, 81
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1

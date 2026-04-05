@@ -1,0 +1,181 @@
+
+13.png
+size: 367,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: 180
+  xy: 188, 513
+  size: 122, 167
+  orig: 130, 167
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: 180
+  xy: 197, 375
+  size: 139, 151
+  orig: 139, 151
+  offset: 0, 0
+  index: -1
+ass_0
+  rotate: false
+  xy: 2, 375
+  size: 210, 136
+  orig: 210, 136
+  offset: 0, 0
+  index: -1
+ass_1
+  rotate: false
+  xy: 279, 262
+  size: 77, 130
+  orig: 79, 132
+  offset: 1, 1
+  index: -1
+ass_2
+  rotate: false
+  xy: 311, 528
+  size: 52, 116
+  orig: 54, 118
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 513
+  size: 205, 169
+  orig: 209, 169
+  offset: 4, 0
+  index: -1
+brow
+  rotate: true
+  xy: 328, 793
+  size: 105, 36
+  orig: 105, 36
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 2, 70
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 95, 15
+  size: 80, 32
+  orig: 82, 34
+  offset: 1, 1
+  index: -1
+eye_2
+  rotate: false
+  xy: 279, 232
+  size: 83, 20
+  orig: 85, 22
+  offset: 1, 1
+  index: -1
+hair_1
+  rotate: true
+  xy: 129, 126
+  size: 105, 140
+  orig: 106, 140
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 684
+  size: 240, 248
+  orig: 242, 256
+  offset: 1, 7
+  index: -1
+leg_1
+  rotate: false
+  xy: 244, 784
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 2, 145
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 293, 394
+  size: 38, 11
+  orig: 40, 13
+  offset: 1, 1
+  index: -1
+mouth_2
+  rotate: false
+  xy: 2, 659
+  size: 33, 23
+  orig: 36, 25
+  offset: 2, 1
+  index: -1
+pilian
+  rotate: true
+  xy: 244, 671
+  size: 111, 104
+  orig: 114, 107
+  offset: 2, 1
+  index: -1
+shoulder_1
+  rotate: true
+  xy: 271, 140
+  size: 90, 85
+  orig: 92, 86
+  offset: 0, 1
+  index: -1
+shoulder_2
+  rotate: false
+  xy: 103, 49
+  size: 87, 75
+  orig: 89, 77
+  offset: 1, 1
+  index: -1
+wing_1_1
+  rotate: true
+  xy: 2, 248
+  size: 125, 152
+  orig: 127, 155
+  offset: 1, 1
+  index: -1
+wing_1_2
+  rotate: false
+  xy: 236, 65
+  size: 99, 73
+  orig: 101, 75
+  offset: 1, 1
+  index: -1
+wing_1_3
+  rotate: false
+  xy: 192, 13
+  size: 77, 50
+  orig: 79, 52
+  offset: 1, 1
+  index: -1
+wing_2_1
+  rotate: false
+  xy: 156, 232
+  size: 121, 141
+  orig: 121, 142
+  offset: 0, 1
+  index: -1
+wing_2_2
+  rotate: false
+  xy: 2, 3
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+wing_2_3
+  rotate: false
+  xy: 271, 12
+  size: 64, 51
+  orig: 66, 53
+  offset: 1, 1
+  index: -1

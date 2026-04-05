@@ -1,0 +1,132 @@
+
+buy_seed.png
+size: 839,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 708, 209
+  size: 123, 124
+  orig: 124, 124
+  offset: 1, 0
+  index: -1
+a2
+  rotate: true
+  xy: 678, 4
+  size: 117, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: false
+  xy: 708, 334
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 708, 461
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+arm4
+  rotate: false
+  xy: 2, 2
+  size: 93, 112
+  orig: 93, 112
+  offset: 0, 0
+  index: -1
+arm5
+  rotate: true
+  xy: 525, 214
+  size: 108, 142
+  orig: 108, 142
+  offset: 0, 0
+  index: -1
+basket_1
+  rotate: true
+  xy: 2, 116
+  size: 437, 177
+  orig: 437, 177
+  offset: 0, 0
+  index: -1
+basket_2
+  rotate: true
+  xy: 181, 117
+  size: 436, 81
+  orig: 436, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 514, 324
+  size: 192, 229
+  orig: 192, 240
+  offset: 0, 11
+  index: -1
+foot1
+  rotate: true
+  xy: 525, 13
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: true
+  xy: 651, 123
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 264, 289
+  size: 248, 264
+  orig: 248, 264
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 275, 23
+  size: 248, 264
+  orig: 248, 264
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 159, 4
+  size: 110, 114
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 595, 21
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 726, 125
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 97, 2
+  size: 112, 60
+  orig: 112, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 525, 109
+  size: 124, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jiubei.png
+size: 273,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 151, 27
+  size: 122, 120
+  orig: 124, 122
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 147, 147
+  orig: 151, 153
+  offset: 2, 4
+  index: -1

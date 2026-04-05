@@ -1,0 +1,13 @@
+
+buff_speed_cut.png
+size: 16,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 4, 107
+  orig: 4, 111
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,27 @@
+
+hs_1_5.png
+size: 634,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_5_1
+  rotate: false
+  xy: 247, 32
+  size: 204, 296
+  orig: 204, 296
+  offset: 0, 0
+  index: -1
+1_5_2
+  rotate: false
+  xy: 453, 2
+  size: 179, 326
+  orig: 179, 326
+  offset: 0, 0
+  index: -1
+1_5_3
+  rotate: false
+  xy: 2, 26
+  size: 243, 302
+  orig: 243, 302
+  offset: 0, 0
+  index: -1

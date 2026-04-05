@@ -1,0 +1,69 @@
+
+build_bonfire.png
+size: 298,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 219, 128
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 2, 31
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 108, 98
+  size: 63, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 2, 98
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 112, 163
+  size: 61, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 2, 164
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+a6
+  rotate: true
+  xy: 212, 65
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+a7
+  rotate: true
+  xy: 203, 2
+  size: 61, 90
+  orig: 61, 90
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 104, 28
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1

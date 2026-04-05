@@ -1,0 +1,13 @@
+
+atk_2.png
+size: 54,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_wp
+  rotate: false
+  xy: 2, 2
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1

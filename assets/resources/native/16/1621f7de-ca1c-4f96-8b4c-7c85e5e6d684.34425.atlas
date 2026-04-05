@@ -1,0 +1,13 @@
+
+hs_3_bg.png
+size: 380,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_0
+  rotate: false
+  xy: 2, 2
+  size: 376, 440
+  orig: 376, 440
+  offset: 0, 0
+  index: -1

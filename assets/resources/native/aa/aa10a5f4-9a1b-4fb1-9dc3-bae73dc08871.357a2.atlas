@@ -1,0 +1,139 @@
+
+build_battle.png
+size: 905,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00362
+  rotate: true
+  xy: 48, 40
+  size: 33, 145
+  orig: 33, 145
+  offset: 0, 0
+  index: -1
+00364
+  rotate: true
+  xy: 48, 5
+  size: 33, 145
+  orig: 33, 145
+  offset: 0, 0
+  index: -1
+00366
+  rotate: true
+  xy: 195, 40
+  size: 33, 145
+  orig: 33, 145
+  offset: 0, 0
+  index: -1
+00368
+  rotate: true
+  xy: 195, 5
+  size: 33, 145
+  orig: 33, 145
+  offset: 0, 0
+  index: -1
+00370
+  rotate: false
+  xy: 633, 143
+  size: 33, 145
+  orig: 33, 145
+  offset: 0, 0
+  index: -1
+00372
+  rotate: true
+  xy: 633, 108
+  size: 33, 145
+  orig: 33, 145
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 75
+  size: 317, 213
+  orig: 317, 213
+  offset: 0, 0
+  index: -1
+1202029
+  rotate: false
+  xy: 670, 2
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+1202035
+  rotate: true
+  xy: 321, 89
+  size: 199, 195
+  orig: 199, 195
+  offset: 0, 0
+  index: -1
+1202148
+  rotate: true
+  xy: 668, 150
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+L3
+  rotate: true
+  xy: 780, 192
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+b 2
+  rotate: false
+  xy: 2, 26
+  size: 44, 47
+  orig: 47, 51
+  offset: 2, 1
+  index: -1
+f1
+  rotate: false
+  xy: 424, 7
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+f11
+  rotate: false
+  xy: 793, 28
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 506, 7
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 588, 14
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+f7
+  rotate: false
+  xy: 780, 110
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+f9
+  rotate: false
+  xy: 342, 7
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+obj/1202153
+  rotate: false
+  xy: 518, 96
+  size: 113, 192
+  orig: 113, 192
+  offset: 0, 0
+  index: -1

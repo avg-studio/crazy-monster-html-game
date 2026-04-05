@@ -1,0 +1,55 @@
+
+sk_60_hit.png
+size: 436,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_skill1_shouji_0001
+  rotate: true
+  xy: 2, 158
+  size: 76, 82
+  orig: 150, 165
+  offset: 33, 48
+  index: -1
+TX_skill1_shouji_0004
+  rotate: true
+  xy: 86, 132
+  size: 102, 108
+  orig: 150, 165
+  offset: 20, 32
+  index: -1
+TX_skill1_shouji_0005
+  rotate: true
+  xy: 196, 131
+  size: 103, 116
+  orig: 150, 165
+  offset: 20, 24
+  index: -1
+TX_skill1_shouji_0007
+  rotate: true
+  xy: 2, 10
+  size: 120, 136
+  orig: 150, 165
+  offset: 10, 17
+  index: -1
+TX_skill1_shouji_0009
+  rotate: true
+  xy: 140, 6
+  size: 123, 141
+  orig: 150, 165
+  offset: 10, 12
+  index: -1
+TX_skill1_shouji_0010
+  rotate: true
+  xy: 283, 2
+  size: 126, 151
+  orig: 150, 165
+  offset: 10, 9
+  index: -1
+TX_skill1_shouji_0013
+  rotate: true
+  xy: 314, 130
+  size: 104, 120
+  orig: 150, 165
+  offset: 25, 30
+  index: -1

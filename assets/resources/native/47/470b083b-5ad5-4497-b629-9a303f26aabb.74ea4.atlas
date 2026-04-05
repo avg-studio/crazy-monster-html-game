@@ -1,0 +1,90 @@
+
+btn_battle.png
+size: 367,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 202, 185
+  size: 98, 82
+  orig: 100, 84
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 114, 83
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+a21
+  rotate: false
+  xy: 236, 91
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 286, 6
+  size: 79, 83
+  orig: 81, 85
+  offset: 1, 1
+  index: -1
+b2
+  rotate: true
+  xy: 286, 163
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+b21
+  rotate: true
+  xy: 130, 165
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+btn
+  rotate: false
+  xy: 2, 157
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+btn_2
+  rotate: false
+  xy: 2, 45
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 210, 10
+  size: 74, 34
+  orig: 80, 40
+  offset: 3, 3
+  index: -1
+s2
+  rotate: false
+  xy: 129, 2
+  size: 79, 42
+  orig: 88, 50
+  offset: 4, 4
+  index: -1
+t1
+  rotate: false
+  xy: 2, 8
+  size: 125, 35
+  orig: 127, 37
+  offset: 1, 1
+  index: -1
+t2
+  rotate: false
+  xy: 114, 46
+  size: 124, 35
+  orig: 126, 37
+  offset: 1, 1
+  index: -1

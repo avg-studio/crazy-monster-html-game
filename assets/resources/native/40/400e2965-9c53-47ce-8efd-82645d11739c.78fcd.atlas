@@ -1,0 +1,27 @@
+
+buff_holy.png
+size: 91,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light02 2
+  rotate: false
+  xy: 2, 2
+  size: 55, 53
+  orig: 56, 55
+  offset: 0, 1
+  index: -1
+ring
+  rotate: false
+  xy: 2, 135
+  size: 87, 88
+  orig: 89, 89
+  offset: 1, 0
+  index: -1
+ring2
+  rotate: false
+  xy: 2, 57
+  size: 81, 76
+  orig: 83, 83
+  offset: 1, 1
+  index: -1

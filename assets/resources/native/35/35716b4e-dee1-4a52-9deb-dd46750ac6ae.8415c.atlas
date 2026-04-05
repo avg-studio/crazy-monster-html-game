@@ -1,0 +1,55 @@
+
+hs_6_8.png
+size: 1295,673
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_8_1
+  rotate: false
+  xy: 2, 3
+  size: 874, 669
+  orig: 874, 669
+  offset: 0, 0
+  index: -1
+6_8_2
+  rotate: true
+  xy: 45, 560
+  size: 112, 1141
+  orig: 112, 1141
+  offset: 0, 0
+  index: -1
+6_8_3
+  rotate: true
+  xy: 331, 344
+  size: 190, 806
+  orig: 190, 806
+  offset: 0, 0
+  index: -1
+6_8_4
+  rotate: true
+  xy: 696, 24
+  size: 279, 514
+  orig: 279, 514
+  offset: 0, 0
+  index: -1
+6_8_5
+  rotate: true
+  xy: 363, 132
+  size: 231, 929
+  orig: 231, 929
+  offset: 0, 0
+  index: -1
+6_8_6
+  rotate: false
+  xy: 2, 105
+  size: 27, 360
+  orig: 27, 387
+  offset: 0, 0
+  index: -1
+6_8_7
+  rotate: true
+  xy: 85, 520
+  size: 39, 530
+  orig: 39, 530
+  offset: 0, 0
+  index: -1

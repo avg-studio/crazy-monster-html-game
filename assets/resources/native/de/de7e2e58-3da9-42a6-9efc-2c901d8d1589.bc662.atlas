@@ -1,0 +1,90 @@
+
+buff_heal.png
+size: 314,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_zhiliao_0001
+  rotate: false
+  xy: 260, 85
+  size: 51, 68
+  orig: 57, 80
+  offset: 4, 7
+  index: -1
+TX_zhiliao_0003
+  rotate: false
+  xy: 226, 14
+  size: 53, 68
+  orig: 57, 80
+  offset: 2, 8
+  index: -1
+TX_zhiliao_0005
+  rotate: false
+  xy: 149, 81
+  size: 55, 72
+  orig: 57, 80
+  offset: 0, 5
+  index: -1
+TX_zhiliao_0007
+  rotate: false
+  xy: 2, 2
+  size: 55, 74
+  orig: 57, 80
+  offset: 0, 3
+  index: -1
+TX_zhiliao_0009
+  rotate: false
+  xy: 2, 78
+  size: 54, 75
+  orig: 57, 80
+  offset: 0, 3
+  index: -1
+TX_zhiliao_0011
+  rotate: false
+  xy: 58, 79
+  size: 54, 74
+  orig: 57, 80
+  offset: 0, 4
+  index: -1
+TX_zhiliao_0013
+  rotate: false
+  xy: 59, 3
+  size: 54, 74
+  orig: 57, 80
+  offset: 0, 4
+  index: -1
+TX_zhiliao_0015
+  rotate: false
+  xy: 115, 4
+  size: 54, 73
+  orig: 57, 80
+  offset: 0, 5
+  index: -1
+TX_zhiliao_0017
+  rotate: false
+  xy: 171, 10
+  size: 53, 69
+  orig: 57, 80
+  offset: 1, 5
+  index: -1
+TX_zhiliao_0019
+  rotate: false
+  xy: 206, 84
+  size: 52, 69
+  orig: 57, 80
+  offset: 3, 6
+  index: -1
+skill1_guangyun_0001
+  rotate: false
+  xy: 281, 52
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+skill1_guangzhu_0001
+  rotate: false
+  xy: 114, 79
+  size: 33, 74
+  orig: 39, 76
+  offset: 3, 1
+  index: -1

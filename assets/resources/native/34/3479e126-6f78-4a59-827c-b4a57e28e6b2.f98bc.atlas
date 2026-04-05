@@ -1,0 +1,48 @@
+
+sk_82.png
+size: 579,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu0001
+  rotate: false
+  xy: 103, 2
+  size: 98, 70
+  orig: 100, 70
+  offset: 1, 0
+  index: -1
+qiu0002
+  rotate: false
+  xy: 498, 3
+  size: 79, 69
+  orig: 100, 70
+  offset: 1, 1
+  index: -1
+qiu0003
+  rotate: false
+  xy: 401, 4
+  size: 95, 68
+  orig: 100, 70
+  offset: 1, 2
+  index: -1
+qiu0004
+  rotate: false
+  xy: 203, 2
+  size: 98, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+qiu0005
+  rotate: false
+  xy: 2, 2
+  size: 99, 70
+  orig: 100, 70
+  offset: 1, 0
+  index: -1
+qiu0006
+  rotate: false
+  xy: 303, 2
+  size: 96, 70
+  orig: 100, 70
+  offset: 1, 0
+  index: -1

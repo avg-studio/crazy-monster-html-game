@@ -1,0 +1,153 @@
+
+sk_41_hit.png
+size: 154,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bzy0000
+  rotate: false
+  xy: 2, 2
+  size: 17, 16
+  orig: 18, 17
+  offset: 1, 0
+  index: -1
+effect/bzy0001
+  rotate: true
+  xy: 73, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+effect/bzy0002
+  rotate: true
+  xy: 92, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+effect/bzy0003
+  rotate: true
+  xy: 98, 26
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+effect/bzy0004
+  rotate: true
+  xy: 111, 6
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+effect/gy0000
+  rotate: false
+  xy: 143, 6
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+effect/js0000
+  rotate: true
+  xy: 44, 4
+  size: 14, 7
+  orig: 15, 8
+  offset: 1, 1
+  index: -1
+effect/js0001
+  rotate: true
+  xy: 34, 4
+  size: 14, 8
+  orig: 15, 8
+  offset: 1, 0
+  index: -1
+effect/js0002
+  rotate: true
+  xy: 117, 31
+  size: 13, 8
+  orig: 15, 8
+  offset: 1, 0
+  index: -1
+effect/js0003
+  rotate: true
+  xy: 127, 31
+  size: 13, 7
+  orig: 15, 8
+  offset: 1, 1
+  index: -1
+effect/js0004
+  rotate: true
+  xy: 130, 16
+  size: 13, 7
+  orig: 15, 8
+  offset: 1, 0
+  index: -1
+effect/js0005
+  rotate: true
+  xy: 136, 31
+  size: 13, 7
+  orig: 15, 8
+  offset: 1, 0
+  index: -1
+effect/js0006
+  rotate: true
+  xy: 145, 33
+  size: 11, 5
+  orig: 15, 8
+  offset: 2, 1
+  index: -1
+effect/sj0000
+  rotate: false
+  xy: 130, 2
+  size: 11, 12
+  orig: 24, 23
+  offset: 6, 5
+  index: -1
+effect/sj0001
+  rotate: false
+  xy: 53, 2
+  size: 18, 18
+  orig: 24, 23
+  offset: 3, 2
+  index: -1
+effect/sj0002
+  rotate: true
+  xy: 52, 22
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+effect/sj0003
+  rotate: true
+  xy: 75, 22
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+effect/sj0004
+  rotate: true
+  xy: 2, 20
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+effect/sj0005
+  rotate: true
+  xy: 27, 20
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+effect/sj0006
+  rotate: true
+  xy: 139, 17
+  size: 12, 10
+  orig: 24, 23
+  offset: 8, 5
+  index: -1
+effect/sp0000
+  rotate: true
+  xy: 21, 3
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1

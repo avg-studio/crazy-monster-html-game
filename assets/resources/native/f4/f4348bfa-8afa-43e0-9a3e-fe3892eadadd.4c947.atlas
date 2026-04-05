@@ -1,0 +1,48 @@
+
+hs_9_4.png
+size: 1143,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9_4_1
+  rotate: false
+  xy: 2, 141
+  size: 396, 374
+  orig: 396, 374
+  offset: 0, 0
+  index: -1
+9_4_2
+  rotate: 270
+  xy: 338, 3
+  size: 205, 296
+  orig: 205, 296
+  offset: 0, 0
+  index: -1
+9_4_3
+  rotate: false
+  xy: 885, 4
+  size: 124, 300
+  orig: 124, 300
+  offset: 0, 0
+  index: -1
+9_4_4
+  rotate: 180
+  xy: 673, 119
+  size: 284, 316
+  orig: 284, 317
+  offset: 0, 1
+  index: -1
+9_4_5
+  rotate: false
+  xy: 357, 120
+  size: 333, 396
+  orig: 333, 588
+  offset: 0, 192
+  index: -1
+9_4_6
+  rotate: 180
+  xy: 902, 52
+  size: 238, 464
+  orig: 238, 464
+  offset: 0, 0
+  index: -1

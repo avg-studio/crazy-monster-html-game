@@ -1,0 +1,13 @@
+
+atk_3_skin_33.png
+size: 92,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1

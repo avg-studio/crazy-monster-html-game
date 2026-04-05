@@ -1,0 +1,62 @@
+
+mag_hit.png
+size: 590,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mag_hit
+  rotate: true
+  xy: 504, 204
+  size: 105, 84
+  orig: 110, 90
+  offset: 3, 3
+  index: -1
+mag_hit0
+  rotate: false
+  xy: 325, 19
+  size: 117, 117
+  orig: 120, 120
+  offset: 2, 1
+  index: -1
+mag_hit1
+  rotate: true
+  xy: 444, 23
+  size: 113, 143
+  orig: 200, 185
+  offset: 56, 21
+  index: -1
+mag_hit2
+  rotate: false
+  xy: 2, 148
+  size: 170, 161
+  orig: 200, 185
+  offset: 15, 12
+  index: -1
+mag_hit3
+  rotate: false
+  xy: 174, 152
+  size: 173, 157
+  orig: 200, 185
+  offset: 14, 13
+  index: -1
+mag_hit4
+  rotate: true
+  xy: 349, 138
+  size: 171, 153
+  orig: 200, 185
+  offset: 15, 15
+  index: -1
+mag_hit5
+  rotate: false
+  xy: 174, 2
+  size: 149, 148
+  orig: 200, 185
+  offset: 34, 19
+  index: -1
+mag_hit6
+  rotate: false
+  xy: 2, 6
+  size: 152, 140
+  orig: 200, 185
+  offset: 28, 27
+  index: -1

@@ -1,0 +1,13 @@
+
+sk_1.png
+size: 91,25
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_bullet_arrow_L
+  rotate: false
+  xy: 2, 2
+  size: 87, 21
+  orig: 87, 21
+  offset: 0, 0
+  index: -1

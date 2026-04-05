@@ -1,0 +1,13 @@
+
+hs_11_bg.png
+size: 380,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 3
+  size: 376, 744
+  orig: 376, 844
+  offset: 0, 100
+  index: -1

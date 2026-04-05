@@ -1,0 +1,41 @@
+
+hs_7_5.png
+size: 519,794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_5_1
+  rotate: true
+  xy: 259, 62
+  size: 327, 258
+  orig: 328, 259
+  offset: 0, 0
+  index: -1
+7_5_2
+  rotate: false
+  xy: 2, 319
+  size: 509, 473
+  orig: 510, 473
+  offset: 0, 0
+  index: -1
+7_5_3
+  rotate: 270
+  xy: 2, 177
+  size: 328, 278
+  orig: 328, 278
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 3
+  size: 171, 171
+  orig: 187, 186
+  offset: 8, 7
+  index: -1
+vfx
+  rotate: false
+  xy: 175, 6
+  size: 191, 66
+  orig: 191, 66
+  offset: 0, 0
+  index: -1

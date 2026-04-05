@@ -1,0 +1,48 @@
+
+phy_hit_3.png
+size: 117,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_S1_lizi_0061
+  rotate: false
+  xy: 71, 168
+  size: 44, 52
+  orig: 89, 126
+  offset: 0, 30
+  index: -1
+TX_S1_lizi_0062
+  rotate: true
+  xy: 2, 2
+  size: 67, 88
+  orig: 89, 126
+  offset: 0, 16
+  index: -1
+TX_S1_lizi_0063
+  rotate: true
+  xy: 2, 71
+  size: 67, 112
+  orig: 89, 126
+  offset: 15, 6
+  index: -1
+TX_S1_lizi_0064
+  rotate: false
+  xy: 2, 140
+  size: 67, 125
+  orig: 89, 126
+  offset: 20, 1
+  index: -1
+TX_S1_lizi_0065
+  rotate: false
+  xy: 2, 267
+  size: 67, 126
+  orig: 89, 126
+  offset: 22, 0
+  index: -1
+xian_00000
+  rotate: true
+  xy: 71, 222
+  size: 171, 39
+  orig: 180, 57
+  offset: 5, 9
+  index: -1

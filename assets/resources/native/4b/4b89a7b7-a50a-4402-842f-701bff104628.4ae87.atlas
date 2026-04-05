@@ -1,0 +1,48 @@
+
+sk_24_hit.png
+size: 321,41
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firebolt01
+  rotate: false
+  xy: 122, 2
+  size: 54, 37
+  orig: 62, 41
+  offset: 6, 2
+  index: -1
+firebolt02
+  rotate: false
+  xy: 178, 2
+  size: 54, 37
+  orig: 60, 41
+  offset: 4, 2
+  index: -1
+firebolt03
+  rotate: false
+  xy: 63, 2
+  size: 57, 37
+  orig: 64, 41
+  offset: 5, 2
+  index: -1
+firebolt04
+  rotate: false
+  xy: 2, 2
+  size: 59, 37
+  orig: 66, 41
+  offset: 5, 2
+  index: -1
+shock
+  rotate: true
+  xy: 234, 2
+  size: 37, 54
+  orig: 41, 57
+  offset: 2, 2
+  index: -1
+twistglow
+  rotate: true
+  xy: 290, 6
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1

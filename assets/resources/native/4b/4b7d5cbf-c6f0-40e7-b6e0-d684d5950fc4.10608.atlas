@@ -1,0 +1,27 @@
+
+buff_sk_81.png
+size: 133,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 51, 5
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 106, 23
+  size: 25, 26
+  orig: 28, 28
+  offset: 2, 1
+  index: -1
+guangdian
+  rotate: false
+  xy: 2, 2
+  size: 47, 47
+  orig: 55, 55
+  offset: 4, 4
+  index: -1

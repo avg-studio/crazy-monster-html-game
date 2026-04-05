@@ -1,0 +1,13 @@
+
+hs_8_bg.png
+size: 380,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_0
+  rotate: false
+  xy: 2, 2
+  size: 376, 582
+  orig: 376, 582
+  offset: 0, 0
+  index: -1

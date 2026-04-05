@@ -1,0 +1,27 @@
+
+buff_fridge.png
+size: 282,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice
+  rotate: true
+  xy: 2, 2
+  size: 95, 118
+  orig: 95, 122
+  offset: 0, 4
+  index: -1
+smog
+  rotate: true
+  xy: 122, 4
+  size: 93, 86
+  orig: 101, 108
+  offset: 6, 5
+  index: -1
+snow
+  rotate: false
+  xy: 210, 27
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

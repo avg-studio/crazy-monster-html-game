@@ -1,0 +1,104 @@
+
+newserver.png
+size: 1003,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 678, 372
+  size: 247, 216
+  orig: 249, 221
+  offset: 1, 4
+  index: -1
+1_2
+  rotate: false
+  xy: 678, 187
+  size: 251, 183
+  orig: 254, 185
+  offset: 1, 1
+  index: -1
+1_3
+  rotate: false
+  xy: 678, 590
+  size: 323, 316
+  orig: 334, 346
+  offset: 5, 16
+  index: -1
+2_1
+  rotate: false
+  xy: 426, 39
+  size: 122, 100
+  orig: 127, 105
+  offset: 2, 3
+  index: -1
+2_2
+  rotate: false
+  xy: 550, 39
+  size: 121, 100
+  orig: 127, 104
+  offset: 3, 2
+  index: -1
+2_3
+  rotate: false
+  xy: 173, 46
+  size: 251, 93
+  orig: 259, 98
+  offset: 4, 2
+  index: -1
+3_2
+  rotate: false
+  xy: 678, 2
+  size: 132, 183
+  orig: 134, 188
+  offset: 1, 4
+  index: -1
+3_4
+  rotate: false
+  xy: 812, 4
+  size: 140, 181
+  orig: 140, 184
+  offset: 0, 3
+  index: -1
+3_5
+  rotate: false
+  xy: 927, 449
+  size: 69, 139
+  orig: 69, 142
+  offset: 0, 3
+  index: -1
+3_6_1
+  rotate: false
+  xy: 2, 2
+  size: 169, 137
+  orig: 169, 137
+  offset: 0, 0
+  index: -1
+3_6_2
+  rotate: true
+  xy: 173, 33
+  size: 11, 126
+  orig: 11, 129
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 2, 387
+  size: 674, 244
+  orig: 682, 252
+  offset: 4, 4
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 633
+  size: 674, 273
+  orig: 682, 278
+  offset: 4, 4
+  index: -1
+bg_3
+  rotate: false
+  xy: 2, 141
+  size: 674, 244
+  orig: 682, 252
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,139 @@
+
+sk_89_hit.png
+size: 84,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hshouji_00000
+  rotate: true
+  xy: 30, 2
+  size: 23, 25
+  orig: 48, 50
+  offset: 11, 13
+  index: -1
+Hshouji_00001
+  rotate: true
+  xy: 49, 158
+  size: 27, 29
+  orig: 48, 50
+  offset: 10, 11
+  index: -1
+Hshouji_00002
+  rotate: true
+  xy: 2, 42
+  size: 35, 38
+  orig: 48, 50
+  offset: 6, 8
+  index: -1
+Hshouji_00003
+  rotate: true
+  xy: 2, 132
+  size: 43, 44
+  orig: 48, 50
+  offset: 2, 5
+  index: -1
+TX_g
+  rotate: false
+  xy: 52, 258
+  size: 29, 29
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+at_shouji1_00002
+  rotate: false
+  xy: 57, 4
+  size: 22, 21
+  orig: 38, 38
+  offset: 8, 9
+  index: -1
+at_shouji1_00003
+  rotate: false
+  xy: 2, 15
+  size: 26, 25
+  orig: 38, 38
+  offset: 5, 7
+  index: -1
+at_shouji1_00004
+  rotate: false
+  xy: 48, 129
+  size: 29, 27
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+at_shouji1_00007
+  rotate: false
+  xy: 50, 187
+  size: 32, 33
+  orig: 38, 38
+  offset: 3, 3
+  index: -1
+at_shouji1_00010
+  rotate: true
+  xy: 45, 54
+  size: 35, 37
+  orig: 38, 38
+  offset: 2, 1
+  index: -1
+at_shouji1_00013
+  rotate: false
+  xy: 46, 91
+  size: 36, 36
+  orig: 38, 38
+  offset: 2, 1
+  index: -1
+at_shouji1_00016
+  rotate: true
+  xy: 51, 222
+  size: 34, 31
+  orig: 38, 38
+  offset: 2, 5
+  index: -1
+sk1_lizi_00000
+  rotate: false
+  xy: 42, 27
+  size: 38, 25
+  orig: 51, 32
+  offset: 7, 0
+  index: -1
+sk1_lizi_00001
+  rotate: false
+  xy: 2, 79
+  size: 41, 26
+  orig: 51, 32
+  offset: 5, 0
+  index: -1
+sk1_lizi_00002
+  rotate: false
+  xy: 2, 107
+  size: 42, 23
+  orig: 51, 32
+  offset: 4, 2
+  index: -1
+sk1_lizi_00003
+  rotate: false
+  xy: 2, 177
+  size: 45, 26
+  orig: 51, 32
+  offset: 3, 2
+  index: -1
+sk1_lizi_00004
+  rotate: false
+  xy: 2, 205
+  size: 46, 26
+  orig: 51, 32
+  offset: 2, 3
+  index: -1
+sk1_lizi_00005
+  rotate: false
+  xy: 2, 233
+  size: 47, 26
+  orig: 51, 32
+  offset: 1, 5
+  index: -1
+sk1_lizi_00006
+  rotate: false
+  xy: 2, 261
+  size: 48, 26
+  orig: 51, 32
+  offset: 1, 5
+  index: -1

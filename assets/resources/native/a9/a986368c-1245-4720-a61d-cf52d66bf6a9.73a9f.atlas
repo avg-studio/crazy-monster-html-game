@@ -1,0 +1,34 @@
+
+hs_6_9.png
+size: 647,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_9_1
+  rotate: false
+  xy: 2, 103
+  size: 444, 468
+  orig: 444, 468
+  offset: 0, 0
+  index: -1
+6_9_2
+  rotate: true
+  xy: 91, 3
+  size: 339, 382
+  orig: 339, 382
+  offset: 0, 0
+  index: -1
+6_9_3
+  rotate: 270
+  xy: 398, 200
+  size: 247, 211
+  orig: 248, 213
+  offset: 1, 1
+  index: -1
+6_9_4
+  rotate: false
+  xy: 468, 26
+  size: 177, 182
+  orig: 178, 183
+  offset: 0, 0
+  index: -1

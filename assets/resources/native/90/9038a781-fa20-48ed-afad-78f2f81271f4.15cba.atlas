@@ -1,0 +1,83 @@
+
+build_talent.png
+size: 687,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 4
+  size: 164, 238
+  orig: 205, 363
+  offset: 21, 58
+  index: -1
+2
+  rotate: false
+  xy: 603, 8
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 242, 45
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+e_a1
+  rotate: false
+  xy: 505, 28
+  size: 96, 57
+  orig: 98, 61
+  offset: 1, 2
+  index: -1
+e_a2
+  rotate: false
+  xy: 242, 2
+  size: 117, 41
+  orig: 121, 45
+  offset: 2, 2
+  index: -1
+e_a3
+  rotate: false
+  xy: 398, 29
+  size: 105, 56
+  orig: 108, 58
+  offset: 2, 1
+  index: -1
+e_a4
+  rotate: true
+  xy: 340, 46
+  size: 122, 56
+  orig: 124, 60
+  offset: 1, 2
+  index: -1
+e_b1
+  rotate: true
+  xy: 481, 87
+  size: 81, 69
+  orig: 85, 72
+  offset: 2, 1
+  index: -1
+e_b2
+  rotate: true
+  xy: 552, 88
+  size: 80, 66
+  orig: 82, 68
+  offset: 1, 1
+  index: -1
+e_b3
+  rotate: false
+  xy: 398, 87
+  size: 81, 81
+  orig: 85, 85
+  offset: 2, 2
+  index: -1
+e_b4
+  rotate: true
+  xy: 620, 96
+  size: 72, 65
+  orig: 75, 69
+  offset: 1, 2
+  index: -1

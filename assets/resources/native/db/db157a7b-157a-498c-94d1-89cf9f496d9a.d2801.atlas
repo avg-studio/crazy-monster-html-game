@@ -1,0 +1,76 @@
+
+leader_hurt.png
+size: 737,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_0005
+  rotate: false
+  xy: 680, 11
+  size: 55, 71
+  orig: 324, 461
+  offset: 135, 198
+  index: -1
+b_0006
+  rotate: true
+  xy: 462, 19
+  size: 63, 67
+  orig: 324, 461
+  offset: 130, 210
+  index: -1
+b_0007
+  rotate: false
+  xy: 392, 16
+  size: 68, 66
+  orig: 324, 461
+  offset: 128, 215
+  index: -1
+b_0008
+  rotate: false
+  xy: 531, 22
+  size: 72, 60
+  orig: 324, 461
+  offset: 127, 225
+  index: -1
+b_0009
+  rotate: false
+  xy: 605, 26
+  size: 73, 56
+  orig: 324, 461
+  offset: 127, 232
+  index: -1
+b_0010
+  rotate: true
+  xy: 640, 13
+  size: 11, 29
+  orig: 324, 461
+  offset: 155, 237
+  index: -1
+b_0011
+  rotate: false
+  xy: 605, 2
+  size: 33, 22
+  orig: 324, 461
+  offset: 125, 262
+  index: -1
+c_0005
+  rotate: false
+  xy: 2, 4
+  size: 147, 147
+  orig: 324, 461
+  offset: 88, 157
+  index: -1
+c_0006
+  rotate: true
+  xy: 151, 9
+  size: 142, 239
+  orig: 324, 461
+  offset: 91, 110
+  index: -1
+c_0007
+  rotate: true
+  xy: 392, 84
+  size: 67, 343
+  orig: 324, 461
+  offset: 124, 58
+  index: -1

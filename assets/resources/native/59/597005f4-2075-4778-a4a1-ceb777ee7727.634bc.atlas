@@ -1,0 +1,20 @@
+
+atk_5.png
+size: 54,39
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_Light01
+  rotate: false
+  xy: 39, 24
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+eff_wind
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: -1

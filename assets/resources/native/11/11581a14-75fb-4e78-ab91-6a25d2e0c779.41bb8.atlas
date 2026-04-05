@@ -1,0 +1,83 @@
+
+sk_98_hit.png
+size: 373,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/4845-baozha2
+  rotate: true
+  xy: 103, 63
+  size: 119, 120
+  orig: 120, 120
+  offset: 1, 0
+  index: -1
+ef/TX_bl_00004
+  rotate: true
+  xy: 235, 145
+  size: 92, 121
+  orig: 106, 154
+  offset: 12, 14
+  index: -1
+ef/TX_bl_00006
+  rotate: false
+  xy: 2, 2
+  size: 99, 134
+  orig: 106, 154
+  offset: 2, 3
+  index: -1
+ef/TX_bl_00008
+  rotate: false
+  xy: 2, 138
+  size: 99, 140
+  orig: 106, 154
+  offset: 2, 3
+  index: -1
+ef/TX_bl_00010
+  rotate: true
+  xy: 103, 184
+  size: 94, 130
+  orig: 106, 154
+  offset: 3, 11
+  index: -1
+ef/TX_dl2
+  rotate: false
+  xy: 235, 239
+  size: 128, 39
+  orig: 132, 44
+  offset: 0, 1
+  index: -1
+ef/TX_zaozi_0007
+  rotate: false
+  xy: 103, 3
+  size: 92, 58
+  orig: 101, 103
+  offset: 5, 40
+  index: -1
+ef/g2
+  rotate: true
+  xy: 197, 10
+  size: 51, 80
+  orig: 60, 88
+  offset: 5, 6
+  index: -1
+ef/gq2
+  rotate: false
+  xy: 279, 58
+  size: 92, 85
+  orig: 94, 94
+  offset: 1, 1
+  index: -1
+ef/tx_guangdiand1
+  rotate: false
+  xy: 225, 114
+  size: 29, 29
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ef/wp
+  rotate: true
+  xy: 279, 7
+  size: 49, 87
+  orig: 50, 88
+  offset: 0, 0
+  index: -1

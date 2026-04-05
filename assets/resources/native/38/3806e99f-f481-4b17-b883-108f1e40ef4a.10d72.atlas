@@ -1,0 +1,27 @@
+
+buff_break.png
+size: 102,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 21
+  size: 57, 59
+  orig: 58, 60
+  offset: 1, 0
+  index: -1
+1
+  rotate: true
+  xy: 61, 42
+  size: 38, 39
+  orig: 39, 40
+  offset: 0, 1
+  index: -1
+2
+  rotate: true
+  xy: 61, 2
+  size: 38, 39
+  orig: 39, 40
+  offset: 0, 1
+  index: -1

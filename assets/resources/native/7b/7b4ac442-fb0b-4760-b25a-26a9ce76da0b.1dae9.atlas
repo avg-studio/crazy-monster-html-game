@@ -1,0 +1,90 @@
+
+get_equip.png
+size: 710,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00386
+  rotate: false
+  xy: 2, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00387
+  rotate: false
+  xy: 61, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00388
+  rotate: false
+  xy: 120, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00389
+  rotate: false
+  xy: 179, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00390
+  rotate: false
+  xy: 238, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00391
+  rotate: false
+  xy: 297, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00392
+  rotate: false
+  xy: 356, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00393
+  rotate: false
+  xy: 415, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00394
+  rotate: false
+  xy: 474, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00395
+  rotate: false
+  xy: 533, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00396
+  rotate: false
+  xy: 592, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1
+00397
+  rotate: false
+  xy: 651, 2
+  size: 57, 209
+  orig: 57, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+atk_9.png
+size: 106,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle01
+  rotate: false
+  xy: 2, 55
+  size: 89, 5
+  orig: 91, 5
+  offset: 0, 0
+  index: -1
+wind01
+  rotate: false
+  xy: 2, 5
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+wind02
+  rotate: true
+  xy: 52, 2
+  size: 51, 52
+  orig: 53, 52
+  offset: 1, 0
+  index: -1

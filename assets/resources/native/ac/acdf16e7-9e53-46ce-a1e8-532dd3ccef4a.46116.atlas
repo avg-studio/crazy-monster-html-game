@@ -1,0 +1,34 @@
+
+buff_burn2.png
+size: 381,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xhh/xhh0000
+  rotate: false
+  xy: 201, 22
+  size: 167, 60
+  orig: 235, 95
+  offset: 30, 2
+  index: -1
+effect/xhh/xhh0004
+  rotate: false
+  xy: 2, 91
+  size: 229, 80
+  orig: 235, 95
+  offset: 4, 2
+  index: -1
+effect/xhh/xhh0008
+  rotate: false
+  xy: 2, 2
+  size: 197, 87
+  orig: 235, 95
+  offset: 27, 2
+  index: -1
+effect/xhh/xhh0012
+  rotate: false
+  xy: 233, 84
+  size: 146, 87
+  orig: 235, 95
+  offset: 60, 2
+  index: -1

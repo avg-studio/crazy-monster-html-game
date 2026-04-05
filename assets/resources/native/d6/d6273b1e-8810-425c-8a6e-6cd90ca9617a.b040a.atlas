@@ -1,0 +1,167 @@
+
+gem_refine.png
+size: 1024,854
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 195, 28
+  size: 126, 82
+  orig: 134, 91
+  offset: 1, 6
+  index: -1
+001
+  rotate: false
+  xy: 283, 271
+  size: 202, 161
+  orig: 217, 173
+  offset: 6, 6
+  index: -1
+002
+  rotate: true
+  xy: 2, 94
+  size: 84, 148
+  orig: 111, 166
+  offset: 6, 4
+  index: -1
+arm1
+  rotate: true
+  xy: 487, 205
+  size: 168, 184
+  orig: 172, 187
+  offset: 3, 1
+  index: -1
+arm1_2
+  rotate: false
+  xy: 791, 229
+  size: 187, 173
+  orig: 190, 175
+  offset: 3, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 673, 105
+  size: 122, 174
+  orig: 124, 176
+  offset: 2, 1
+  index: -1
+body
+  rotate: true
+  xy: 548, 565
+  size: 287, 337
+  orig: 287, 337
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 878, 793
+  size: 112, 59
+  orig: 114, 62
+  offset: 1, 2
+  index: -1
+hammer1
+  rotate: false
+  xy: 2, 469
+  size: 310, 192
+  orig: 313, 194
+  offset: 2, 0
+  index: -1
+hammer2
+  rotate: false
+  xy: 560, 375
+  size: 229, 195
+  orig: 232, 197
+  offset: 1, 1
+  index: -1
+hand1
+  rotate: false
+  xy: 673, 266
+  size: 113, 107
+  orig: 115, 109
+  offset: 2, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 796, 404
+  size: 370, 219
+  orig: 370, 219
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 314, 434
+  size: 244, 187
+  orig: 246, 189
+  offset: 2, 1
+  index: -1
+iron
+  rotate: false
+  xy: 2, 341
+  size: 279, 126
+  orig: 281, 128
+  offset: 1, 1
+  index: -1
+moustache1
+  rotate: true
+  xy: 342, 67
+  size: 137, 226
+  orig: 137, 226
+  offset: 0, 0
+  index: -1
+moustache2
+  rotate: true
+  xy: 10, 3
+  size: 107, 182
+  orig: 107, 182
+  offset: 0, 0
+  index: -1
+moustache3
+  rotate: 180
+  xy: 520, 41
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 868, 22
+  size: 154, 112
+  orig: 154, 116
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 663
+  size: 544, 190
+  orig: 544, 300
+  offset: 0, 110
+  index: -1
+tx_1_0001
+  rotate: false
+  xy: 2, 180
+  size: 172, 159
+  orig: 180, 170
+  offset: 0, 10
+  index: -1
+tx_1_0002
+  rotate: false
+  xy: 176, 112
+  size: 164, 157
+  orig: 180, 170
+  offset: 8, 8
+  index: -1
+tx_1_0003
+  rotate: false
+  xy: 849, 125
+  size: 127, 102
+  orig: 180, 170
+  offset: 11, 38
+  index: -1
+tx_1_0004
+  rotate: false
+  xy: 429, 35
+  size: 89, 71
+  orig: 180, 170
+  offset: 43, 58
+  index: -1

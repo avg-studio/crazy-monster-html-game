@@ -1,0 +1,258 @@
+
+17_skin_3.png
+size: 760,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dg/1
+  rotate: true
+  xy: 685, 28
+  size: 75, 33
+  orig: 105, 112
+  offset: 3, 78
+  index: -1
+effect/dg/2
+  rotate: false
+  xy: 311, 159
+  size: 99, 108
+  orig: 105, 112
+  offset: 5, 2
+  index: -1
+effect/dg/3
+  rotate: false
+  xy: 494, 163
+  size: 68, 104
+  orig: 105, 112
+  offset: 35, 1
+  index: -1
+effect/dg/4
+  rotate: false
+  xy: 609, 7
+  size: 74, 93
+  orig: 105, 112
+  offset: 28, 1
+  index: -1
+effect/dg/5
+  rotate: false
+  xy: 555, 102
+  size: 78, 59
+  orig: 105, 112
+  offset: 22, 3
+  index: -1
+effect/skill1.1/dl_00024
+  rotate: true
+  xy: 308, 4
+  size: 89, 35
+  orig: 89, 39
+  offset: 0, 2
+  index: -1
+effect/skill1.1/g_00021_00021
+  rotate: false
+  xy: 412, 159
+  size: 80, 108
+  orig: 88, 132
+  offset: 3, 1
+  index: -1
+effect/skill1.1/gy_00002
+  rotate: false
+  xy: 443, 2
+  size: 11, 11
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+effect/skill1.1/q_00025
+  rotate: true
+  xy: 260, 143
+  size: 124, 49
+  orig: 131, 53
+  offset: 4, 2
+  index: -1
+effect/skill1.1/sj_00023
+  rotate: true
+  xy: 443, 15
+  size: 79, 64
+  orig: 81, 68
+  offset: 1, 3
+  index: -1
+effect/skill2.2/gq_00021
+  rotate: true
+  xy: 114, 2
+  size: 91, 103
+  orig: 95, 108
+  offset: 2, 5
+  index: -1
+effect/skill2.2/lz_00026
+  rotate: false
+  xy: 56, 3
+  size: 56, 47
+  orig: 60, 50
+  offset: 2, 2
+  index: -1
+effect/skill2.2/xt_00016
+  rotate: true
+  xy: 2, 2
+  size: 48, 52
+  orig: 54, 58
+  offset: 2, 3
+  index: -1
+effect/skill3.3/gh_00018
+  rotate: false
+  xy: 661, 236
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+effect/skill3.3/gq_00023
+  rotate: true
+  xy: 509, 2
+  size: 97, 98
+  orig: 105, 102
+  offset: 3, 2
+  index: -1
+effect/skill3.3/gqqq_00025
+  rotate: false
+  xy: 108, 95
+  size: 150, 172
+  orig: 158, 182
+  offset: 4, 5
+  index: -1
+effect/skill3.3/jt_00026
+  rotate: false
+  xy: 634, 213
+  size: 25, 38
+  orig: 29, 44
+  offset: 2, 3
+  index: -1
+skin/arm_1
+  rotate: false
+  xy: 434, 96
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+skin/arm_2
+  rotate: false
+  xy: 382, 95
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+skin/ass
+  rotate: false
+  xy: 564, 166
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+skin/body
+  rotate: true
+  xy: 219, 2
+  size: 91, 87
+  orig: 96, 87
+  offset: 5, 0
+  index: -1
+skin/ear_1
+  rotate: false
+  xy: 564, 212
+  size: 68, 55
+  orig: 68, 56
+  offset: 0, 1
+  index: -1
+skin/ear_2
+  rotate: true
+  xy: 260, 95
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+skin/eye_1
+  rotate: false
+  xy: 643, 253
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+skin/eye_2
+  rotate: false
+  xy: 456, 5
+  size: 43, 8
+  orig: 43, 8
+  offset: 0, 0
+  index: -1
+skin/foot_1
+  rotate: true
+  xy: 643, 180
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+skin/foot_2
+  rotate: true
+  xy: 721, 104
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+skin/hand_1
+  rotate: true
+  xy: 311, 95
+  size: 62, 69
+  orig: 62, 76
+  offset: 0, 7
+  index: -1
+skin/hand_2
+  rotate: false
+  xy: 497, 101
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+skin/hat
+  rotate: false
+  xy: 685, 212
+  size: 72, 55
+  orig: 75, 67
+  offset: 0, 2
+  index: -1
+skin/head
+  rotate: true
+  xy: 345, 5
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+skin/leg_1
+  rotate: false
+  xy: 691, 105
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+skin/leg_2
+  rotate: false
+  xy: 720, 77
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+skin/shoulder_1
+  rotate: true
+  xy: 691, 135
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+skin/shoulder_2
+  rotate: false
+  xy: 635, 105
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+skin/weapon
+  rotate: true
+  xy: 2, 52
+  size: 215, 104
+  orig: 215, 105
+  offset: 0, 1
+  index: -1

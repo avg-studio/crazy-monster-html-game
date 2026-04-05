@@ -1,0 +1,111 @@
+
+31b_skin_22.png
+size: 140,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 75, 126
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+TX_0002
+  rotate: false
+  xy: 38, 2
+  size: 15, 8
+  orig: 20, 13
+  offset: 1, 0
+  index: -1
+TX_0004
+  rotate: false
+  xy: 55, 2
+  size: 16, 11
+  orig: 20, 13
+  offset: 3, 0
+  index: -1
+TX_0006
+  rotate: true
+  xy: 73, 3
+  size: 15, 11
+  orig: 20, 13
+  offset: 4, 1
+  index: -1
+TX_0008
+  rotate: false
+  xy: 86, 2
+  size: 14, 12
+  orig: 20, 13
+  offset: 5, 1
+  index: -1
+TX_0010
+  rotate: false
+  xy: 81, 38
+  size: 7, 4
+  orig: 20, 13
+  offset: 7, 8
+  index: -1
+body
+  rotate: false
+  xy: 2, 43
+  size: 71, 97
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+brow
+  rotate: true
+  xy: 38, 12
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 48, 15
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 90, 16
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 59, 20
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 102, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 75, 44
+  size: 17, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+vfx/vfx_attack
+  rotate: true
+  xy: 75, 63
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+x_guangdian
+  rotate: false
+  xy: 2, 6
+  size: 34, 35
+  orig: 36, 36
+  offset: 1, 0
+  index: -1

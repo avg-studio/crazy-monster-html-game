@@ -1,0 +1,167 @@
+
+16_skin_14.png
+size: 204,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm2
+  rotate: true
+  xy: 163, 85
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+arm4
+  rotate: false
+  xy: 103, 11
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+arm5
+  rotate: false
+  xy: 2, 2
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 164
+  size: 120, 99
+  orig: 120, 99
+  offset: 0, 0
+  index: -1
+byan
+  rotate: true
+  xy: 196, 166
+  size: 29, 5
+  orig: 29, 5
+  offset: 0, 0
+  index: -1
+effect/gb0004
+  rotate: true
+  xy: 97, 63
+  size: 29, 28
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+effect/gb0010
+  rotate: false
+  xy: 163, 55
+  size: 28, 28
+  orig: 30, 29
+  offset: 1, 1
+  index: -1
+effect/gy10000
+  rotate: false
+  xy: 196, 197
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+effect/ss0001
+  rotate: false
+  xy: 58, 63
+  size: 37, 29
+  orig: 60, 34
+  offset: 23, 0
+  index: -1
+effect/ss0003
+  rotate: true
+  xy: 24, 61
+  size: 57, 32
+  orig: 60, 34
+  offset: 3, 0
+  index: -1
+effect/ss0005
+  rotate: true
+  xy: 35, 2
+  size: 57, 32
+  orig: 60, 34
+  offset: 3, 0
+  index: -1
+effect/ss0007
+  rotate: false
+  xy: 58, 129
+  size: 58, 33
+  orig: 60, 34
+  offset: 2, 0
+  index: -1
+effect/ss0009
+  rotate: false
+  xy: 58, 94
+  size: 57, 33
+  orig: 60, 34
+  offset: 3, 0
+  index: -1
+effect/ss0011
+  rotate: true
+  xy: 127, 63
+  size: 49, 34
+  orig: 60, 34
+  offset: 4, 0
+  index: -1
+effect/ss0013
+  rotate: true
+  xy: 69, 6
+  size: 55, 32
+  orig: 60, 34
+  offset: 5, 0
+  index: -1
+foot1
+  rotate: true
+  xy: 141, 33
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: true
+  xy: 141, 6
+  size: 25, 21
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+manz1
+  rotate: true
+  xy: 124, 177
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 48
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 124, 205
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 124, 114
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 120
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+zyan
+  rotate: true
+  xy: 192, 139
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+sk_89.png
+size: 43,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1

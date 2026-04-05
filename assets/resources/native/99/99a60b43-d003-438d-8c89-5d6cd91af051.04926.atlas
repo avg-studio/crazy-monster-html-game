@@ -1,0 +1,111 @@
+
+player_lvup.png
+size: 953,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 499, 2
+  size: 58, 49
+  orig: 60, 51
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 386, 7
+  size: 111, 29
+  orig: 113, 31
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 924, 152
+  size: 27, 40
+  orig: 29, 42
+  offset: 1, 1
+  index: -1
+a4
+  rotate: true
+  xy: 176, 7
+  size: 46, 105
+  orig: 48, 107
+  offset: 1, 1
+  index: -1
+a5
+  rotate: false
+  xy: 783, 21
+  size: 84, 91
+  orig: 86, 93
+  offset: 1, 1
+  index: -1
+a6
+  rotate: true
+  xy: 386, 38
+  size: 37, 97
+  orig: 39, 99
+  offset: 1, 1
+  index: -1
+a7
+  rotate: true
+  xy: 485, 53
+  size: 22, 65
+  orig: 24, 67
+  offset: 1, 1
+  index: -1
+a8
+  rotate: true
+  xy: 283, 17
+  size: 36, 101
+  orig: 38, 103
+  offset: 1, 1
+  index: -1
+a9
+  rotate: true
+  xy: 869, 73
+  size: 39, 41
+  orig: 41, 43
+  offset: 1, 1
+  index: -1
+as1
+  rotate: true
+  xy: 2, 55
+  size: 234, 337
+  orig: 240, 343
+  offset: 2, 3
+  index: -1
+b
+  rotate: false
+  xy: 555, 194
+  size: 391, 95
+  orig: 397, 98
+  offset: 3, 1
+  index: -1
+c1
+  rotate: true
+  xy: 2, 7
+  size: 46, 172
+  orig: 46, 172
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 559, 13
+  size: 222, 99
+  orig: 222, 99
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 555, 114
+  size: 78, 367
+  orig: 78, 367
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 341, 77
+  size: 212, 212
+  orig: 230, 230
+  offset: 9, 9
+  index: -1

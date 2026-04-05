@@ -1,0 +1,48 @@
+
+tech_lvup.png
+size: 532,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 370, 8
+  size: 91, 85
+  orig: 116, 107
+  offset: 8, 16
+  index: -1
+LvUp
+  rotate: false
+  xy: 2, 2
+  size: 241, 60
+  orig: 243, 61
+  offset: 1, 1
+  index: -1
+StarUp
+  rotate: false
+  xy: 2, 64
+  size: 244, 63
+  orig: 245, 63
+  offset: 0, 0
+  index: -1
+light-circle
+  rotate: false
+  xy: 463, 26
+  size: 67, 67
+  orig: 75, 78
+  offset: 5, 5
+  index: -1
+light-dot
+  rotate: true
+  xy: 248, 8
+  size: 119, 120
+  orig: 129, 130
+  offset: 5, 9
+  index: -1
+light-line
+  rotate: false
+  xy: 370, 95
+  size: 150, 32
+  orig: 150, 35
+  offset: 0, 1
+  index: -1

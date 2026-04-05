@@ -1,0 +1,13 @@
+
+sk_32.png
+size: 48,19
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zd0000
+  rotate: false
+  xy: 2, 2
+  size: 44, 15
+  orig: 45, 17
+  offset: 0, 1
+  index: -1

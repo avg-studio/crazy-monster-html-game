@@ -1,0 +1,48 @@
+
+hunt_speedline.png
+size: 730,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/L_1
+  rotate: false
+  xy: 2, 2
+  size: 312, 210
+  orig: 312, 211
+  offset: 0, 1
+  index: -1
+vfx/L_1s
+  rotate: false
+  xy: 2, 214
+  size: 312, 211
+  orig: 312, 211
+  offset: 0, 0
+  index: -1
+vfx/L_2
+  rotate: false
+  xy: 316, 33
+  size: 102, 392
+  orig: 103, 392
+  offset: 0, 0
+  index: -1
+vfx/L_2s1
+  rotate: false
+  xy: 524, 36
+  size: 101, 389
+  orig: 101, 389
+  offset: 0, 0
+  index: -1
+vfx/L_2s2
+  rotate: false
+  xy: 420, 35
+  size: 102, 390
+  orig: 102, 390
+  offset: 0, 0
+  index: -1
+vfx/L_3
+  rotate: false
+  xy: 627, 36
+  size: 101, 389
+  orig: 103, 389
+  offset: 0, 0
+  index: -1

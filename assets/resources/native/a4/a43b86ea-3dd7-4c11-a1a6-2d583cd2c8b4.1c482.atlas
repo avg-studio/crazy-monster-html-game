@@ -1,0 +1,27 @@
+
+buff_growth.png
+size: 59,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/leaf01
+  rotate: false
+  xy: 39, 5
+  size: 18, 37
+  orig: 20, 38
+  offset: 1, 0
+  index: -1
+vfx/leaf02
+  rotate: false
+  xy: 2, 17
+  size: 35, 25
+  orig: 36, 27
+  offset: 1, 1
+  index: -1
+vfx/light02
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1

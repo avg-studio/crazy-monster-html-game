@@ -1,0 +1,69 @@
+
+ring_goddess.png
+size: 936,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 325, 5
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 84
+  size: 284, 414
+  orig: 284, 414
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 2, 2
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 159, 7
+  size: 75, 164
+  orig: 77, 164
+  offset: 2, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 288, 89
+  size: 409, 276
+  orig: 409, 290
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 421, 3
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+vfx
+  rotate: false
+  xy: 566, 35
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+wing1_1
+  rotate: false
+  xy: 765, 37
+  size: 111, 195
+  orig: 111, 195
+  offset: 0, 0
+  index: -1
+wing1_2
+  rotate: false
+  xy: 566, 234
+  size: 368, 264
+  orig: 368, 264
+  offset: 0, 0
+  index: -1

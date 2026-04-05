@@ -1,0 +1,27 @@
+
+sk_43.png
+size: 144,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/h/hq0000
+  rotate: false
+  xy: 2, 184
+  size: 131, 189
+  orig: 153, 219
+  offset: 14, 1
+  index: -1
+effect/h/hq0002
+  rotate: false
+  xy: 2, 2
+  size: 140, 180
+  orig: 153, 219
+  offset: 10, 1
+  index: -1
+effect/h/hq0022
+  rotate: false
+  xy: 2, 375
+  size: 128, 200
+  orig: 153, 219
+  offset: 12, 1
+  index: -1

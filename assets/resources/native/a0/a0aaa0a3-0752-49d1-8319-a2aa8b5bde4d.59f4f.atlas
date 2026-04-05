@@ -1,0 +1,34 @@
+
+guild_war.png
+size: 424,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 237, 172
+  orig: 238, 173
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 241, 99
+  size: 75, 181
+  orig: 75, 181
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 367, 39
+  size: 37, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 241, 12
+  size: 85, 124
+  orig: 85, 124
+  offset: 0, 0
+  index: -1

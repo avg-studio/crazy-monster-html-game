@@ -1,0 +1,20 @@
+
+hs_11_raindrop.png
+size: 34,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx/drop_1
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+vfx/drop_2
+  rotate: false
+  xy: 2, 24
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

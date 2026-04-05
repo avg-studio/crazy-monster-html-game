@@ -1,0 +1,62 @@
+
+buff_heal_2.png
+size: 663,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/2fzgy0000
+  rotate: false
+  xy: 626, 177
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+effect/2fzz0000
+  rotate: false
+  xy: 538, 28
+  size: 123, 123
+  orig: 125, 125
+  offset: 1, 1
+  index: -1
+effect/2lz0000
+  rotate: false
+  xy: 582, 153
+  size: 42, 42
+  orig: 50, 48
+  offset: 4, 3
+  index: -1
+effect/2ss0000
+  rotate: true
+  xy: 394, 157
+  size: 38, 186
+  orig: 47, 200
+  offset: 6, 1
+  index: -1
+effect/2xt0000
+  rotate: true
+  xy: 538, 10
+  size: 16, 85
+  orig: 19, 100
+  offset: 2, 8
+  index: -1
+effect/2zbo0000
+  rotate: false
+  xy: 202, 9
+  size: 190, 186
+  orig: 200, 199
+  offset: 9, 8
+  index: -1
+effect/2zbo0010
+  rotate: false
+  xy: 2, 2
+  size: 198, 193
+  orig: 200, 199
+  offset: 1, 5
+  index: -1
+effect/2zl0000
+  rotate: false
+  xy: 394, 13
+  size: 142, 142
+  orig: 150, 150
+  offset: 4, 4
+  index: -1

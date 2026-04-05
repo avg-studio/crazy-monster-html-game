@@ -1,0 +1,384 @@
+
+27_skin_6_hd.png
+size: 1667,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/000
+  rotate: false
+  xy: 503, 177
+  size: 151, 99
+  orig: 160, 109
+  offset: 1, 7
+  index: -1
+effect/001
+  rotate: true
+  xy: 737, 406
+  size: 242, 193
+  orig: 260, 207
+  offset: 7, 7
+  index: -1
+effect/002
+  rotate: false
+  xy: 1033, 105
+  size: 100, 177
+  orig: 133, 199
+  offset: 7, 5
+  index: -1
+effect/baodian0
+  rotate: true
+  xy: 328, 2
+  size: 173, 199
+  orig: 480, 238
+  offset: 151, 19
+  index: -1
+effect/baodian1
+  rotate: true
+  xy: 656, 15
+  size: 261, 230
+  orig: 480, 238
+  offset: 100, 3
+  index: -1
+effect/baodian2
+  rotate: true
+  xy: 296, 208
+  size: 440, 188
+  orig: 480, 238
+  offset: 29, 35
+  index: -1
+effect/baodian4
+  rotate: true
+  xy: 134, 176
+  size: 472, 160
+  orig: 480, 238
+  offset: 8, 45
+  index: -1
+effect/baodian5
+  rotate: true
+  xy: 2, 172
+  size: 476, 130
+  orig: 480, 238
+  offset: 2, 59
+  index: -1
+effect/baodian7
+  rotate: true
+  xy: 670, 323
+  size: 325, 65
+  orig: 480, 238
+  offset: 76, 87
+  index: -1
+effect/d/d0000
+  rotate: false
+  xy: 1319, 322
+  size: 120, 136
+  orig: 144, 157
+  offset: 14, 14
+  index: -1
+effect/d/d0004
+  rotate: true
+  xy: 1035, 292
+  size: 120, 137
+  orig: 144, 157
+  offset: 14, 13
+  index: -1
+effect/d/d0008
+  rotate: false
+  xy: 529, 37
+  size: 120, 138
+  orig: 144, 157
+  offset: 14, 12
+  index: -1
+effect/d/d0012
+  rotate: true
+  xy: 895, 284
+  size: 120, 138
+  orig: 144, 157
+  offset: 14, 12
+  index: -1
+effect/d/d0016
+  rotate: false
+  xy: 1545, 513
+  size: 120, 135
+  orig: 144, 157
+  offset: 14, 15
+  index: -1
+effect/d/d0020
+  rotate: false
+  xy: 1362, 512
+  size: 120, 136
+  orig: 144, 157
+  offset: 14, 14
+  index: -1
+effect/d/d0024
+  rotate: false
+  xy: 1240, 511
+  size: 120, 137
+  orig: 144, 157
+  offset: 14, 13
+  index: -1
+effect/d/d0028
+  rotate: false
+  xy: 1423, 184
+  size: 120, 136
+  orig: 144, 157
+  offset: 14, 14
+  index: -1
+effect/guangxian0
+  rotate: true
+  xy: 1116, 7
+  size: 96, 86
+  orig: 179, 180
+  offset: 54, 29
+  index: -1
+effect/guangxian1
+  rotate: true
+  xy: 1204, 2
+  size: 136, 140
+  orig: 179, 180
+  offset: 33, 11
+  index: -1
+effect/guangxian2
+  rotate: false
+  xy: 1085, 495
+  size: 153, 153
+  orig: 179, 180
+  offset: 21, 10
+  index: -1
+effect/guangxian3
+  rotate: true
+  xy: 168, 12
+  size: 162, 158
+  orig: 179, 180
+  offset: 12, 11
+  index: -1
+effect/guangxian4
+  rotate: true
+  xy: 2, 5
+  size: 165, 164
+  orig: 179, 180
+  offset: 8, 8
+  index: -1
+effect/guangxian5
+  rotate: false
+  xy: 751, 278
+  size: 142, 126
+  orig: 179, 180
+  offset: 22, 17
+  index: -1
+effect/guangxian6
+  rotate: false
+  xy: 1545, 397
+  size: 115, 114
+  orig: 179, 180
+  offset: 32, 23
+  index: -1
+effect/guangyuan1
+  rotate: true
+  xy: 1346, 9
+  size: 139, 138
+  orig: 180, 176
+  offset: 14, 16
+  index: -1
+effect/guangyuan2
+  rotate: false
+  xy: 1486, 44
+  size: 129, 133
+  orig: 180, 176
+  offset: 19, 20
+  index: -1
+effect/guangyuan3
+  rotate: false
+  xy: 1282, 150
+  size: 139, 140
+  orig: 180, 176
+  offset: 16, 18
+  index: -1
+effect/guangyuan4
+  rotate: true
+  xy: 1135, 140
+  size: 150, 145
+  orig: 180, 176
+  offset: 15, 18
+  index: -1
+effect/guangyuan5
+  rotate: true
+  xy: 932, 491
+  size: 157, 151
+  orig: 180, 176
+  offset: 16, 18
+  index: -1
+effect/guangyuan6
+  rotate: false
+  xy: 1441, 375
+  size: 102, 135
+  orig: 180, 176
+  offset: 21, 31
+  index: -1
+effect/lizi_00010
+  rotate: false
+  xy: 455, 180
+  size: 11, 11
+  orig: 14, 15
+  offset: 2, 2
+  index: -1
+skin/arm_1
+  rotate: true
+  xy: 1190, 430
+  size: 63, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+skin/arm_2
+  rotate: true
+  xy: 888, 2
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+skin/ass
+  rotate: false
+  xy: 1001, 414
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+skin/body
+  rotate: true
+  xy: 1545, 179
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+skin/brow
+  rotate: false
+  xy: 296, 177
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+skin/cloak
+  rotate: true
+  xy: 1174, 292
+  size: 131, 143
+  orig: 131, 143
+  offset: 0, 0
+  index: -1
+skin/eye_1
+  rotate: false
+  xy: 414, 189
+  size: 39, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+skin/eye_2
+  rotate: false
+  xy: 455, 193
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+skin/foot_1
+  rotate: false
+  xy: 712, 280
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+skin/foot_2
+  rotate: false
+  xy: 670, 278
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+skin/hair_1
+  rotate: false
+  xy: 1053, 6
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+skin/hair_2
+  rotate: true
+  xy: 977, 2
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+skin/hand_1
+  rotate: false
+  xy: 1131, 425
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+skin/hand_2
+  rotate: false
+  xy: 932, 411
+  size: 67, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+skin/head
+  rotate: false
+  xy: 888, 69
+  size: 143, 207
+  orig: 143, 208
+  offset: 0, 1
+  index: -1
+skin/leg_1
+  rotate: false
+  xy: 1248, 457
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+skin/leg_2
+  rotate: false
+  xy: 1287, 460
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+skin/mouth_1
+  rotate: false
+  xy: 168, 2
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+skin/mouth_2
+  rotate: true
+  xy: 398, 183
+  size: 23, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+skin/shoulder_1
+  rotate: true
+  xy: 1545, 286
+  size: 109, 111
+  orig: 110, 111
+  offset: 1, 0
+  index: -1
+skin/weapon
+  rotate: true
+  xy: 486, 278
+  size: 370, 182
+  orig: 371, 184
+  offset: 1, 1
+  index: -1
+skin/whiskers_1
+  rotate: true
+  xy: 362, 181
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+skin/whiskers_2
+  rotate: false
+  xy: 1327, 473
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
